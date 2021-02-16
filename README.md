@@ -8,28 +8,32 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=20)
 ![GNU](https://img.shields.io/badge/-GNU-gray?style=for-the-badge&logo=gnu&logoWidth=20&logoColor=white)
+![rpi](https://img.shields.io/badge/-rpi-EE0000?style=for-the-badge&logo=raspberry-pi&logoWidth=20)
 
 ![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20)
 ![vim](https://img.shields.io/badge/-vim-green?style=for-the-badge&logo=vim&logoWidth=20)
 
-![rpi](https://img.shields.io/badge/-rpi-red?style=for-the-badge&logo=raspberry-pi&logoWidth=20)
+![bash](https://img.shields.io/badge/-bash-262932?style=for-the-badge&logo=gnu-bash&logoWidth=20&logoColor=white)
 
-![git](https://img.shields.io/badge/-GIT-red?style=for-the-badge&logo=git&logoWidth=20&logoColor=white)
+![git](https://img.shields.io/badge/-GIT-EE0000?style=for-the-badge&logo=git&logoWidth=20&logoColor=white)
 ![ansible](https://img.shields.io/badge/-ansible-black?style=for-the-badge&logo=ansible&logoWidth=20&logoColor=white)
 
-![prom](https://img.shields.io/badge/-Prometheus-orange?style=for-the-badge&logo=prometheus&logoWidth=20&logoColor=white)
-![graylog](https://img.shields.io/badge/-Graylog-red?style=for-the-badge&logo=graylog&logoWidth=20&logoColor=white)
+![grafana](https://img.shields.io/badge/-grafana-F46800?style=for-the-badge&logo=grafana&logoWidth=20&logoColor=white)
+![prom](https://img.shields.io/badge/-Prometheus-F46800?style=for-the-badge&logo=prometheus&logoWidth=20&logoColor=white)
+![graylog](https://img.shields.io/badge/-Graylog-EE0000?style=for-the-badge&logo=graylog&logoWidth=20&logoColor=white)
 
 
 <h2>❤️ Stuff I like...</h2>
 
 ![coffee](https://img.shields.io/badge/-coffee-brown?style=for-the-badge&logo=ko-fi&logoWidth=20&logoColor=white)
 ![gog](https://img.shields.io/badge/-GOG-purple?style=for-the-badge&logo=gog.com&logoWidth=20)
+![plex](https://img.shields.io/badge/-plex-gray?style=for-the-badge&logo=plex&logoWidth=20)
 
 ![tor](https://img.shields.io/badge/-TOR-purple?style=for-the-badge&logo=tor-browser&logoWidth=20)
-![ddg](https://img.shields.io/badge/-duckduckgo-orange?style=for-the-badge&logo=duckduckgo&logoWidth=20&logoColor=white)
-
-![monero]
+![ddg](https://img.shields.io/badge/-duckduckgo-F46800?style=for-the-badge&logo=duckduckgo&logoWidth=20&logoColor=white)
+![ovpn](https://img.shields.io/badge/-openvpn-F46800?style=for-the-badge&logo=openvpn&logoWidth=20&logoColor=white)
+![btc](https://img.shields.io/badge/-bitcoin-gray?style=for-the-badge&logo=bitcoin&logoWidth=20)
+![monero](https://img.shields.io/badge/-monero-gray?style=for-the-badge&logo=monero&logoWidth=20)
 
 <h2>📊 My Statistics </h2>
 
