@@ -1,4 +1,4 @@
-<h1 align=center>Hi there 👋</h>
+<h1 align=center>Hi there 👋</h1>
 <p align=center>I'm Jonah and I'm a system- and network engineer and self-taught developer in my free time.</p>
 
 <hr>
