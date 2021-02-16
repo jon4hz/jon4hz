@@ -1,17 +1,22 @@
 <h1 align=center>Hi there 👋</h1>
-<p align=center>I'm Jonah and I'm a system- and network engineer and self-taught developer in my free time.</p>
+<p align=center>I'm Jonah and I'm a system- and network engineer and self-taught developer in my free time.</p><br>
 
 <h2>📚 Stuff I'm learning...</h2>
 
 
 <h2>🛠 Stuff I'm using...</h2>
 
+#### OS
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=20)
 ![GNU](https://img.shields.io/badge/-GNU-gray?style=for-the-badge&logo=gnu&logoWidth=20&logoColor=white)
 ![rpi](https://img.shields.io/badge/-rpi-EE0000?style=for-the-badge&logo=raspberry-pi&logoWidth=20)
 
-![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20)
-![vim](https://img.shields.io/badge/-vim-green?style=for-the-badge&logo=vim&logoWidth=20)
+
+#### Editors  
+   
+![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20 )
+![vim](https://img.shields.io/badge/-vim-green?style=for-the-badge&logo=vim&logoWidth=20) 
+
 
 ![bash](https://img.shields.io/badge/-bash-262932?style=for-the-badge&logo=gnu-bash&logoWidth=20&logoColor=white)
 
@@ -36,7 +41,7 @@
 ![monero](https://img.shields.io/badge/-monero-gray?style=for-the-badge&logo=monero&logoWidth=20)
 
 <h2>📊 My Statistics </h2>
-
+ 
 ![Jon4hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon4hz&count_private=true&show_icons=true&theme=dark)
 
 <!--
