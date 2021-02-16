@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jon4hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon4hz&count_private=true)
+![Jon4hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon4hz&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **jon4hz/jon4hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
