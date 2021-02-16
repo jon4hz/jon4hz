@@ -1,6 +1,6 @@
 <h1 align=center>Hi there 👋</h>
-
 <p align=center>I'm Jonah and I'm a system- and network engineer and self-taught developer in my free time.</p>
+
 <hr>
 <h2>📚 Stuff I'm learning...</h2>
 
