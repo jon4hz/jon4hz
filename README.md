@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align=center>Hi there 👋</h>
+
+<p align=center>I'm Jonah and I'm a system- and network engineer and self-taught developer in my free time.</p>
+<hr>
+<h2>📚 Stuff I'm learning...</h2>
+
+<hr>
+<h2>🛠 Stuff I'm using...</h2>
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&logoWidth=20)
+![vscode](https://img.shields.io/badge/-vscode-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20)
+![vim](https://img.shields.io/badge/-vim-green?style=for-the-badge&logo=vim&logoWidth=20)
+
+<hr>
+<h2>❤️ Stuff I like...</h2>
+
+<hr>
+<h2>📊 My Statistics </h2>
 
 ![Jon4hz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon4hz&count_private=true&show_icons=true&theme=dark)
 
