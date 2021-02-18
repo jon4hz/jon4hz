@@ -59,4 +59,4 @@
 
 <h2>💬 How to reach me... </h2>
 
-* My <a href="https://getsession.org" target="_blank">Session</a> ID: 05c13776790c6c2dc3f1850460e54a518632132f56b3f94473320df396656a8341
+* My [Session](https://getsession.org) ID: 05c13776790c6c2dc3f1850460e54a518632132f56b3f94473320df396656a8341
