@@ -20,7 +20,6 @@
 
 
 ![git](https://img.shields.io/badge/-GIT-EE0000?style=for-the-badge&logo=git&logoWidth=20&logoColor=white)
-![gitea](https://img.shields.io/badge/-gitea-199900?style=for-the-badge&logo=gitea&logoWidth=20&logoColor=white)
 ![docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoWidth=20&logoColor=white)
 ![ansible](https://img.shields.io/badge/-ansible-black?style=for-the-badge&logo=ansible&logoWidth=20&logoColor=white)
 ![nextcloud](https://img.shields.io/badge/-nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoWidth=20&logoColor=white)
