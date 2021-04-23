@@ -3,8 +3,7 @@
 
 <h2>📚 Stuff I'm learning...</h2>
 
-![go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoWidth=20&logoColor=white)  
-![c](https://img.shields.io/badge/-clang-064F8C?style=for-the-badge&logo=c&logoWidth=20&logoColor=white)
+![go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoWidth=20&logoColor=white)
 
 <h2>🛠 Stuff I'm using...</h2>
 
