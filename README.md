@@ -54,6 +54,9 @@
 ![btc](https://img.shields.io/badge/-bitcoin-gray?style=for-the-badge&logo=bitcoin&logoWidth=20)
 ![eth](https://img.shields.io/badge/-ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoWidth=20&logoColor=white)
 ![xmr](https://img.shields.io/badge/-monero-gray?style=for-the-badge&logo=monero&logoWidth=20)
+![nano](https://img.shields.io/badge/-nano-gray?style=for-the-badge&logo=nano&logoWidth=20&logoColor=4A90E2)
+
+
 
 <h2>📊 My Statistics </h2>
  
