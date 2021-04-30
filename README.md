@@ -5,6 +5,12 @@
 
 ![go](https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoWidth=20&logoColor=white)
 
+> Also, I saw myself forced to face reality and acknowledged that a decent developer should know at least the basics of:  
+
+![html](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoWidth=20&logoColor=white)
+![js](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=black)
+
 <h2>🛠 Stuff I'm using...</h2>
 
 ![Linux](https://img.shields.io/badge/-Linux-F9AB00?style=for-the-badge&logo=linux&logoColor=white&logoWidth=20)
