@@ -67,3 +67,4 @@
 <h2>💬 How to reach me... </h2>
 
 * My [Session](https://getsession.org) ID: 05e2d37b55f92b9a2d745915c3eb994868236b4d6ad5231e274318720b669df90d
+* My Email: me@jon4hz.io
