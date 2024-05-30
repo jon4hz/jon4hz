@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.382.3](https://github.com/renovatebot/renovate/releases/tag/37.382.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), today) - A powerful little TUI framework 🏗
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.382.2](https://github.com/renovatebot/renovate/releases/tag/37.382.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.0](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.0), 2 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 4 weeks ago) - Ansible role to configure 389DS
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.28.0](https://github.com/crazy-max/diun/releases/tag/v4.28.0), 1 month ago) - Receive notifications when an image is updated on a Docker registry
