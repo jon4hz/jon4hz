@@ -40,10 +40,10 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (1 day ago)
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust (1 day ago)
 
+#### 📫 How to reach me
+I'm sure you'll figure something out :)
+
 #### 👀 Things to try out
 ```
 $> ssh hi.jon4hz.io
 ```
-
-#### 📫 How to reach me
-I'm sure you'll figure something out :)
