@@ -25,10 +25,10 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
+#### 📫 How to reach me
+I'm sure you'll figure something out :)
+
 #### 👀 Things to try out
 ```
 $> ssh hi.jon4hz.io
 ```
-
-#### 📫 How to reach me
-I'm sure you'll figure something out :)
