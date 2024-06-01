@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (2 days ago)
+- [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (3 days ago)
 - [jon4hz/submarr](https://github.com/jon4hz/submarr) - A submarrine with sonarr and radarr on board (3 weeks ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [jon4hz/gmotd](https://github.com/jon4hz/gmotd) - 🌅 a configurable motd generator (1 month ago)
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (2 months ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.383.0](https://github.com/renovatebot/renovate/releases/tag/37.383.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 1 day ago) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.383.0](https://github.com/renovatebot/renovate/releases/tag/37.383.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 days ago) - A powerful little TUI framework 🏗
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.0](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.0), 2 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.28.0](https://github.com/crazy-max/diun/releases/tag/v4.28.0), 1 month ago) - Receive notifications when an image is updated on a Docker registry
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 day ago)
-- [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal (2 days ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (2 days ago)
-- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk (2 days ago)
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (2 days ago)
+- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (2 days ago)
+- [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal (3 days ago)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (3 days ago)
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk (3 days ago)
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (3 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
