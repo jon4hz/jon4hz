@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.387.0](https://github.com/renovatebot/renovate/releases/tag/37.387.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.387.1](https://github.com/renovatebot/renovate/releases/tag/37.387.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 4 days ago) - A powerful little TUI framework 🏗
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.0](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.0), 2 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
