@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (today)
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (5 days ago)
 - [jon4hz/submarr](https://github.com/jon4hz/submarr) - A submarrine with sonarr and radarr on board (4 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [jon4hz/gmotd](https://github.com/jon4hz/gmotd) - 🌅 a configurable motd generator (1 month ago)
-- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (2 months ago)
 
 #### 🌱 My latest projects
 
