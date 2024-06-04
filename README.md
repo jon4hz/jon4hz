@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (today)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (5 days ago)
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal (6 days ago)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (6 days ago)
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk (6 days ago)
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
