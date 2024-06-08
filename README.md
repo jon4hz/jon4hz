@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (today)
 - [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (5 days ago)
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (1 week ago)
 - [jon4hz/submarr](https://github.com/jon4hz/submarr) - A submarrine with sonarr and radarr on board (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
-- [jon4hz/gmotd](https://github.com/jon4hz/gmotd) - 🌅 a configurable motd generator (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (today)
 - [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (3 days ago)
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (4 days ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (4 days ago)
 - [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 week ago)
-- [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
