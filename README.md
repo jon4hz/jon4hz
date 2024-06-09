@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (today)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (1 day ago)
 - [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (4 days ago)
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (5 days ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (5 days ago)
-- [aymanbagabas/shcopy](https://github.com/aymanbagabas/shcopy) - 📋 Copy text to your system clipboard locally and remotely using ANSI OSC52 sequence (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
