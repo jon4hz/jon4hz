@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (today)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (2 days ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (3 days ago)
 - [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (6 days ago)
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (1 week ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
