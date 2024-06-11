@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.403.0](https://github.com/renovatebot/renovate/releases/tag/37.403.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.404.0](https://github.com/renovatebot/renovate/releases/tag/37.404.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 6 days ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 1 week ago) - A powerful little TUI framework 🏗
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (today)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (3 days ago)
 - [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (2 weeks ago)
 - [Improve local map handling](https://github.com/zskarte/zskarte-client/pull/422) on [zskarte/zskarte-client](https://github.com/zskarte/zskarte-client) (3 weeks ago)
 - [Improve local map handling](https://github.com/jon4hz/zskarte-client/pull/3) on [jon4hz/zskarte-client](https://github.com/jon4hz/zskarte-client) (3 weeks ago)
-- [chore: add devcontainer setup](https://github.com/jon4hz/zskarte-client/pull/2) on [jon4hz/zskarte-client](https://github.com/jon4hz/zskarte-client) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
