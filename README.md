@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (today)
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (today)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (5 days ago)
 - [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (1 week ago)
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (2 weeks ago)
-- [jon4hz/submarr](https://github.com/jon4hz/submarr) - A submarrine with sonarr and radarr on board (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -20,9 +20,9 @@
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.406.2](https://github.com/renovatebot/renovate/releases/tag/37.406.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 1 week ago) - Ansible Collection for automated deployment of AAP and other objects for general use
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([2.5.1](https://github.com/ansible-collections/community.zabbix/releases/tag/2.5.1), 1 week ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.28.0](https://github.com/crazy-max/diun/releases/tag/v4.28.0), 2 months ago) - Receive notifications when an image is updated on a Docker registry
 
 #### 🔨 My recent Pull Requests
 
