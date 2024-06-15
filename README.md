@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.408.1](https://github.com/renovatebot/renovate/releases/tag/37.408.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.408.2](https://github.com/renovatebot/renovate/releases/tag/37.408.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 1 day ago) - Zabbix Ansible modules
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 1 week ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 weeks ago) - A powerful little TUI framework 🏗
