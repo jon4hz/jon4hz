@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (5 days ago)
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (5 days ago)
+- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (6 days ago)
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (6 days ago)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (1 week ago)
 - [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (2 weeks ago)
-- [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (2 weeks ago)
+- [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.412.1](https://github.com/renovatebot/renovate/releases/tag/37.412.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 4 days ago) - Zabbix Ansible modules
-- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 1 week ago) - Ansible Collection for automated deployment of AAP and other objects for general use
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.412.1](https://github.com/renovatebot/renovate/releases/tag/37.412.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 5 days ago) - Zabbix Ansible modules
+- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 2 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
 
@@ -37,7 +37,7 @@
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (1 week ago)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (1 week ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (1 week ago)
-- [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (1 week ago)
+- [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (2 weeks ago)
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates. (2 weeks ago)
 
 #### 📫 How to reach me
