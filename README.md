@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.413.3](https://github.com/renovatebot/renovate/releases/tag/37.413.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 6 days ago) - Zabbix Ansible modules
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.413.3](https://github.com/renovatebot/renovate/releases/tag/37.413.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 1 week ago) - Zabbix Ansible modules
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 2 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
@@ -28,7 +28,7 @@
 
 - [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (1 week ago)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (1 week ago)
-- [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (3 weeks ago)
+- [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (4 weeks ago)
 - [Improve local map handling](https://github.com/zskarte/zskarte-client/pull/422) on [zskarte/zskarte-client](https://github.com/zskarte/zskarte-client) (1 month ago)
 - [Improve local map handling](https://github.com/jon4hz/zskarte-client/pull/3) on [jon4hz/zskarte-client](https://github.com/jon4hz/zskarte-client) (1 month ago)
 
