@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (today)
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (4 days ago)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (2 weeks ago)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (2 weeks ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (2 weeks ago)
-- [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
