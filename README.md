@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), today) - A powerful little TUI framework 🏗
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.415.0](https://github.com/renovatebot/renovate/releases/tag/37.415.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 day ago) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.415.0](https://github.com/renovatebot/renovate/releases/tag/37.415.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 1 week ago) - Zabbix Ansible modules
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 2 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
 
-- [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (1 week ago)
+- [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (2 weeks ago)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (2 weeks ago)
 - [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (1 month ago)
 - [Improve local map handling](https://github.com/zskarte/zskarte-client/pull/422) on [zskarte/zskarte-client](https://github.com/zskarte/zskarte-client) (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (3 days ago)
-- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (1 week ago)
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (4 days ago)
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (2 weeks ago)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (2 weeks ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (2 weeks ago)
 - [anyproto/ansible-anysync](https://github.com/anyproto/ansible-anysync) - ansible roles for any-sync-* daemons  (2 weeks ago)
