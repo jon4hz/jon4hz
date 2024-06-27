@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (1 week ago)
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (1 week ago)
+- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 weeks ago)
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (2 weeks ago)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (2 weeks ago)
 - [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (3 weeks ago)
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (4 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.419.1](https://github.com/renovatebot/renovate/releases/tag/37.419.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 days ago) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.419.1](https://github.com/renovatebot/renovate/releases/tag/37.419.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 days ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 1 week ago) - Zabbix Ansible modules
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 3 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 1 month ago) - Ansible role to configure 389DS
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (1 day ago)
-- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (5 days ago)
+- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (2 days ago)
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (6 days ago)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (2 weeks ago)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (2 weeks ago)
 - [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (2 weeks ago)
