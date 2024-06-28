@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more. (today)
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (3 days ago)
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (1 week ago)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (2 weeks ago)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (2 weeks ago)
-- [jellydator/ttlcache](https://github.com/jellydator/ttlcache) - An in-memory cache with item expiration and generics (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
