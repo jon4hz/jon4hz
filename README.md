@@ -5,7 +5,7 @@
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 weeks ago)
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (2 weeks ago)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (3 weeks ago)
-- [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (3 weeks ago)
+- [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (4 weeks ago)
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.421.2](https://github.com/renovatebot/renovate/releases/tag/37.421.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 6 days ago) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.421.2](https://github.com/renovatebot/renovate/releases/tag/37.421.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 week ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.0), 2 weeks ago) - Zabbix Ansible modules
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 3 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 2 months ago) - Ansible role to configure 389DS
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more. (2 days ago)
-- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (5 days ago)
+- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more. (3 days ago)
+- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (6 days ago)
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (1 week ago)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (2 weeks ago)
 - [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (3 weeks ago)
