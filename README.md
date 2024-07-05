@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.424.0](https://github.com/renovatebot/renovate/releases/tag/37.424.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.2), today) - Zabbix Ansible modules
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.424.0](https://github.com/renovatebot/renovate/releases/tag/37.424.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.2), 1 day ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 week ago) - A powerful little TUI framework 🏗
-- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 4 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
+- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 1 month ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 2 months ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more. (6 days ago)
+- [Houston4444/RaySession](https://github.com/Houston4444/RaySession) - Session manager for linux musical programs (1 day ago)
+- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more. (1 week ago)
 - [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (1 week ago)
-- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (1 week ago)
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (2 weeks ago)
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers. (3 weeks ago)
-- [kranurag7/gh-fetch](https://github.com/kranurag7/gh-fetch) -  (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
