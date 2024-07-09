@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.426.2](https://github.com/renovatebot/renovate/releases/tag/37.426.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.426.3](https://github.com/renovatebot/renovate/releases/tag/37.426.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), today) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.3](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.3), 3 days ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 weeks ago) - A powerful little TUI framework 🏗
-- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.1](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.1), 1 month ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 2 months ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
