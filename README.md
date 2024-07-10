@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.426.5](https://github.com/renovatebot/renovate/releases/tag/37.426.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.427.0](https://github.com/renovatebot/renovate/releases/tag/37.427.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 1 day ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.3](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.3), 4 days ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 weeks ago) - A powerful little TUI framework 🏗
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (today)
+- [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (today)
+- [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (today)
+- [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) -  (today)
 - [Rayzeq/quick-settings-audio-panel](https://github.com/Rayzeq/quick-settings-audio-panel) - An gnome shell extension to add a new panel to the Quick Settings for sound related stuff (5 days ago)
-- [Houston4444/RaySession](https://github.com/Houston4444/RaySession) - Session manager for linux musical programs (6 days ago)
-- [domferr/tilingshell](https://github.com/domferr/tilingshell) - Extend Gnome Shell with advanced tiling window management. Supports multiple monitors, Windows 11 Snap Assistant, Fancy Zones, customised tiling layouts and more. (1 week ago)
-- [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code (2 weeks ago)
-- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
