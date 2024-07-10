@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (today)
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (3 weeks ago)
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (3 weeks ago)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (1 month ago)
 - [whalesburg/dero-stratum-miner](https://github.com/whalesburg/dero-stratum-miner) - ⛏ dero miner supporting mining over the stratum protocol (1 month ago)
-- [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), today) - GitLab CI optimized Docker image for FPM
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.427.0](https://github.com/renovatebot/renovate/releases/tag/37.427.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 1 day ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.3](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.3), 4 days ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 weeks ago) - A powerful little TUI framework 🏗
-- [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v3.5.0](https://github.com/lvps/389ds-server/releases/tag/v3.5.0), 2 months ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
 
