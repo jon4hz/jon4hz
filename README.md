@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/version bump and python](https://github.com/adfinis/effing-package-manager-docker/pull/18) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (today)
 - [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (4 weeks ago)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (1 month ago)
 - [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (1 month ago)
 - [Improve local map handling](https://github.com/zskarte/zskarte-client/pull/422) on [zskarte/zskarte-client](https://github.com/zskarte/zskarte-client) (1 month ago)
-- [Improve local map handling](https://github.com/jon4hz/zskarte-client/pull/3) on [jon4hz/zskarte-client](https://github.com/jon4hz/zskarte-client) (1 month ago)
 
 #### ⭐ Recent Stars
 
