@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.0](https://github.com/renovatebot/renovate/releases/tag/37.429.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.429.1](https://github.com/renovatebot/renovate/releases/tag/37.429.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 2 days ago) - GitLab CI optimized Docker image for FPM
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 3 days ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.3](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.3), 6 days ago) - Zabbix Ansible modules
