@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.433.2](https://github.com/renovatebot/renovate/releases/tag/37.433.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.434.0](https://github.com/renovatebot/renovate/releases/tag/37.434.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 3 days ago) - Ansible role repo_mirror
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.4](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.4), 5 days ago) - Zabbix Ansible modules
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 1 week ago) - GitLab CI optimized Docker image for FPM
