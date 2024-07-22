@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (today)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (1 week ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (1 week ago)
 - [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (1 week ago)
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) -  (1 week ago)
-- [Rayzeq/quick-settings-audio-panel](https://github.com/Rayzeq/quick-settings-audio-panel) - An gnome shell extension to add a new panel to the Quick Settings for sound related stuff (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
