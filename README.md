@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.7](https://github.com/renovatebot/renovate/releases/tag/37.440.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.440.7](https://github.com/renovatebot/renovate/releases/tag/37.440.7), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 week ago) - Ansible role repo_mirror
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.0.4](https://github.com/ansible-collections/community.zabbix/releases/tag/3.0.4), 1 week ago) - Zabbix Ansible modules
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 2 weeks ago) - GitLab CI optimized Docker image for FPM
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (2 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (3 days ago)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (2 weeks ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (2 weeks ago)
 - [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (2 weeks ago)
