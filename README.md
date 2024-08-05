@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.0), today) - Zabbix Ansible modules
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.12](https://github.com/renovatebot/renovate/releases/tag/38.18.12), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.0), 1 day ago) - Zabbix Ansible modules
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.12](https://github.com/renovatebot/renovate/releases/tag/38.18.12), 2 days ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 2 weeks ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 3 weeks ago) - GitLab CI optimized Docker image for FPM
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 3 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (1 week ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (2 weeks ago)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (3 weeks ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (3 weeks ago)
 - [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (3 weeks ago)
