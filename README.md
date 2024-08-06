@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (2 weeks ago)
+- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (3 weeks ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (3 weeks ago)
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (1 month ago)
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (1 month ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.17](https://github.com/renovatebot/renovate/releases/tag/38.18.17), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.0), 1 day ago) - Zabbix Ansible modules
-- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 2 weeks ago) - Ansible role repo_mirror
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.18.17](https://github.com/renovatebot/renovate/releases/tag/38.18.17), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.0), 2 days ago) - Zabbix Ansible modules
+- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 3 weeks ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 3 weeks ago) - GitLab CI optimized Docker image for FPM
-- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 3 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
+- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 4 weeks ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 
 #### 🔨 My recent Pull Requests
 
-- [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (2 weeks ago)
+- [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (3 weeks ago)
 - [Feat/version bump and python](https://github.com/adfinis/effing-package-manager-docker/pull/18) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (3 weeks ago)
 - [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (1 month ago)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (1 month ago)
