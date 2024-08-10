@@ -37,7 +37,7 @@
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (1 day ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (2 weeks ago)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (1 month ago)
-- [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Add some spice with extensions to make spotify more enjoyable (1 month ago)
+- [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Collection of custom Spicetify extensions to enhance your Spotify experience (1 month ago)
 - [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (1 month ago)
 
 #### 📫 How to reach me
