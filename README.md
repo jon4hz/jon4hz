@@ -4,8 +4,8 @@
 
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (3 weeks ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 month ago)
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (2 months ago)
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 months ago)
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (2 months ago)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (2 months ago)
 
 #### 🌱 My latest projects
