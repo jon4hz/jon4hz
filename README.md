@@ -4,8 +4,8 @@
 
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (3 weeks ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 month ago)
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (1 month ago)
-- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (1 month ago)
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (2 months ago)
+- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 months ago)
 - [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (2 months ago)
 
 #### 🌱 My latest projects
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.25.0](https://github.com/renovatebot/renovate/releases/tag/38.25.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 1 day ago) - Zabbix Ansible modules
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.25.0](https://github.com/renovatebot/renovate/releases/tag/38.25.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 2 days ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 3 weeks ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 1 month ago) - GitLab CI optimized Docker image for FPM
 - [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 1 month ago) - Ansible Collection for automated deployment of AAP and other objects for general use
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (2 days ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (2 weeks ago)
+- [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (3 days ago)
+- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (3 weeks ago)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (1 month ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Collection of custom Spicetify extensions to enhance your Spotify experience (1 month ago)
 - [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (1 month ago)
