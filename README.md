@@ -2,23 +2,23 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (1 day ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (1 month ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 month ago)
-- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 months ago)
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) - Zabbix Ansible modules (2 months ago)
-- [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot (2 months ago)
+- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) - 
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) - 
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) - 
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version
 - [jon4hz/renovate-test](https://github.com/jon4hz/renovate-test) - 
-- [jon4hz/d4eventbot](https://github.com/jon4hz/d4eventbot) - Diablo 4 event bot
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.33.0](https://github.com/renovatebot/renovate/releases/tag/38.33.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.34.0](https://github.com/renovatebot/renovate/releases/tag/38.34.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 5 days ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 month ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 1 month ago) - GitLab CI optimized Docker image for FPM
