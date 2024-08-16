@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), today) - A powerful little TUI framework 🏗
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.38.1](https://github.com/renovatebot/renovate/releases/tag/38.38.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 6 days ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 month ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 1 month ago) - GitLab CI optimized Docker image for FPM
-- [redhat-cop/aap_utilities](https://github.com/redhat-cop/aap_utilities) ([2.5.2](https://github.com/redhat-cop/aap_utilities/releases/tag/2.5.2), 1 month ago) - Ansible Collection for automated deployment of AAP and other objects for general use
 
 #### 🔨 My recent Pull Requests
 
