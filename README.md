@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.46.0](https://github.com/renovatebot/renovate/releases/tag/38.46.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.46.1](https://github.com/renovatebot/renovate/releases/tag/38.46.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 5 days ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 1 week ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 month ago) - Ansible role repo_mirror
