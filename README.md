@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (5 days ago)
+- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (6 days ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (1 month ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 month ago)
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.46.3](https://github.com/renovatebot/renovate/releases/tag/38.46.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 5 days ago) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.46.3](https://github.com/renovatebot/renovate/releases/tag/38.46.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.0), 6 days ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 1 week ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 month ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 1 month ago) - GitLab CI optimized Docker image for FPM
@@ -30,7 +30,7 @@
 - [Feat/version bump and python](https://github.com/adfinis/effing-package-manager-docker/pull/18) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (1 month ago)
 - [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (2 months ago)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (2 months ago)
-- [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (2 months ago)
+- [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (3 months ago)
 
 #### ⭐ Recent Stars
 
