@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (6 days ago)
+- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (1 week ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (1 month ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 month ago)
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) -  (2 months ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), today) - A powerful little TUI framework 🏗
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.51.0](https://github.com/renovatebot/renovate/releases/tag/38.51.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 1 day ago) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.51.0](https://github.com/renovatebot/renovate/releases/tag/38.51.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 1 week ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 month ago) - Ansible role repo_mirror
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.1.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.1.0), 1 month ago) - GitLab CI optimized Docker image for FPM
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (1 week ago)
+- [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (2 weeks ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (1 month ago)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (1 month ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Collection of custom Spicetify extensions to enhance your Spotify experience (1 month ago)
