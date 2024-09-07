@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (5 days ago)
-- [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (5 days ago)
+- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (6 days ago)
+- [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (6 days ago)
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (3 weeks ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (1 month ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.71.0](https://github.com/renovatebot/renovate/releases/tag/38.71.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jon4hz/fztea](https://github.com/jon4hz/fztea) ([v0.6.4](https://github.com/jon4hz/fztea/releases/tag/v0.6.4), 5 days ago) - 🐬🧋  Remote control your flipper from the local terminal or over SSH
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.71.0](https://github.com/renovatebot/renovate/releases/tag/38.71.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jon4hz/fztea](https://github.com/jon4hz/fztea) ([v0.6.4](https://github.com/jon4hz/fztea/releases/tag/v0.6.4), 6 days ago) - 🐬🧋  Remote control your flipper from the local terminal or over SSH
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 1 week ago) - A powerful little TUI framework 🏗
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 3 weeks ago) - Zabbix Ansible modules
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.1](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.1), 4 weeks ago) - Zabbix Ansible modules
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.4-3](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.4-3), 1 month ago) - Ansible role repo_mirror
 
 #### 🔨 My recent Pull Requests
