@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [jackyzy823/fxa-selfhosting](https://github.com/jackyzy823/fxa-selfhosting) - Selfhosting your own  Firefox Accounts (FxA)! (today)
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (1 month ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (1 month ago)
 - [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (2 months ago)
 - [rxri/spicetify-extensions](https://github.com/rxri/spicetify-extensions) - Collection of custom Spicetify extensions to enhance your Spotify experience (2 months ago)
-- [BlafKing/spicetify-cat-jam-synced](https://github.com/BlafKing/spicetify-cat-jam-synced) - A spicetify extension that lets a cat jam in sync with the beat of your music. (2 months ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
