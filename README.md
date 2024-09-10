@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.73.7](https://github.com/renovatebot/renovate/releases/tag/38.73.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.74.0](https://github.com/renovatebot/renovate/releases/tag/38.74.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 2 days ago) - Zabbix Ansible modules
 - [jon4hz/fztea](https://github.com/jon4hz/fztea) ([v0.6.4](https://github.com/jon4hz/fztea/releases/tag/v0.6.4), 1 week ago) - 🐬🧋  Remote control your flipper from the local terminal or over SSH
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 1 week ago) - A powerful little TUI framework 🏗
