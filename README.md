@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: dont create pkg list as root](https://github.com/adfinis/ansible-collection-maintenance/pull/67) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (today)
 - [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (1 month ago)
 - [Feat/version bump and python](https://github.com/adfinis/effing-package-manager-docker/pull/18) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (2 months ago)
 - [Molecule fixes](https://github.com/jon4hz/community.zabbix/pull/1) on [jon4hz/community.zabbix](https://github.com/jon4hz/community.zabbix) (3 months ago)
 - [fix: test matrix for zabbix_proxy](https://github.com/ansible-collections/community.zabbix/pull/1281) on [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) (3 months ago)
-- [chore(deps): update to charm beta versions](https://github.com/jon4hz/fztea/pull/50) on [jon4hz/fztea](https://github.com/jon4hz/fztea) (3 months ago)
 
 #### ⭐ Recent Stars
 
