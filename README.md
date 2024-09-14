@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (today)
 - [jeanp413/open-remote-ssh](https://github.com/jeanp413/open-remote-ssh) - VSCode Remote Development: Open any folder on a remote machine using SSH. (3 days ago)
 - [jackyzy823/fxa-selfhosting](https://github.com/jackyzy823/fxa-selfhosting) - Selfhosting your own  Firefox Accounts (FxA)! (6 days ago)
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard (1 month ago)
 - [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (1 month ago)
-- [Pithaya/spicetify-apps](https://github.com/Pithaya/spicetify-apps) - Spicetify extensions and custom apps. (2 months ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
