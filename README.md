@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.88.1](https://github.com/renovatebot/renovate/releases/tag/38.88.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), today) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.88.2](https://github.com/renovatebot/renovate/releases/tag/38.88.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([hedgedoc-0.5.2](https://github.com/adfinis/helm-charts/releases/tag/hedgedoc-0.5.2), 2 days ago) - 📈 Helm charts from Adfinis
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.1](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.1), 1 week ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 week ago) - Zabbix Ansible modules
 - [jon4hz/fztea](https://github.com/jon4hz/fztea) ([v0.6.4](https://github.com/jon4hz/fztea/releases/tag/v0.6.4), 2 weeks ago) - 🐬🧋  Remote control your flipper from the local terminal or over SSH
 
