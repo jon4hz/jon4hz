@@ -2,27 +2,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (5 days ago)
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) -  (today)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (5 days ago)
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (5 days ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 weeks ago)
 - [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (2 weeks ago)
-- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - 
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) - 
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) - 
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) - 
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version
-- [jon4hz/renovate-test](https://github.com/jon4hz/renovate-test) - 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.91.5](https://github.com/renovatebot/renovate/releases/tag/38.91.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.3.6](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.3.6), 1 day ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 3 days ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 week ago) - Zabbix Ansible modules
-- [jon4hz/fztea](https://github.com/jon4hz/fztea) ([v0.6.4](https://github.com/jon4hz/fztea/releases/tag/v0.6.4), 2 weeks ago) - 🐬🧋  Remote control your flipper from the local terminal or over SSH
 
 #### 🔨 My recent Pull Requests
 
