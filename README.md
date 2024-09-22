@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS app to play songs from an Ampache or Subsonic server (today)
+- [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android. (today)
 - [simonxciv/eavesdrop.fm](https://github.com/simonxciv/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens (2 days ago)
 - [Globi-der-Hacker/Twint-API](https://github.com/Globi-der-Hacker/Twint-API) - Twint payment API (3 days ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (1 week ago)
-- [jeanp413/open-remote-ssh](https://github.com/jeanp413/open-remote-ssh) - VSCode Remote Development: Open any folder on a remote machine using SSH. (1 week ago)
-- [jackyzy823/fxa-selfhosting](https://github.com/jackyzy823/fxa-selfhosting) - Selfhosting your own  Firefox Accounts (FxA)! (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
