@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (today)
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (5 days ago)
-- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (5 days ago)
-- [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (2 weeks ago)
-- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 weeks ago)
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (1 day ago)
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (6 days ago)
+- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (6 days ago)
+- [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (3 weeks ago)
+- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.93.0](https://github.com/renovatebot/renovate/releases/tag/38.93.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), today) - a cli tool to share song links using subsonic
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.3.6](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.3.6), 1 day ago) - 📈 Helm charts from Adfinis
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 3 days ago) - A powerful little TUI framework 🏗
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 week ago) - Zabbix Ansible modules
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.93.0](https://github.com/renovatebot/renovate/releases/tag/38.93.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 day ago) - a cli tool to share song links using subsonic
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.3.6](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.3.6), 2 days ago) - 📈 Helm charts from Adfinis
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 4 days ago) - A powerful little TUI framework 🏗
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 2 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
-- [feat(hedgedoc): customize liveness and readiness probes](https://github.com/adfinis/helm-charts/pull/1320) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (5 days ago)
+- [feat(hedgedoc): customize liveness and readiness probes](https://github.com/adfinis/helm-charts/pull/1320) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (6 days ago)
 - [feat: check for gpg errors in apt](https://github.com/adfinis/ansible-collection-maintenance/pull/68) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [fix: dont create pkg list as root](https://github.com/adfinis/ansible-collection-maintenance/pull/67) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (2 months ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [simonxciv/eavesdrop.fm](https://github.com/simonxciv/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens (1 day ago)
-- [Globi-der-Hacker/Twint-API](https://github.com/Globi-der-Hacker/Twint-API) - Twint payment API (2 days ago)
+- [simonxciv/eavesdrop.fm](https://github.com/simonxciv/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens (2 days ago)
+- [Globi-der-Hacker/Twint-API](https://github.com/Globi-der-Hacker/Twint-API) - Twint payment API (3 days ago)
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (1 week ago)
 - [jeanp413/open-remote-ssh](https://github.com/jeanp413/open-remote-ssh) - VSCode Remote Development: Open any folder on a remote machine using SSH. (1 week ago)
-- [jackyzy823/fxa-selfhosting](https://github.com/jackyzy823/fxa-selfhosting) - Selfhosting your own  Firefox Accounts (FxA)! (1 week ago)
+- [jackyzy823/fxa-selfhosting](https://github.com/jackyzy823/fxa-selfhosting) - Selfhosting your own  Firefox Accounts (FxA)! (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
