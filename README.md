@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: make sure when condition doesnt break maintenance_only](https://github.com/adfinis/ansible-collection-maintenance/pull/73) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (today)
 - [feat(hedgedoc): customize liveness and readiness probes](https://github.com/adfinis/helm-charts/pull/1320) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 week ago)
 - [feat: check for gpg errors in apt](https://github.com/adfinis/ansible-collection-maintenance/pull/68) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [fix: dont create pkg list as root](https://github.com/adfinis/ansible-collection-maintenance/pull/67) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (2 months ago)
-- [Feat/version bump and python](https://github.com/adfinis/effing-package-manager-docker/pull/18) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (2 months ago)
 
 #### ⭐ Recent Stars
 
