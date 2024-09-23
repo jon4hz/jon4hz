@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.93.5](https://github.com/renovatebot/renovate/releases/tag/38.93.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.93.6](https://github.com/renovatebot/renovate/releases/tag/38.93.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 2 days ago) - a cli tool to share song links using subsonic
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.3.6](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.3.6), 3 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 5 days ago) - A powerful little TUI framework 🏗
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli (today)
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS app to play songs from an Ampache or Subsonic server (1 day ago)
 - [CappielloAntonio/tempo](https://github.com/CappielloAntonio/tempo) - An open source and lightweight music client for Subsonic, designed and built natively for Android. (1 day ago)
 - [simonxciv/eavesdrop.fm](https://github.com/simonxciv/eavesdrop.fm) - Eavesdrop.FM automagically takes Plex Webhooks and transmogrifies them into ListenBrainz... listens (3 days ago)
 - [Globi-der-Hacker/Twint-API](https://github.com/Globi-der-Hacker/Twint-API) - Twint payment API (4 days ago)
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
