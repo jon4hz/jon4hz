@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (today)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (4 days ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 week ago)
-- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (1 week ago)
 - [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (3 weeks ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (3 weeks ago)
 
