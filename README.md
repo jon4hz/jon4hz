@@ -35,7 +35,7 @@
 #### ⭐ Recent Stars
 
 - [verte-zerg/yubikey-totp](https://github.com/verte-zerg/yubikey-totp) - Tool for generating TOTP codes using YubiKey and type it everywhere across your system (today)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 800&#43; formats (2 days ago)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports over a thousand formats (2 days ago)
 - [PascalMinder/geoblock](https://github.com/PascalMinder/geoblock) - Traefik middleware plugin - Deny requests based on country of origin (2 days ago)
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli (3 days ago)
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (4 days ago)
