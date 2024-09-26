@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.97.0](https://github.com/renovatebot/renovate/releases/tag/38.97.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.97.1](https://github.com/renovatebot/renovate/releases/tag/38.97.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 5 days ago) - a cli tool to share song links using subsonic
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.3.6](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.3.6), 6 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 week ago) - A powerful little TUI framework 🏗
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner. (today)
 - [verte-zerg/yubikey-totp](https://github.com/verte-zerg/yubikey-totp) - Tool for generating TOTP codes using YubiKey and type it everywhere across your system (today)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports over a thousand formats (2 days ago)
 - [PascalMinder/geoblock](https://github.com/PascalMinder/geoblock) - Traefik middleware plugin - Deny requests based on country of origin (2 days ago)
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli (3 days ago)
-- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server (4 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
