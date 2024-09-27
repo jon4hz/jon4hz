@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.4.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.4.0), today) - 📈 Helm charts from Adfinis
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.98.1](https://github.com/renovatebot/renovate/releases/tag/38.98.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.100.0](https://github.com/renovatebot/renovate/releases/tag/38.100.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.220.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.220.0), today) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 6 days ago) - a cli tool to share song links using subsonic
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 week ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 2 weeks ago) - Zabbix Ansible modules
