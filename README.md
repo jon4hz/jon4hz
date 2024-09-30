@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (today)
 - [rgl/proxmox-ve](https://github.com/rgl/proxmox-ve) - Proxmox VE Vagrant Base Box (1 day ago)
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner. (4 days ago)
 - [verte-zerg/yubikey-totp](https://github.com/verte-zerg/yubikey-totp) - Tool for generating TOTP codes using YubiKey and type it everywhere across your system (4 days ago)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats (6 days ago)
-- [PascalMinder/geoblock](https://github.com/PascalMinder/geoblock) - Traefik middleware plugin - Deny requests based on country of origin (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
