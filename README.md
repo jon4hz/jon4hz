@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/proxmox-molecule](https://github.com/jon4hz/proxmox-molecule) -  (today)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (6 days ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (1 week ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (2 weeks ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
+- [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (1 month ago)
 
 #### 🌱 My latest projects
 
-- [jon4hz/proxmox-molecule](https://github.com/jon4hz/proxmox-molecule) - 
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) - 
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) - 
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) - 
+- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version
 
 #### 🔭 Latest releases I've contributed to
 
