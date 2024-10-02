@@ -26,19 +26,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: suggest debian-security repo from adfinis mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/121) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (today)
 - [fix: make sure when condition doesnt break maintenance_only](https://github.com/adfinis/ansible-collection-maintenance/pull/73) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [feat(hedgedoc): customize liveness and readiness probes](https://github.com/adfinis/helm-charts/pull/1320) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 weeks ago)
 - [feat: check for gpg errors in apt](https://github.com/adfinis/ansible-collection-maintenance/pull/68) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (3 weeks ago)
 - [fix: dont create pkg list as root](https://github.com/adfinis/ansible-collection-maintenance/pull/67) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (3 weeks ago)
-- [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (2 months ago)
 
 #### ⭐ Recent Stars
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (today)
 - [kkapsner/NewTabUrl](https://github.com/kkapsner/NewTabUrl) - Web-Extension to controll the page for new tabs (2 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 days ago)
 - [rgl/proxmox-ve](https://github.com/rgl/proxmox-ve) - Proxmox VE Vagrant Base Box (3 days ago)
 - [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner. (6 days ago)
-- [verte-zerg/yubikey-totp](https://github.com/verte-zerg/yubikey-totp) - Tool for generating TOTP codes using YubiKey and type it everywhere across your system (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
