@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (6 days ago)
+- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (1 week ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (1 week ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (2 weeks ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.106.3](https://github.com/renovatebot/renovate/releases/tag/38.106.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.4.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.4.1), today) - 📈 Helm charts from Adfinis
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.106.3](https://github.com/renovatebot/renovate/releases/tag/38.106.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.4.1](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.4.1), 1 day ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 week ago) - a cli tool to share song links using subsonic
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 2 weeks ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 3 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
 - [fix: make sure when condition doesnt break maintenance_only](https://github.com/adfinis/ansible-collection-maintenance/pull/73) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [feat(hedgedoc): customize liveness and readiness probes](https://github.com/adfinis/helm-charts/pull/1320) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 weeks ago)
-- [feat: check for gpg errors in apt](https://github.com/adfinis/ansible-collection-maintenance/pull/68) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (2 weeks ago)
-- [fix: dont create pkg list as root](https://github.com/adfinis/ansible-collection-maintenance/pull/67) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (2 weeks ago)
+- [feat: check for gpg errors in apt](https://github.com/adfinis/ansible-collection-maintenance/pull/68) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (3 weeks ago)
+- [fix: dont create pkg list as root](https://github.com/adfinis/ansible-collection-maintenance/pull/67) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (3 weeks ago)
 - [ci: use latest version of ansible-lint action](https://github.com/adfinis/ansible-role-repo_mirror/pull/50) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [kkapsner/NewTabUrl](https://github.com/kkapsner/NewTabUrl) - Web-Extension to controll the page for new tabs (1 day ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 day ago)
-- [rgl/proxmox-ve](https://github.com/rgl/proxmox-ve) - Proxmox VE Vagrant Base Box (2 days ago)
-- [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner. (5 days ago)
-- [verte-zerg/yubikey-totp](https://github.com/verte-zerg/yubikey-totp) - Tool for generating TOTP codes using YubiKey and type it everywhere across your system (5 days ago)
+- [kkapsner/NewTabUrl](https://github.com/kkapsner/NewTabUrl) - Web-Extension to controll the page for new tabs (2 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 days ago)
+- [rgl/proxmox-ve](https://github.com/rgl/proxmox-ve) - Proxmox VE Vagrant Base Box (3 days ago)
+- [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner. (6 days ago)
+- [verte-zerg/yubikey-totp](https://github.com/verte-zerg/yubikey-totp) - Tool for generating TOTP codes using YubiKey and type it everywhere across your system (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
