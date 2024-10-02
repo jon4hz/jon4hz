@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside. (today)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (today)
 - [kkapsner/NewTabUrl](https://github.com/kkapsner/NewTabUrl) - Web-Extension to controll the page for new tabs (2 days ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 days ago)
 - [rgl/proxmox-ve](https://github.com/rgl/proxmox-ve) - Proxmox VE Vagrant Base Box (3 days ago)
-- [RaunoT/plex-rewind](https://github.com/RaunoT/plex-rewind) - Present Plex user statistics and habits in a beautiful and organized manner. (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
