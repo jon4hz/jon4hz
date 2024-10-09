@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.114.0](https://github.com/renovatebot/renovate/releases/tag/38.114.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.115.0](https://github.com/renovatebot/renovate/releases/tag/38.115.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.221.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.221.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 2 weeks ago) - a cli tool to share song links using subsonic
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 3 weeks ago) - A powerful little TUI framework 🏗
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (today)
 - [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside. (1 week ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 week ago)
 - [kkapsner/NewTabUrl](https://github.com/kkapsner/NewTabUrl) - Web-Extension to controll the page for new tabs (1 week ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
-- [rgl/proxmox-ve](https://github.com/rgl/proxmox-ve) - Proxmox VE Vagrant Base Box (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
