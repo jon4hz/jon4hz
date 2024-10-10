@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD (today)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (1 day ago)
 - [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside. (1 week ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 week ago)
 - [kkapsner/NewTabUrl](https://github.com/kkapsner/NewTabUrl) - Web-Extension to controll the page for new tabs (1 week ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
