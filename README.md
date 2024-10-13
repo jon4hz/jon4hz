@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (today)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 week ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (2 weeks ago)
-- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (3 weeks ago)
 - [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (1 month ago)
 
