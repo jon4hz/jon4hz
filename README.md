@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.120.0](https://github.com/renovatebot/renovate/releases/tag/38.120.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.120.1](https://github.com/renovatebot/renovate/releases/tag/38.120.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 3 weeks ago) - a cli tool to share song links using subsonic
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 3 weeks ago) - A powerful little TUI framework 🏗
