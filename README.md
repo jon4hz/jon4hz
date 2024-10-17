@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (3 days ago)
+- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (4 days ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 weeks ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.124.3](https://github.com/renovatebot/renovate/releases/tag/38.124.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.221.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.221.1), 2 days ago) - 📈 Helm charts from Adfinis
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.124.3](https://github.com/renovatebot/renovate/releases/tag/38.124.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.221.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.221.1), 3 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 3 weeks ago) - a cli tool to share song links using subsonic
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 4 weeks ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 month ago) - Zabbix Ansible modules
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (1 day ago)
-- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD (6 days ago)
+- [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (2 days ago)
+- [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD (1 week ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (1 week ago)
 - [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside. (2 weeks ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
