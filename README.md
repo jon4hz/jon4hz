@@ -6,7 +6,7 @@
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 weeks ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
-- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
+- [jon4hz/fztea](https://github.com/jon4hz/fztea) - 🐬🧋  Remote control your flipper from the local terminal or over SSH (1 month ago)
 
 #### 🌱 My latest projects
 
