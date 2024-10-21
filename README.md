@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.1](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.1), today) - 📈 Helm charts from Adfinis
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.128.6](https://github.com/renovatebot/renovate/releases/tag/38.128.6), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.221.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.221.1), 1 week ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 month ago) - a cli tool to share song links using subsonic
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 1 month ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 month ago) - Zabbix Ansible modules
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish (today)
 - [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (6 days ago)
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD (1 week ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (1 week ago)
 - [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside. (2 weeks ago)
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
