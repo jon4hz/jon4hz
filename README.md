@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection (today)
 - [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish (3 days ago)
 - [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (1 week ago)
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD (2 weeks ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (2 weeks ago)
-- [juxtopposed/touchgrass](https://github.com/juxtopposed/touchgrass) - touch grass online. no need to go outside. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
