@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.4](https://github.com/renovatebot/renovate/releases/tag/38.130.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.2), 1 day ago) - A powerful little TUI framework 🏗
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.130.3](https://github.com/renovatebot/renovate/releases/tag/38.130.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.1](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.1), 4 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 month ago) - a cli tool to share song links using subsonic
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 month ago) - Zabbix Ansible modules
