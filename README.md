@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.132.3](https://github.com/renovatebot/renovate/releases/tag/38.132.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.2), 3 days ago) - A powerful little TUI framework 🏗
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.1](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.1), 6 days ago) - 📈 Helm charts from Adfinis
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([38.132.3](https://github.com/renovatebot/renovate/releases/tag/38.132.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.2), 4 days ago) - A powerful little TUI framework 🏗
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.1](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.1), 1 week ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 month ago) - a cli tool to share song links using subsonic
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.1.2](https://github.com/ansible-collections/community.zabbix/releases/tag/3.1.2), 1 month ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add support for kubernetes workload maintenance](https://github.com/adfinis/ansible-collection-maintenance/pull/77) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (2 days ago)
+- [feat: add support for kubernetes workload maintenance](https://github.com/adfinis/ansible-collection-maintenance/pull/77) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (3 days ago)
 - [fix: suggest debian-security repo from adfinis mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/121) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (3 weeks ago)
 - [fix: make sure when condition doesnt break maintenance_only](https://github.com/adfinis/ansible-collection-maintenance/pull/73) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 month ago)
 - [feat(hedgedoc): customize liveness and readiness probes](https://github.com/adfinis/helm-charts/pull/1320) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection (3 days ago)
-- [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish (6 days ago)
+- [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection (4 days ago)
+- [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish (1 week ago)
 - [Napsty/check_smart](https://github.com/Napsty/check_smart) - Monitoring Plugin to check hard drives, solid state drives and NVMe drives using SMART (1 week ago)
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD (2 weeks ago)
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker (2 weeks ago)
