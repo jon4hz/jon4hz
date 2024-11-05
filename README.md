@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [PaulR282/netbox_recolor](https://github.com/PaulR282/netbox_recolor) - Make Netbox blue again, or any color you like  (today)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (5 days ago)
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box (6 days ago)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification (1 week ago)
 - [maxlerebourg/crowdsec-bouncer-traefik-plugin](https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin) - Traefik plugin for Crowdsec - WAF and IP protection (1 week ago)
-- [bouk/babelfish](https://github.com/bouk/babelfish) - Translate bash scripts to fish (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
