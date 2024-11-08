@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.7.4](https://github.com/renovatebot/renovate/releases/tag/39.7.4), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.7.5](https://github.com/renovatebot/renovate/releases/tag/39.7.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.141](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.141), 1 day ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.0), 2 days ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.222.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.222.0), 1 week ago) - 📈 Helm charts from Adfinis
