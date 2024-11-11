@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), today) - 📈 Helm charts from Adfinis
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.9.5](https://github.com/renovatebot/renovate/releases/tag/39.9.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.223.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.223.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.141](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.141), 4 days ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.0), 5 days ago) - A powerful little TUI framework 🏗
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 month ago) - a cli tool to share song links using subsonic
