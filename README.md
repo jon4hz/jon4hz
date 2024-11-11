@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (today)
 - [wfg/docker-wireguard](https://github.com/wfg/docker-wireguard) - A lightweight, containerized WireGuard (3 days ago)
 - [f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep) - SitRep: Digitale Lagebewirtschaftung für Führungsstäbe (3 days ago)
 - [PaulR282/netbox_recolor](https://github.com/PaulR282/netbox_recolor) - Make Netbox blue again, or any color you like  (6 days ago)
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (1 week ago)
-- [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
