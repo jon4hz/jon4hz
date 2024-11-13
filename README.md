@@ -27,7 +27,7 @@
 #### 🔨 My recent Pull Requests
 
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (6 days ago)
-- [feat(apt): more control over package removals ](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (2 weeks ago)
+- [feat(apt): add option to disable package purging](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (2 weeks ago)
 - [fix: allow object types for ingress paths](https://github.com/netbox-community/netbox-chart/pull/398) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (2 weeks ago)
 - [feat: add support for kubernetes workload maintenance](https://github.com/adfinis/ansible-collection-maintenance/pull/77) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (2 weeks ago)
 - [fix: suggest debian-security repo from adfinis mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/121) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 month ago)
