@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.18.2](https://github.com/renovatebot/renovate/releases/tag/39.18.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 1 day ago) - A Helm chart for NetBox
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 4 days ago) - A powerful little TUI framework 🏗
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 5 days ago) - 📈 Helm charts from Adfinis
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.18.2](https://github.com/renovatebot/renovate/releases/tag/39.18.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 2 days ago) - A Helm chart for NetBox
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 5 days ago) - A powerful little TUI framework 🏗
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 6 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 month ago) - a cli tool to share song links using subsonic
 
 #### 🔨 My recent Pull Requests
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (5 days ago)
+- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (6 days ago)
 - [wfg/docker-wireguard](https://github.com/wfg/docker-wireguard) - A lightweight, containerized WireGuard (1 week ago)
 - [f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep) - SitRep: Digitale Lagebewirtschaftung für Führungsstäbe (1 week ago)
 - [PaulR282/netbox_recolor](https://github.com/PaulR282/netbox_recolor) - Make Netbox blue again, or any color you like  (1 week ago)
