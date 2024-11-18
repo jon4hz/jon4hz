@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (2 weeks ago)
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (3 weeks ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (1 month ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (1 month ago)
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.19.1](https://github.com/renovatebot/renovate/releases/tag/39.19.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 2 days ago) - A Helm chart for NetBox
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 5 days ago) - A powerful little TUI framework 🏗
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 6 days ago) - 📈 Helm charts from Adfinis
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.19.1](https://github.com/renovatebot/renovate/releases/tag/39.19.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 3 days ago) - A Helm chart for NetBox
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 6 days ago) - A powerful little TUI framework 🏗
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) ([v0.1.2](https://github.com/jon4hz/songlinkrr/releases/tag/v0.1.2), 1 month ago) - a cli tool to share song links using subsonic
 
 #### 🔨 My recent Pull Requests
 
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 week ago)
 - [feat(apt): add option to disable package purging](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (2 weeks ago)
-- [fix: allow object types for ingress paths](https://github.com/netbox-community/netbox-chart/pull/398) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (2 weeks ago)
+- [fix: allow object types for ingress paths](https://github.com/netbox-community/netbox-chart/pull/398) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (3 weeks ago)
 - [feat: add support for kubernetes workload maintenance](https://github.com/adfinis/ansible-collection-maintenance/pull/77) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (3 weeks ago)
 - [fix: suggest debian-security repo from adfinis mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/121) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (6 days ago)
+- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (1 week ago)
 - [wfg/docker-wireguard](https://github.com/wfg/docker-wireguard) - A lightweight, containerized WireGuard (1 week ago)
 - [f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep) - SitRep: Digitale Lagebewirtschaftung für Führungsstäbe (1 week ago)
 - [PaulR282/netbox_recolor](https://github.com/PaulR282/netbox_recolor) - Make Netbox blue again, or any color you like  (1 week ago)
