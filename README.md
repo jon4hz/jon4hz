@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (today)
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (1 week ago)
 - [wfg/docker-wireguard](https://github.com/wfg/docker-wireguard) - A lightweight, containerized WireGuard (1 week ago)
 - [f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep) - SitRep: Digitale Lagebewirtschaftung für Führungsstäbe (1 week ago)
 - [PaulR282/netbox_recolor](https://github.com/PaulR282/netbox_recolor) - Make Netbox blue again, or any color you like  (1 week ago)
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
