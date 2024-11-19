@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.20.4](https://github.com/renovatebot/renovate/releases/tag/39.20.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), today) - Zabbix Ansible modules
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.20.3](https://github.com/renovatebot/renovate/releases/tag/39.20.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 4 days ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.2), 1 week ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 1 week ago) - 📈 Helm charts from Adfinis
