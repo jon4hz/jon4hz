@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.20.6](https://github.com/renovatebot/renovate/releases/tag/39.20.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.21.0](https://github.com/renovatebot/renovate/releases/tag/39.21.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 1 day ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 1 day ago) - Zabbix Ansible modules
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 5 days ago) - A Helm chart for NetBox
