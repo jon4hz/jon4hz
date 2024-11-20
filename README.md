@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), today) - A powerful little TUI framework 🏗
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.20.5](https://github.com/renovatebot/renovate/releases/tag/39.20.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), today) - Zabbix Ansible modules
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 4 days ago) - A Helm chart for NetBox
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.20.6](https://github.com/renovatebot/renovate/releases/tag/39.20.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 1 day ago) - A powerful little TUI framework 🏗
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 1 day ago) - Zabbix Ansible modules
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 5 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 1 week ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 day ago)
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (2 days ago)
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (1 week ago)
 - [wfg/docker-wireguard](https://github.com/wfg/docker-wireguard) - A lightweight, containerized WireGuard (1 week ago)
 - [f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep) - SitRep: Digitale Lagebewirtschaftung für Führungsstäbe (1 week ago)
