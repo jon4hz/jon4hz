@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (today)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (2 days ago)
 - [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem (1 week ago)
 - [wfg/docker-wireguard](https://github.com/wfg/docker-wireguard) - A lightweight, containerized WireGuard (1 week ago)
-- [f-eld-ch/sitrep](https://github.com/f-eld-ch/sitrep) - SitRep: Digitale Lagebewirtschaftung für Führungsstäbe (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
