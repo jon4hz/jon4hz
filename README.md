@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.25.4](https://github.com/renovatebot/renovate/releases/tag/39.25.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.25.5](https://github.com/renovatebot/renovate/releases/tag/39.25.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.8.13](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.8.13), today) - 📈 Helm charts from Adfinis
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), today) - 🐺 Interactively browse vault/openbao in the terminal.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 2 days ago) - A powerful little TUI framework 🏗
