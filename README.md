@@ -2,27 +2,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - Interactively browse vault/openbao in the terminal. (today)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (3 weeks ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (1 month ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (1 month ago)
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (2 months ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - Interactively browse vault/openbao in the terminal.
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) - 
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) - 
 - [jon4hz/cat_greeting](https://github.com/jon4hz/cat_greeting) - 
-- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.0](https://github.com/jon4hz/awoolt/releases/tag/v0.1.0), today) - Interactively browse vault/openbao in the terminal.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.25.1](https://github.com/renovatebot/renovate/releases/tag/39.25.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 2 days ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 2 days ago) - Zabbix Ansible modules
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.144](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.144), 6 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-issuers-0.3.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-issuers-0.3.0), 1 week ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
 
