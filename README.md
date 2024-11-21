@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - Interactively browse vault/openbao in the terminal. (today)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (3 weeks ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (1 month ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - Interactively browse vault/openbao in the terminal.
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal.
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) - 
 - [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) - 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.0](https://github.com/jon4hz/awoolt/releases/tag/v0.1.0), today) - Interactively browse vault/openbao in the terminal.
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), today) - 🐺 Interactively browse vault/openbao in the terminal.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.25.1](https://github.com/renovatebot/renovate/releases/tag/39.25.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 2 days ago) - A powerful little TUI framework 🏗
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 2 days ago) - Zabbix Ansible modules
