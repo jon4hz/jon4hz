@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.29.0](https://github.com/renovatebot/renovate/releases/tag/39.29.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), today) - A powerful little TUI framework 🏗
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([39.30.0](https://github.com/renovatebot/renovate/releases/tag/39.30.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.2](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.2), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.147](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.147), 1 day ago) - A Helm chart for NetBox
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 4 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 6 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
