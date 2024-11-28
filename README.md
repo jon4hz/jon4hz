@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.148](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.148), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.88.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.88.0), today) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 3 days ago) - A powerful little TUI framework 🏗
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.147](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.147), 4 days ago) - A Helm chart for NetBox
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 1 week ago) - 🐺 Interactively browse vault/openbao in the terminal.
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 1 week ago) - Zabbix Ansible modules
 
