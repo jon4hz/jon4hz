@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (today)
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (2 days ago)
 - [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (2 days ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (1 week ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
