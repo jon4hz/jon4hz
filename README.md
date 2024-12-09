@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.158](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.158), 2 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.227.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.227.0), 3 days ago) - 📈 Helm charts from Adfinis
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 week ago) - A powerful little TUI framework 🏗
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.158](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.158), 3 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.227.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.227.0), 4 days ago) - 📈 Helm charts from Adfinis
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 2 weeks ago) - 🐺 Interactively browse vault/openbao in the terminal.
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 2 weeks ago) - Zabbix Ansible modules
 
