@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.162](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.162), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.163](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.163), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([customer-center-0.2.33](https://github.com/adfinis/helm-charts/releases/tag/customer-center-0.2.33), today) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 weeks ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 2 weeks ago) - 🐺 Interactively browse vault/openbao in the terminal.
