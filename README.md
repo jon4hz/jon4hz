@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (today)
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (2 weeks ago)
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (2 weeks ago)
 - [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (2 weeks ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 weeks ago)
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
