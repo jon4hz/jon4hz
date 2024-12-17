@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (today)
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 month ago)
 - [feat(apt): add option to disable package purging](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (1 month ago)
 - [fix: allow object types for ingress paths](https://github.com/netbox-community/netbox-chart/pull/398) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (1 month ago)
 - [feat: add support for kubernetes workload maintenance](https://github.com/adfinis/ansible-collection-maintenance/pull/77) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 month ago)
-- [fix: suggest debian-security repo from adfinis mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/121) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (2 months ago)
 
 #### ⭐ Recent Stars
 
