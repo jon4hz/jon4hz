@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.168](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.168), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.4), 3 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.168](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.168), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.4), 4 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 3 weeks ago) - 🐺 Interactively browse vault/openbao in the terminal.
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 3 weeks ago) - Zabbix Ansible modules
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 4 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (today)
+- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (1 day ago)
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (2 weeks ago)
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (2 weeks ago)
 - [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (2 weeks ago)
