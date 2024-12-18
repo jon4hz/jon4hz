@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.169](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.169), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.4), 4 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.0-beta.169](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.0-beta.169), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.4.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.4.4), 5 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 3 weeks ago) - 🐺 Interactively browse vault/openbao in the terminal.
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.2.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.2.0), 4 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (today)
+- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 day ago)
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 month ago)
 - [feat(apt): add option to disable package purging](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (1 month ago)
 - [fix: allow object types for ingress paths](https://github.com/netbox-community/netbox-chart/pull/398) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (1 month ago)
@@ -34,10 +34,10 @@
 
 #### ⭐ Recent Stars
 
-- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (1 day ago)
+- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (2 days ago)
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (2 weeks ago)
-- [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (2 weeks ago)
-- [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (2 weeks ago)
+- [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (3 weeks ago)
+- [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (3 weeks ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 weeks ago)
 
 #### 📫 How to reach me
