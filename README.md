@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (today)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (3 weeks ago)
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 day ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (4 weeks ago)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (1 month ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (2 months ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), today) - Receive notifications when an image is updated on a Docker registry
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.89.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.89.0), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.3), today) - A Helm chart for NetBox
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 1 day ago) - Receive notifications when an image is updated on a Docker registry
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.89.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.89.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.3), 1 day ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 4 weeks ago) - 🐺 Interactively browse vault/openbao in the terminal.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 days ago)
+- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (3 days ago)
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 month ago)
 - [feat(apt): add option to disable package purging](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (1 month ago)
 - [fix: allow object types for ingress paths](https://github.com/netbox-community/netbox-chart/pull/398) on [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) (1 month ago)
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (3 days ago)
-- [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (2 weeks ago)
+- [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (4 days ago)
+- [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (3 weeks ago)
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (3 weeks ago)
 - [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (3 weeks ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (4 weeks ago)
