@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (today)
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (2 days ago)
 - [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (6 days ago)
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (3 weeks ago)
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (3 weeks ago)
-- [refi64/stylepak](https://github.com/refi64/stylepak) - Automatically install your host GTK&#43; theme as a Flatpak (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
