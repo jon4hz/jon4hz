@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/pyaptly](https://github.com/adfinis/pyaptly) - Automates the creation and managment of aptly mirrors and snapshots based on yml input files. (today)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (4 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (1 month ago)
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (2 months ago)
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.4](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.4), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.5](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.5), today) - A Helm chart for NetBox
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 4 days ago) - Receive notifications when an image is updated on a Docker registry
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.89.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.89.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 4 weeks ago) - A powerful little TUI framework 🏗
