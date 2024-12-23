@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) - New generation of the Jekyll Adfinis Theme (today)
 - [adfinis/pyaptly](https://github.com/adfinis/pyaptly) - Automates the creation and managment of aptly mirrors and snapshots based on yml input files. (today)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (4 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) - A Helm chart for NetBox (1 month ago)
-- [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic (2 months ago)
 
 #### 🌱 My latest projects
 
