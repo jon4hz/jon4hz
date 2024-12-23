@@ -26,19 +26,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove twitter link](https://github.com/adfinis/helm-charts/pull/1358) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (today)
 - [fix: remove twitter](https://github.com/adfinis/jekyll-theme-adfinis-ng/pull/1) on [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) (today)
 - [feat: add simple overview](https://github.com/adfinis/adfinis.github.io/pull/1) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (today)
 - [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (6 days ago)
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (1 month ago)
-- [feat(apt): add option to disable package purging](https://github.com/debops/debops/pull/2546) on [debops/debops](https://github.com/debops/debops) (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. (today)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 day ago)
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (3 days ago)
 - [derlin/mantelo](https://github.com/derlin/mantelo) - ✨ The full Keycloak Admin REST api wrapped in a tiny Python client ✨ (1 week ago)
 - [cisagov/ScubaGoggles](https://github.com/cisagov/ScubaGoggles) - SCuBA Secure Configuration Baselines and assessment tool for Google Workspace  (3 weeks ago)
-- [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
