@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (today)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 day ago)
 - [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) - 💅 New generation of the Jekyll Adfinis Theme (1 day ago)
 - [adfinis/pyaptly](https://github.com/adfinis/pyaptly) - Automates the creation and managment of aptly mirrors and snapshots based on yml input files. (2 days ago)
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (6 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 
 #### 🌱 My latest projects
