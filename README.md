@@ -19,8 +19,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.6), 1 week ago) - A Helm chart for NetBox
-- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 1 week ago) - Receive notifications when an image is updated on a Docker registry
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.89.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.89.0), 1 week ago) - 📈 Helm charts from Adfinis
+- [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 2 weeks ago) - Receive notifications when an image is updated on a Docker registry
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.89.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.89.0), 2 weeks ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 month ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 1 month ago) - 🐺 Interactively browse vault/openbao in the terminal.
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. (1 week ago)
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more! (1 week ago)
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml? (1 week ago)
