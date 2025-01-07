@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 week ago)
-- [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 week ago)
-- [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) - 💅 New generation of the Jekyll Adfinis Theme (1 week ago)
+- [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (2 weeks ago)
+- [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) - 💅 New generation of the Jekyll Adfinis Theme (2 weeks ago)
 - [adfinis/pyaptly](https://github.com/adfinis/pyaptly) - Automates the creation and managment of aptly mirrors and snapshots based on yml input files. (2 weeks ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.11), 3 days ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.11), 4 days ago) - A Helm chart for NetBox
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 2 weeks ago) - Receive notifications when an image is updated on a Docker registry
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.89.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.89.0), 2 weeks ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 month ago) - A powerful little TUI framework 🏗
@@ -29,7 +29,7 @@
 - [fix: remove twitter link](https://github.com/adfinis/helm-charts/pull/1358) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 weeks ago)
 - [fix: remove twitter](https://github.com/adfinis/jekyll-theme-adfinis-ng/pull/1) on [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) (2 weeks ago)
 - [feat: add simple overview](https://github.com/adfinis/adfinis.github.io/pull/1) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 weeks ago)
-- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 weeks ago)
+- [chore: upgrade oauth2-proxy to 7.8.2](https://github.com/adfinis/helm-charts/pull/1356) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (3 weeks ago)
 - [fix: use findmnt to validate mountpoints](https://github.com/adfinis/ansible-collection-maintenance/pull/79) on [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) (2 months ago)
 
 #### ⭐ Recent Stars
