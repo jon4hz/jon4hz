@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([cert-manager-monitoring-0.2.0](https://github.com/adfinis/helm-charts/releases/tag/cert-manager-monitoring-0.2.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.17](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.17), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.17.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.17.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 3 weeks ago) - Receive notifications when an image is updated on a Docker registry
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 month ago) - A powerful little TUI framework 🏗
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.1.2](https://github.com/jon4hz/awoolt/releases/tag/v0.1.2), 1 month ago) - 🐺 Interactively browse vault/openbao in the terminal.
