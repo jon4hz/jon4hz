@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (today)
 - [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (today)
 - [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (today)
 - [feat: add info about endeavouros mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/147) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 week ago)
 - [fix: remove twitter link](https://github.com/adfinis/helm-charts/pull/1358) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 month ago)
-- [fix: remove twitter](https://github.com/adfinis/jekyll-theme-adfinis-ng/pull/1) on [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) (1 month ago)
 
 #### ⭐ Recent Stars
 
