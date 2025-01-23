@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (today)
+- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (today)
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (1 day ago)
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) -  Unofficial Tandoor client for Android, iOS and Desktop devices (3 days ago)
 - [Melkor333/arewepostyamlyet.com](https://github.com/Melkor333/arewepostyamlyet.com) - Are we post yaml yet? (3 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
-- [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly. (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
