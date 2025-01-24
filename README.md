@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features (today)
 - [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (1 day ago)
 - [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (1 day ago)
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (2 days ago)
 - [aimok04/kitshn](https://github.com/aimok04/kitshn) -  Unofficial Tandoor client for Android, iOS and Desktop devices (4 days ago)
-- [Melkor333/arewepostyamlyet.com](https://github.com/Melkor333/arewepostyamlyet.com) - Are we post yaml yet? (4 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
