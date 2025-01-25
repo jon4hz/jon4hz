@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), today) - Zivilschutz-Karte allows to draw situation maps for disaster management
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), today) - A Helm chart for NetBox
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 1 day ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.26.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.26.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 1 month ago) - Receive notifications when an image is updated on a Docker registry
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 months ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 days ago)
-- [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 days ago)
-- [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 days ago)
+- [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (3 days ago)
+- [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (3 days ago)
+- [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (3 days ago)
 - [feat: add info about endeavouros mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/147) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 week ago)
 - [fix: remove twitter link](https://github.com/adfinis/helm-charts/pull/1358) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features (today)
-- [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (1 day ago)
-- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (1 day ago)
-- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (2 days ago)
-- [aimok04/kitshn](https://github.com/aimok04/kitshn) -  Unofficial Tandoor client for Android, iOS and Desktop devices (4 days ago)
+- [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features (1 day ago)
+- [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (2 days ago)
+- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (2 days ago)
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener (3 days ago)
+- [aimok04/kitshn](https://github.com/aimok04/kitshn) -  Unofficial Tandoor client for Android, iOS and Desktop devices (5 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
