@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 2 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 2 days ago) - A Helm chart for NetBox
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 3 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 3 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.26.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.26.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 1 month ago) - Receive notifications when an image is updated on a Docker registry
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 months ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
-- [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (4 days ago)
-- [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (4 days ago)
-- [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (4 days ago)
-- [feat: add info about endeavouros mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/147) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 week ago)
+- [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (5 days ago)
+- [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (5 days ago)
+- [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (5 days ago)
+- [feat: add info about endeavouros mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/147) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (2 weeks ago)
 - [fix: remove twitter link](https://github.com/adfinis/helm-charts/pull/1358) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 day ago)
-- [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) -  (1 day ago)
-- [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features (2 days ago)
-- [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (3 days ago)
-- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (3 days ago)
+- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (2 days ago)
+- [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) -  (2 days ago)
+- [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features (3 days ago)
+- [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (4 days ago)
+- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (4 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
