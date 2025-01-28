@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [robin900/gspread-formatting](https://github.com/robin900/gspread-formatting) - Complete cell formatting support for Google spreadsheets via gspread package. (today)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (3 days ago)
 - [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) -  (3 days ago)
 - [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features (4 days ago)
 - [AstraExt/astra-monitor](https://github.com/AstraExt/astra-monitor) - Resource Monitor for GNOME shell (5 days ago)
-- [the-draupnir-project/Draupnir](https://github.com/the-draupnir-project/Draupnir) - A Matrix moderation bot (5 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
