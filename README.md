@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.36.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.36.0), today) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 4 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 4 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.26.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.26.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 1 month ago) - Receive notifications when an image is updated on a Docker registry
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 2 months ago) - A powerful little TUI framework 🏗
 
