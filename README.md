@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (today)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
 - [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) - 💅 New generation of the Jekyll Adfinis Theme (1 month ago)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 month ago)
-- [adfinis/pyaptly](https://github.com/adfinis/pyaptly) - Automates the creation and managment of aptly mirrors and snapshots based on yml input files. (1 month ago)
 
 #### 🌱 My latest projects
 
