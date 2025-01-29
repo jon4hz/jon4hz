@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (today)
 - [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
 - [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
 - [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 week ago)
 - [feat: add info about endeavouros mirror](https://github.com/adfinis/landingpage-repo_mirror/pull/147) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (2 weeks ago)
-- [fix: remove twitter link](https://github.com/adfinis/helm-charts/pull/1358) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
