@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (3 days ago)
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (4 days ago)
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) - Helm Charts for various Applications (1 week ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.0.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.0.1), 1 day ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 2 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.0.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.0.1), 2 days ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 1 week ago) - A Helm chart for NetBox
 - [crazy-max/diun](https://github.com/crazy-max/diun) ([v4.29.0](https://github.com/crazy-max/diun/releases/tag/v4.29.0), 1 month ago) - Receive notifications when an image is updated on a Docker registry
 
 #### 🔨 My recent Pull Requests
 
-- [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (3 days ago)
+- [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (4 days ago)
 - [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
 - [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
 - [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 week ago)
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent Stars
 
-- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (today)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (today)
-- [robin900/gspread-formatting](https://github.com/robin900/gspread-formatting) - Complete cell formatting support for Google spreadsheets via gspread package. (4 days ago)
+- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (1 day ago)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (1 day ago)
+- [robin900/gspread-formatting](https://github.com/robin900/gspread-formatting) - Complete cell formatting support for Google spreadsheets via gspread package. (5 days ago)
 - [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 week ago)
 - [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) -  (1 week ago)
 
