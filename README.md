@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([headwind-mdm-3.0.1](https://github.com/christianhuth/helm-charts/releases/tag/headwind-mdm-3.0.1), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.0.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.0.1), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.25), 1 week ago) - A Helm chart for NetBox
