@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/adfinis-sphinx-template](https://github.com/adfinis/adfinis-sphinx-template) - Sphinx and LaTeX templates for Adfinis (today)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (6 days ago)
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) - Helm Charts for various Applications (1 week ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (3 weeks ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 month ago)
-- [adfinis/jekyll-theme-adfinis-ng](https://github.com/adfinis/jekyll-theme-adfinis-ng) - 💅 New generation of the Jekyll Adfinis Theme (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: rename all adsy appearances](https://github.com/adfinis/adfinis-sphinx-template/pull/4) on [adfinis/adfinis-sphinx-template](https://github.com/adfinis/adfinis-sphinx-template) (today)
 - [feat: support update-motd.d on debian systems](https://github.com/adfinis/ansible-role-motd/pull/7) on [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) (1 day ago)
 - [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (6 days ago)
 - [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
 - [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
-- [feat: add charts for shlink and shlink-web](https://github.com/adfinis/helm-charts/pull/1370) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
