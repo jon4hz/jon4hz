@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-sphinx-template](https://github.com/adfinis/adfinis-sphinx-template) - Sphinx and LaTeX templates for Adfinis (today)
+- [adfinis/adfinis-sphinx-theme](https://github.com/adfinis/adfinis-sphinx-theme) - Sphinx and LaTeX templates for Adfinis (today)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (6 days ago)
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) - Helm Charts for various Applications (1 week ago)
 - [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (3 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.26](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.26), 1 day ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.25), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.0.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.0.1), 1 day ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 5 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.0](https://github.com/zskarte/zskarte/releases/tag/v5.0.0), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [chore: rename all adsy appearances](https://github.com/adfinis/adfinis-sphinx-template/pull/4) on [adfinis/adfinis-sphinx-template](https://github.com/adfinis/adfinis-sphinx-template) (today)
+- [chore: rename all adsy appearances](https://github.com/adfinis/adfinis-sphinx-theme/pull/4) on [adfinis/adfinis-sphinx-theme](https://github.com/adfinis/adfinis-sphinx-theme) (today)
 - [feat: support update-motd.d on debian systems](https://github.com/adfinis/ansible-role-motd/pull/7) on [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) (1 day ago)
 - [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (6 days ago)
 - [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (1 week ago)
