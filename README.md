@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: consistently use extraEnv](https://github.com/christianhuth/helm-charts/pull/1295) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (today)
 - [chore: rename all adsy appearances](https://github.com/adfinis/adfinis-sphinx-theme/pull/4) on [adfinis/adfinis-sphinx-theme](https://github.com/adfinis/adfinis-sphinx-theme) (1 day ago)
 - [feat: support update-motd.d on debian systems](https://github.com/adfinis/ansible-role-motd/pull/7) on [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) (2 days ago)
 - [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 week ago)
 - [feat(shlink-web): support environment variables](https://github.com/christianhuth/helm-charts/pull/1251) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 weeks ago)
-- [feat(shlink-backend): support external database config](https://github.com/christianhuth/helm-charts/pull/1250) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
