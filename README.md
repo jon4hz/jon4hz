@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [netbox-community/netbox-acls](https://github.com/netbox-community/netbox-acls) - A NetBox plugin for Access Lists based off of the NetBox Plugin Demo (today)
+- [kobayashi/eol](https://github.com/kobayashi/eol) - CLI tool for endoflife.date (today)
 - [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (4 days ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (4 days ago)
 - [robin900/gspread-formatting](https://github.com/robin900/gspread-formatting) - Complete cell formatting support for Google spreadsheets via gspread package. (1 week ago)
-- [PCJones/MediathekArr](https://github.com/PCJones/MediathekArr) - Integrate ARD&amp;ZDF Mediathek in Prowlarr, Sonarr and Radarr (1 week ago)
-- [LukeYui/EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) -  (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
