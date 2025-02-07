@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [elliot40404/volgo](https://github.com/elliot40404/volgo) - Volgo is a cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH! (today)
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH (1 day ago)
 - [netbox-community/netbox-acls](https://github.com/netbox-community/netbox-acls) - A NetBox plugin for Access Lists based off of the NetBox Plugin Demo (2 days ago)
 - [kobayashi/eol](https://github.com/kobayashi/eol) - CLI tool for endoflife.date (2 days ago)
 - [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (6 days ago)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
