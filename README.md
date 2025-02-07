@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) - Helm Charts for various Applications (2 days ago)
 - [adfinis/adfinis-sphinx-theme](https://github.com/adfinis/adfinis-sphinx-theme) - Sphinx and LaTeX templates for Adfinis (3 days ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 week ago)
-- [adfinis/ansible-collection-maintenance](https://github.com/adfinis/ansible-collection-maintenance) - Automation of common Linux system maintenance tasks (1 month ago)
 
 #### 🌱 My latest projects
 
