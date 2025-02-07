@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
 - [feat: method to check filtering state of select fields](https://github.com/charmbracelet/huh/pull/524) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 day ago)
 - [fix: consistently use extraEnv](https://github.com/christianhuth/helm-charts/pull/1295) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 days ago)
 - [chore: rename all adsy appearances](https://github.com/adfinis/adfinis-sphinx-theme/pull/4) on [adfinis/adfinis-sphinx-theme](https://github.com/adfinis/adfinis-sphinx-theme) (3 days ago)
 - [feat: support update-motd.d on debian systems](https://github.com/adfinis/ansible-role-motd/pull/7) on [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) (4 days ago)
-- [fix: correct url encoding when sending service alerts to twilio](https://github.com/adfinis/ansible-role-icinga2_master/pull/127) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 week ago)
 
 #### ⭐ Recent Stars
 
