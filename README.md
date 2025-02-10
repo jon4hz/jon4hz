@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.27](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.27), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.2.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.2.0), 3 days ago) - Helm Charts for various Applications
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.2.2](https://github.com/jon4hz/awoolt/releases/tag/v0.2.2), 3 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.28](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.28), 5 days ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.0), 6 days ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([kubernetes-etcd-backup-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/kubernetes-etcd-backup-1.6.0), 1 week ago) - 📈 Helm charts from Adfinis
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [anchore/binny](https://github.com/anchore/binny) - Manage a directory of binaries without a package manager (today)
 - [tuya-cloudcutter/tuya-cloudcutter](https://github.com/tuya-cloudcutter/tuya-cloudcutter) - A tool that disconnects Tuya IoT devices from the cloud, allowing them to run completely locally. (1 day ago)
 - [elliot40404/volgo](https://github.com/elliot40404/volgo) - Volgo is a cross-platform CLI app written in Go for controlling system volume from the terminal. Use simple commands or a beautiful interactive TUI—even over SSH! (3 days ago)
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH (4 days ago)
 - [netbox-community/netbox-acls](https://github.com/netbox-community/netbox-acls) - A NetBox plugin for Access Lists based off of the NetBox Plugin Demo (5 days ago)
-- [kobayashi/eol](https://github.com/kobayashi/eol) - CLI tool for endoflife.date (5 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
