@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), today) - A powerful little TUI framework 🏗
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.0.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.0.1), today) - This role is used to configure an icinga2 master
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.2](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.2), 1 day ago) - A powerful little TUI framework 🏗
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.29), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.2.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.2.0), 4 days ago) - Helm Charts for various Applications
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.2.2](https://github.com/jon4hz/awoolt/releases/tag/v0.2.2), 4 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
