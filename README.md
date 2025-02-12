@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.2.0](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.2.0), today) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 day ago) - A powerful little TUI framework 🏗
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.0.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.0.1), 1 day ago) - This role is used to configure an icinga2 master
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.1.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.1.29), 2 days ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.2.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.2.0), 5 days ago) - Helm Charts for various Applications
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.2.2](https://github.com/jon4hz/awoolt/releases/tag/v0.2.2), 5 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
 
