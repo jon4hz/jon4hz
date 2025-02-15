@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.29), 1 day ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.2.2](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.2.2), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.1](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.1), 2 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 4 days ago) - A powerful little TUI framework 🏗
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.0.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.0.1), 4 days ago) - This role is used to configure an icinga2 master
