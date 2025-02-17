@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kube-ops-view-4.1.1](https://github.com/christianhuth/helm-charts/releases/tag/kube-ops-view-4.1.1), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.2.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.2.3), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.1](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.1), 4 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 6 days ago) - A powerful little TUI framework 🏗
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.0.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.0.1), 6 days ago) - This role is used to configure an icinga2 master
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.2.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.2.0), 1 week ago) - Helm Charts for various Applications
 
 #### 🔨 My recent Pull Requests
 
