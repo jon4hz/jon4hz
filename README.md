@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (today)
 - [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 week ago)
 - [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 weeks ago)
 - [feat: method to check filtering state of select fields](https://github.com/charmbracelet/huh/pull/524) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 weeks ago)
 - [fix: consistently use extraEnv](https://github.com/christianhuth/helm-charts/pull/1295) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 weeks ago)
-- [chore: rename all adsy appearances](https://github.com/adfinis/adfinis-sphinx-theme/pull/4) on [adfinis/adfinis-sphinx-theme](https://github.com/adfinis/adfinis-sphinx-theme) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
