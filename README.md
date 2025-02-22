@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.2.8](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.2.8), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.35](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.35), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([popeye-2.2.2](https://github.com/christianhuth/helm-charts/releases/tag/popeye-2.2.2), 2 days ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.1](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.1), 1 week ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
