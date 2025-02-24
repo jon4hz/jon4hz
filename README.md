@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([dns-exporter-1.0.0](https://github.com/christianhuth/helm-charts/releases/tag/dns-exporter-1.0.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.1.6](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.1.6), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.0](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.0), 2 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.1](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.1), 1 week ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [paralin/sendgmailapi](https://github.com/paralin/sendgmailapi) - git send-email using the gmail api (today)
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix] (4 days ago)
 - [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Open source gamepad-native game launcher and overlay (5 days ago)
 - [DivanX10/ESP-Philips-5400-Coffee-Machine](https://github.com/DivanX10/ESP-Philips-5400-Coffee-Machine) - ESP Philips 5400 Coffee Machine (1 week ago)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (1 week ago)
-- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
