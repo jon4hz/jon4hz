@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.1.4](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.1.4), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-2.0.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-2.0.2), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.0](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.0), 2 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.1](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.1), 1 week ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.3), 1 week ago) - A powerful little TUI framework 🏗
