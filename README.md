@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (4 days ago)
+- [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (today)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (5 days ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (2 weeks ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (today)
 - [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (4 days ago)
 - [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (2 weeks ago)
 - [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 weeks ago)
 - [feat: method to check filtering state of select fields](https://github.com/charmbracelet/huh/pull/524) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (2 weeks ago)
-- [fix: consistently use extraEnv](https://github.com/christianhuth/helm-charts/pull/1295) on [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
