@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.37](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.37), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.4.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.4.1), 1 day ago) - Helm Charts for various Applications
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 2 days ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 2 days ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.1), 2 days ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.0.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.0.1), 2 weeks ago) - This role is used to configure an icinga2 master
 
 #### 🔨 My recent Pull Requests
