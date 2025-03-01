@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.5.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.5.0), 1 day ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.5.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.5.1), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.2](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.2), 2 days ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 4 days ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 4 days ago) - 📈 Helm charts from Adfinis
