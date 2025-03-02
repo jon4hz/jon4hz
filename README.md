@@ -5,8 +5,8 @@
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (5 days ago)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (1 week ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (2 weeks ago)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (3 weeks ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 weeks ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (3 weeks ago)
 
 #### 🌱 My latest projects
 
