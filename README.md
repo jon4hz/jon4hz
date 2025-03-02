@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [frederikb96/homeassistant-borg-backups](https://github.com/frederikb96/homeassistant-borg-backups) -  (today)
 - [paralin/sendgmailapi](https://github.com/paralin/sendgmailapi) - git send-email using the gmail api (6 days ago)
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix] (1 week ago)
 - [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Open source gamepad-native game launcher and overlay (1 week ago)
 - [DivanX10/ESP-Philips-5400-Coffee-Machine](https://github.com/DivanX10/ESP-Philips-5400-Coffee-Machine) - ESP Philips 5400 Coffee Machine (2 weeks ago)
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
