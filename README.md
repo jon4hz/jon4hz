@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.38](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.38), today) - A Helm chart for NetBox
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), today) - Zabbix Ansible modules
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.5.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.5.1), 2 days ago) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.2](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.2), 4 days ago) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 6 days ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 6 days ago) - 📈 Helm charts from Adfinis
 
