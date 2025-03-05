@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.41](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.41), today) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.6.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.6.0), today) - Helm Charts for various Applications
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 1 day ago) - Zabbix Ansible modules
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.41](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.41), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.6.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.6.0), 1 day ago) - Helm Charts for various Applications
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 2 days ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 1 week ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.15.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.15.0), 1 week ago) - 📈 Helm charts from Adfinis
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 day ago)
-- [frederikb96/homeassistant-borg-backups](https://github.com/frederikb96/homeassistant-borg-backups) -  (2 days ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (2 days ago)
+- [frederikb96/homeassistant-borg-backups](https://github.com/frederikb96/homeassistant-borg-backups) -  (3 days ago)
 - [paralin/sendgmailapi](https://github.com/paralin/sendgmailapi) - git send-email using the gmail api (1 week ago)
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix] (1 week ago)
-- [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Open source gamepad-native game launcher and overlay (1 week ago)
+- [ShadowBlip/OpenGamepadUI](https://github.com/ShadowBlip/OpenGamepadUI) - Open source gamepad-native game launcher and overlay (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
