@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (today)
+- [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant! (today)
 - [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (today)
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (4 days ago)
 - [frederikb96/homeassistant-borg-backups](https://github.com/frederikb96/homeassistant-borg-backups) -  (5 days ago)
-- [paralin/sendgmailapi](https://github.com/paralin/sendgmailapi) - git send-email using the gmail api (1 week ago)
-- [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix] (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
