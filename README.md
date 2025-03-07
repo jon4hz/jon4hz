@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.4.2](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.4.2), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.6.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.6.1), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.8](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.8), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 4 days ago) - Zabbix Ansible modules
