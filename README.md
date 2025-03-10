@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/countly-1.1.0), 2 days ago) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.9](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.9), 2 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 3 days ago) - 📈 Helm charts from Adfinis
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 6 days ago) - Zabbix Ansible modules
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/countly-1.1.0), 3 days ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.9](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.9), 3 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 4 days ago) - 📈 Helm charts from Adfinis
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 1 week ago) - Zabbix Ansible modules
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (2 days ago)
-- [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (2 days ago)
-- [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant! (2 days ago)
-- [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (2 days ago)
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (6 days ago)
+- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (3 days ago)
+- [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (3 days ago)
+- [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant! (3 days ago)
+- [tronbyt/server](https://github.com/tronbyt/server) - Manage your apps on your Tronbyt (flashed Tidbyt) completely locally without relying on the backend servers operated by Tidbyt. (3 days ago)
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean! (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
