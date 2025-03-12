@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.1](https://github.com/zskarte/zskarte/releases/tag/v5.0.1), today) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.3.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.3.0), 1 day ago) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 2 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 6 days ago) - 📈 Helm charts from Adfinis
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 1 week ago) - Zabbix Ansible modules
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.4), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
