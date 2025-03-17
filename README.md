@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.1](https://github.com/zskarte/zskarte/releases/tag/v5.0.1), 4 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.3.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.3.0), 5 days ago) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 6 days ago) - A Helm chart for NetBox
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.1](https://github.com/zskarte/zskarte/releases/tag/v5.0.1), 5 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.3.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.3.0), 6 days ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.11), 1 week ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 1 week ago) - 📈 Helm charts from Adfinis
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 1 week ago) - Zabbix Ansible modules
+- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 2 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (1 day ago)
-- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (2 days ago)
+- [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (2 days ago)
+- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (3 days ago)
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (1 week ago)
 - [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (1 week ago)
 - [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant! (1 week ago)
