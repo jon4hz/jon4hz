@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (today)
+- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (today)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (3 weeks ago)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (4 weeks ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 month ago)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) ([v0.1.3](https://github.com/jon4hz/canihazgnomeupdate/releases/tag/v0.1.3), today) - 🧙 check if all your extensions support a specific gnome version
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.50](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.50), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.8.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.8.0), 1 day ago) - Helm Charts for various Applications
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.1](https://github.com/zskarte/zskarte/releases/tag/v5.0.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 2 weeks ago) - 📈 Helm charts from Adfinis
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 2 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
 
