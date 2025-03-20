@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (today)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (3 weeks ago)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (4 weeks ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 month ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 month ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 
 #### 🌱 My latest projects
