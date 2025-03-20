@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (3 weeks ago)
-- [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (3 weeks ago)
+- [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (4 weeks ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 month ago)
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (1 month ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.8.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.8.0), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.13), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.8.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.8.0), 1 day ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.13), 2 days ago) - A Helm chart for NetBox
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.0.1](https://github.com/zskarte/zskarte/releases/tag/v5.0.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 1 week ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.91.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.91.0), 2 weeks ago) - 📈 Helm charts from Adfinis
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([3.3.0](https://github.com/ansible-collections/community.zabbix/releases/tag/3.3.0), 2 weeks ago) - Zabbix Ansible modules
 
 #### 🔨 My recent Pull Requests
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (4 days ago)
-- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (5 days ago)
+- [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (5 days ago)
+- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (6 days ago)
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (1 week ago)
 - [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (1 week ago)
 - [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant! (1 week ago)
