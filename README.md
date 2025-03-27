@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (today)
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (1 week ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 week ago)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 month ago)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (1 month ago)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), today) - Ansible role to configure 389DS
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.30.0](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.30.0), today) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 day ago) - A powerful little TUI framework 🏗
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.20](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.20), 3 days ago) - A Helm chart for NetBox
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) ([v0.1.3](https://github.com/jon4hz/canihazgnomeupdate/releases/tag/v0.1.3), 1 week ago) - 🧙 check if all your extensions support a specific gnome version
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.8.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.8.0), 1 week ago) - Helm Charts for various Applications
 
 #### 🔨 My recent Pull Requests
 
