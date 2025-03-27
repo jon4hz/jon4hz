@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.30.0](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.30.0), today) - 📈 Helm charts from Adfinis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 day ago) - A powerful little TUI framework 🏗
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.229.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.229.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.20](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.20), 3 days ago) - A Helm chart for NetBox
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) ([v0.1.3](https://github.com/jon4hz/canihazgnomeupdate/releases/tag/v0.1.3), 1 week ago) - 🧙 check if all your extensions support a specific gnome version
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.8.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.8.0), 1 week ago) - Helm Charts for various Applications
