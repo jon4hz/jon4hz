@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.92.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.92.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.92.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.92.1), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.21](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.21), 5 days ago) - A Helm chart for NetBox
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 6 days ago) - Ansible role to configure 389DS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 week ago) - A powerful little TUI framework 🏗
