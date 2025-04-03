@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (today)
 - [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (2 weeks ago)
 - [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (2 weeks ago)
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (3 weeks ago)
 - [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (3 weeks ago)
-- [savdagod/TidbytAssistant](https://github.com/savdagod/TidbytAssistant) - Send custom apps, notifications or plain text to a Tidbyt device from HomeAssistant! (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
