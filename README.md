@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.92.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.92.1), 1 day ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.21](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.21), 6 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.92.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.92.1), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.21](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.21), 1 week ago) - A Helm chart for NetBox
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 1 week ago) - Ansible role to configure 389DS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 week ago) - A powerful little TUI framework 🏗
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) ([v0.1.3](https://github.com/jon4hz/canihazgnomeupdate/releases/tag/v0.1.3), 2 weeks ago) - 🧙 check if all your extensions support a specific gnome version
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (today)
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (1 day ago)
 - [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (2 weeks ago)
-- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (2 weeks ago)
-- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (3 weeks ago)
-- [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (3 weeks ago)
+- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (3 weeks ago)
+- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices (4 weeks ago)
+- [savdagod/ha-addons](https://github.com/savdagod/ha-addons) - HA add-on repository (4 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
