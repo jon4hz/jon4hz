@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 week ago)
-- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 weeks ago)
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (2 weeks ago)
+- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 weeks ago)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 month ago)
 - [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (1 month ago)
 
