@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (today)
 - [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features. (today)
 - [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat) - 😼 The cat tells you the CPU usage by running speed (today)
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (4 days ago)
 - [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (3 weeks ago)
-- [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
