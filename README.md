@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer&#39;s temperature, voltage, fan speed, memory usage and CPU load. (today)
 - [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (1 day ago)
 - [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features. (1 day ago)
 - [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat) - 😼 The cat tells you the CPU usage by running speed (1 day ago)
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (5 days ago)
-- [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
