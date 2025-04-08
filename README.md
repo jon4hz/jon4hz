@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.21](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.21), 1 week ago) - A Helm chart for NetBox
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 1 week ago) - Ansible role to configure 389DS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 week ago) - A powerful little TUI framework 🏗
@@ -30,14 +30,14 @@
 - [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (1 month ago)
 - [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (1 month ago)
 - [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 month ago)
-- [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 month ago)
+- [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (today)
-- [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features. (today)
-- [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat) - 😼 The cat tells you the CPU usage by running speed (today)
-- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (4 days ago)
+- [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (1 day ago)
+- [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features. (1 day ago)
+- [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat) - 😼 The cat tells you the CPU usage by running speed (1 day ago)
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (5 days ago)
 - [mikepruett3/homeassistant-desktop](https://github.com/mikepruett3/homeassistant-desktop) - A simple Home Assistant Desktop application, built using Electron.js (3 weeks ago)
 
 #### 📫 How to reach me
