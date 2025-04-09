@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.58](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.58), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.22](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.22), today) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 1 week ago) - Ansible role to configure 389DS
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 2 weeks ago) - A powerful little TUI framework 🏗
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) ([v0.1.3](https://github.com/jon4hz/canihazgnomeupdate/releases/tag/v0.1.3), 2 weeks ago) - 🧙 check if all your extensions support a specific gnome version
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer&#39;s temperature, voltage, fan speed, memory usage and CPU load. (today)
-- [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (1 day ago)
-- [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features. (1 day ago)
-- [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat) - 😼 The cat tells you the CPU usage by running speed (1 day ago)
-- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (5 days ago)
+- [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer&#39;s temperature, voltage, fan speed, memory usage and CPU load. (1 day ago)
+- [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (2 days ago)
+- [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features. (2 days ago)
+- [win0err/gnome-runcat](https://github.com/win0err/gnome-runcat) - 😼 The cat tells you the CPU usage by running speed (2 days ago)
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
