@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([etcd-defrag-1.2.5](https://github.com/christianhuth/helm-charts/releases/tag/etcd-defrag-1.2.5), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.24](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.24), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 2 weeks ago) - Ansible role to configure 389DS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 2 weeks ago) - A powerful little TUI framework 🏗
-- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) ([v0.1.3](https://github.com/jon4hz/canihazgnomeupdate/releases/tag/v0.1.3), 3 weeks ago) - 🧙 check if all your extensions support a specific gnome version
 
 #### 🔨 My recent Pull Requests
 
