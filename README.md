@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([etcd-defrag-1.2.5](https://github.com/christianhuth/helm-charts/releases/tag/etcd-defrag-1.2.5), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.6.0](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.6.0), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.24](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.24), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 2 weeks ago) - Ansible role to configure 389DS
