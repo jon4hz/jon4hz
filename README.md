@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (today)
 - [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (today)
 - [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (today)
 - [wacken-glup/wacken-glup](https://github.com/wacken-glup/wacken-glup) - An open source Group Line Up Planner for Wacken (2025) (today)
 - [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer&#39;s temperature, voltage, fan speed, memory usage and CPU load. (2 days ago)
-- [swsnr/gnome-shell-extension-typescript-template](https://github.com/swsnr/gnome-shell-extension-typescript-template) - Personal template for typescript-based Gnome Shell extensions (3 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
