@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.6.0](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.6.0), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.24](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.24), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 3 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.6.0](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.6.0), 1 day ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.24](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.24), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.231.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.231.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 2 weeks ago) - Ansible role to configure 389DS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 2 weeks ago) - A powerful little TUI framework 🏗
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (today)
-- [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (today)
-- [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (today)
-- [wacken-glup/wacken-glup](https://github.com/wacken-glup/wacken-glup) - An open source Group Line Up Planner for Wacken (2025) (today)
-- [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer&#39;s temperature, voltage, fan speed, memory usage and CPU load. (2 days ago)
+- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (1 day ago)
+- [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (1 day ago)
+- [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (1 day ago)
+- [wacken-glup/wacken-glup](https://github.com/wacken-glup/wacken-glup) - An open source Group Line Up Planner for Wacken (2025) (1 day ago)
+- [corecoding/Vitals](https://github.com/corecoding/Vitals) - A glimpse into your computer&#39;s temperature, voltage, fan speed, memory usage and CPU load. (3 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
