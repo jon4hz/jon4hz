@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.8.3](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.8.3), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.232.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.232.0), today) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.8.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.8.2), 1 day ago) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.25](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.25), 4 days ago) - A Helm chart for NetBox
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 2 weeks ago) - Ansible role to configure 389DS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 2 weeks ago) - A powerful little TUI framework 🏗
