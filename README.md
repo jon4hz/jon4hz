@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.63](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.63), today) - A Helm chart for NetBox
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), today) - Build terminal forms and prompts 🤷🏻‍♀️
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.9.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.9.2), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.26](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.26), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.232.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.232.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 2 weeks ago) - Ansible role to configure 389DS
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.1), 3 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 My recent Pull Requests
 
