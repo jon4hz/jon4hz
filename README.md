@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.4.1](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.4.1), 1 day ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([popeye-2.3.0](https://github.com/christianhuth/helm-charts/releases/tag/popeye-2.3.0), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.26](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.26), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.232.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.232.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 2 weeks ago) - Ansible role to configure 389DS
