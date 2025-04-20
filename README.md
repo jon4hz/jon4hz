@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([prometheus-pve-exporter-2.0.4](https://github.com/christianhuth/helm-charts/releases/tag/prometheus-pve-exporter-2.0.4), 3 days ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.4.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.4.0), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.233.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.233.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.27](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.27), 4 days ago) - A Helm chart for NetBox
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 4 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
