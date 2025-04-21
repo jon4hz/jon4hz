@@ -6,7 +6,7 @@
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (1 month ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
 - [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 month ago)
-- [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (1 month ago)
+- [adfinis/ansible-role-motd](https://github.com/adfinis/ansible-role-motd) - Ansible role motd (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.4.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.4.0), today) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.233.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.233.0), 3 days ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.27](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.27), 4 days ago) - A Helm chart for NetBox
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 4 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([syncstorage-rs-1.0.3](https://github.com/christianhuth/helm-charts/releases/tag/syncstorage-rs-1.0.3), today) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.233.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.233.0), 4 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.27](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.27), 5 days ago) - A Helm chart for NetBox
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 3 weeks ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
