@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.68](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.68), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.6.2](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.6.2), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.31](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.31), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.234.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.234.0), today) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 3 weeks ago) - Ansible role to configure 389DS
