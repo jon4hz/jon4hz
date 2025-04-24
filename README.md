@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.0](https://github.com/zskarte/zskarte/releases/tag/v5.1.0), today) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.32](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.32), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.6.2](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.6.2), 1 day ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.234.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.234.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.0.1](https://github.com/lvps/389ds-server/releases/tag/v4.0.1), 4 weeks ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
 
