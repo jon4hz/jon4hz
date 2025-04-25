@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-5.11.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-5.11.0), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.34](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.34), today) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.6.3](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.6.3), 1 day ago) - Helm Charts for various Applications
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.0](https://github.com/zskarte/zskarte/releases/tag/v5.1.0), 1 day ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.234.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.234.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
