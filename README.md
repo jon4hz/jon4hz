@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 day ago)
-- [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (4 weeks ago)
+- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 days ago)
+- [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (1 month ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
-- [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (1 month ago)
+- [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) - 📚️ Overview of Adfinis Docs (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.71](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.71), today) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.6.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.6.4), today) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), today) - 📈 Helm charts from Adfinis
-- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), today) - Zivilschutz-Karte allows to draw situation maps for disaster management
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.35](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.35), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.6.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.6.4), 1 day ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 1 day ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (4 weeks ago)
-- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (1 month ago)
+- [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
+- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 - [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 - [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (2 months ago)
 - [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 months ago)
