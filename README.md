@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.36), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-6.0.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-6.0.2), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.72](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.72), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 3 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
+- [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (today)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
 - [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 - [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 - [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (2 months ago)
-- [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 months ago)
 
 #### ⭐ Recent Stars
 
