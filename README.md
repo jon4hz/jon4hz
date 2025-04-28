@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement slash command to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/2) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (today)
 - [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (today)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
 - [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 - [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
-- [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (2 months ago)
 
 #### ⭐ Recent Stars
 
