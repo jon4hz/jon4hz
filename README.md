@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([prometheus-pve-exporter-2.0.7](https://github.com/christianhuth/helm-charts/releases/tag/prometheus-pve-exporter-2.0.7), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubenav-1.0.7](https://github.com/christianhuth/helm-charts/releases/tag/kubenav-1.0.7), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.36), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 4 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
