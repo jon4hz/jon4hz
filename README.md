@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (5 days ago)
+- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (6 days ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
 - [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (1 month ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
@@ -18,17 +18,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.5](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.5), today) - A powerful little TUI framework 🏗
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.0](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.0), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.36), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 4 days ago) - 📈 Helm charts from Adfinis
-- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 4 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.3.5](https://github.com/charmbracelet/bubbletea/releases/tag/v1.3.5), 1 day ago) - A powerful little TUI framework 🏗
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.0](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.0), 1 day ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.36), 2 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.0), 5 days ago) - 📈 Helm charts from Adfinis
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 5 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: use plugin api to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/3) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (today)
-- [feat: implement slash command to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/2) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 day ago)
-- [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 day ago)
+- [refactor: use plugin api to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/3) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 day ago)
+- [feat: implement slash command to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/2) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (2 days ago)
+- [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (2 days ago)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
 - [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 
