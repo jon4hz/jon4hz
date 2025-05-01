@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-2.1.5](https://github.com/christianhuth/helm-charts/releases/tag/countly-2.1.5), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.39](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.39), today) - A Helm chart for NetBox
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.2), 1 day ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.2](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.2), 1 day ago) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-6.0.5](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-6.0.5), 1 day ago) - Helm Charts for various Applications
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 6 days ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 
 #### 🔨 My recent Pull Requests
