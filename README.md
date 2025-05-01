@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-5.0.75](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-5.0.75), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.40](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.40), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-2.1.5](https://github.com/christianhuth/helm-charts/releases/tag/countly-2.1.5), today) - Helm Charts for various Applications
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-beta.2](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-beta.2), 1 day ago) - A powerful little TUI framework 🏗
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.2](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.2), 1 day ago) - 📈 Helm charts from Adfinis
