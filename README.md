@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.42](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.42), today) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.0.6](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.0.6), 2 days ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.2](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.2), 5 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.3.42](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.3.42), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.0.6](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.0.6), 3 days ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.2](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.2), 6 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: use plugin api to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/3) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (6 days ago)
+- [refactor: use plugin api to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/3) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [feat: implement slash command to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/2) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (today)
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (1 day ago)
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (3 weeks ago)
 - [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (3 weeks ago)
 - [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (3 weeks ago)
