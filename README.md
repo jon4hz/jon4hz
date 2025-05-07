@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [upstream changes](https://github.com/adfinis-forks/mattermost-plugin-memes/pull/1) on [adfinis-forks/mattermost-plugin-memes](https://github.com/adfinis-forks/mattermost-plugin-memes) (today)
 - [refactor: use plugin api to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/3) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [feat: implement slash command to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/2) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
-- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
 
 #### ⭐ Recent Stars
 
