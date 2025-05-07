@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.1.0), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.0](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.0), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.235.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.235.0), today) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.1), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.1.0), 1 day ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.235.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.235.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 3 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (1 day ago)
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (2 days ago)
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (3 weeks ago)
 - [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (3 weeks ago)
 - [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (3 weeks ago)
