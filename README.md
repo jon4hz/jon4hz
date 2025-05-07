@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [kirkegaard/terminal-pet](https://github.com/kirkegaard/terminal-pet) - $ ssh terminal.pet (today)
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (2 days ago)
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (3 weeks ago)
 - [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (3 weeks ago)
 - [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (3 weeks ago)
-- [wacken-glup/wacken-glup](https://github.com/wacken-glup/wacken-glup) - An open source Group Line Up Planner for Wacken (2025) (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
