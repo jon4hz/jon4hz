@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.2](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.2), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.1), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.3](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.3), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.1.0), 1 day ago) - Helm Charts for various Applications
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [upstream changes](https://github.com/adfinis-forks/mattermost-plugin-memes/pull/1) on [adfinis-forks/mattermost-plugin-memes](https://github.com/adfinis-forks/mattermost-plugin-memes) (today)
-- [refactor: use plugin api to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/3) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
-- [feat: implement slash command to start meeting](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/2) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
-- [feat: first working version for mattermost v10](https://github.com/adfinis-forks/mattermost-google-meet-plugin/pull/1) on [adfinis-forks/mattermost-google-meet-plugin](https://github.com/adfinis-forks/mattermost-google-meet-plugin) (1 week ago)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
+- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
+- [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
+- [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (2 months ago)
+- [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 months ago)
 
 #### ⭐ Recent Stars
 
