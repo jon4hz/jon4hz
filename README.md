@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.1.1](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.1.1), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.3), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.5.3](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.5.3), 1 day ago) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.1.0), 2 days ago) - Helm Charts for various Applications
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 3 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
