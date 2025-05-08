@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI (today)
 - [kirkegaard/terminal-pet](https://github.com/kirkegaard/terminal-pet) - $ ssh terminal.pet (1 day ago)
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (3 days ago)
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (4 weeks ago)
 - [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (4 weeks ago)
-- [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Gnome search providers for recent workspaces of VSCode variants (4 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
