@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-3.7.0](https://github.com/christianhuth/helm-charts/releases/tag/typo3-3.7.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.0), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.4](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.4), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.93.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.93.0), today) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 1 week ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
