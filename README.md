@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [sakithb/media-controls](https://github.com/sakithb/media-controls) - A mpris client for the Gnome shell. (today)
+- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop (today)
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI (today)
 - [kirkegaard/terminal-pet](https://github.com/kirkegaard/terminal-pet) - $ ssh terminal.pet (1 day ago)
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager (3 days ago)
-- [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription (4 weeks ago)
-- [swsnr/gsebuild](https://github.com/swsnr/gsebuild) - Opinionated build tooling for Gnome Shell extensions (4 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
