@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (today)
 - [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify&#39;s &#34;Discover Weekly&#34; for self-hosted music systems (today)
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby. (today)
 - [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server (today)
 - [Zigl3ur/jellyhub](https://github.com/Zigl3ur/jellyhub) - JellyHub is a web app that indexes all content from multiple Jellyfin servers, allowing you to see which items are available on which server. (today)
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (today)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
