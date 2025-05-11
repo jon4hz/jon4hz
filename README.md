@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [chahn/subfilter](https://github.com/chahn/subfilter) - This Traefik middleware modifies HTTP response bodies and headers according to user-defined regular expression (regex) patterns and replacements. (today)
-- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (2 days ago)
-- [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify&#39;s &#34;Discover Weekly&#34; for self-hosted music systems (2 days ago)
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby. (2 days ago)
-- [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server (2 days ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (today)
+- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (today)
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (today)
+- [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (today)
+- [johnpc/jellyfin-wrapped](https://github.com/johnpc/jellyfin-wrapped) -  (today)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
