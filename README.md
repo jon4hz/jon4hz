@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (today)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (today)
 - [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (today)
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (today)
 - [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (today)
-- [johnpc/jellyfin-wrapped](https://github.com/johnpc/jellyfin-wrapped) -  (today)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
