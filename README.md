@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (3 days ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (4 days ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 weeks ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.6), today) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.2](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.2), today) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.93.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.93.0), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.6), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.2](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.2), 1 day ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.93.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.93.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 2 weeks ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 3 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (1 day ago)
-- [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify&#39;s &#34;Discover Weekly&#34; for self-hosted music systems (1 day ago)
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby. (1 day ago)
-- [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server (1 day ago)
-- [Zigl3ur/jellyhub](https://github.com/Zigl3ur/jellyhub) - JellyHub is a web app that indexes all content from multiple Jellyfin servers, allowing you to see which items are available on which server. (1 day ago)
+- [chahn/subfilter](https://github.com/chahn/subfilter) - This Traefik middleware modifies HTTP response bodies and headers according to user-defined regular expression (regex) patterns and replacements. (today)
+- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (2 days ago)
+- [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify&#39;s &#34;Discover Weekly&#34; for self-hosted music systems (2 days ago)
+- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby. (2 days ago)
+- [kamilkosek/jellyplist](https://github.com/kamilkosek/jellyplist) - A  utility to help you sync playlists from spotify to your jellyfin server (2 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
