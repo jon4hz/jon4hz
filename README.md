@@ -36,9 +36,9 @@
 
 - [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (1 day ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 day ago)
-- [Threadfin/Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe (1 day ago)
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (1 day ago)
 - [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (1 day ago)
+- [johnpc/jellyfin-wrapped](https://github.com/johnpc/jellyfin-wrapped) -  (1 day ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
