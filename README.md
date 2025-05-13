@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (5 days ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (6 days ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 weeks ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([mailcow-exporter-1.0.0](https://github.com/christianhuth/helm-charts/releases/tag/mailcow-exporter-1.0.0), today) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([customer-center-0.2.35](https://github.com/adfinis/helm-charts/releases/tag/customer-center-0.2.35), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.6), 2 days ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([mailcow-exporter-1.0.0](https://github.com/christianhuth/helm-charts/releases/tag/mailcow-exporter-1.0.0), 1 day ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([customer-center-0.2.35](https://github.com/adfinis/helm-charts/releases/tag/customer-center-0.2.35), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-0.6.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-0.6.6), 3 days ago) - A Helm chart for NetBox
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 2 weeks ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 3 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (1 day ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 day ago)
-- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (1 day ago)
-- [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (1 day ago)
-- [johnpc/jellyfin-wrapped](https://github.com/johnpc/jellyfin-wrapped) -  (1 day ago)
+- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (2 days ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 days ago)
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (2 days ago)
+- [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (2 days ago)
+- [johnpc/jellyfin-wrapped](https://github.com/johnpc/jellyfin-wrapped) -  (2 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
