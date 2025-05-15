@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (today)
 - [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (4 days ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (4 days ago)
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (4 days ago)
 - [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (4 days ago)
-- [johnpc/jellyfin-wrapped](https://github.com/johnpc/jellyfin-wrapped) -  (4 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
