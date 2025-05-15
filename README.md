@@ -6,7 +6,7 @@
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (3 weeks ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
-- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (1 month ago)
+- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.1.1](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.1.1), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.94.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.94.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.2.2](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.2.2), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.6), 1 day ago) - A Helm chart for NetBox
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 2 weeks ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 4 weeks ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
