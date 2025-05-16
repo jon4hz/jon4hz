@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
+- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (3 weeks ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.10.5](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.10.5), today) - Helm Charts for various Applications
-- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.1.2](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.1.2), today) - Mounting Google Drive - The Adfinis way 🧙✨
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.94.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.94.0), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.6), 1 day ago) - A Helm chart for NetBox
-- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 2 weeks ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.13), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.10.5](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.10.5), 1 day ago) - Helm Charts for various Applications
+- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.1.2](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.1.2), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.94.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.94.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 3 weeks ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
 
 #### 🔨 My recent Pull Requests
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (today)
-- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (4 days ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (4 days ago)
-- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (4 days ago)
-- [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (4 days ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 day ago)
+- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (5 days ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (5 days ago)
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (5 days ago)
+- [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (5 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
