@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.14](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.14), today) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.2.0](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.2.0), today) - Mounting Google Drive - The Adfinis way 🧙✨
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.7](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.7), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.10.5](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.10.5), 1 day ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.94.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.94.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [zskarte/zskarte](https://github.com/zskarte/zskarte) ([v5.1.1](https://github.com/zskarte/zskarte/releases/tag/v5.1.1), 3 weeks ago) - Zivilschutz-Karte allows to draw situation maps for disaster management
