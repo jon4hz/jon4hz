@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.236.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.236.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.9](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.9), today) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.4.0](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.4.0), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.2](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.2), 2 days ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.94.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.94.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
