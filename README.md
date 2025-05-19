@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) - Mounting Google Drive - The Adfinis way 🧙✨ (2 days ago)
+- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) - Mounting Google Drive - The Adfinis way 🧙✨ (3 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (3 weeks ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
-- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (1 month ago)
+- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.236.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.236.0), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.9](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.9), today) - A Helm chart for NetBox
-- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.4.0](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.4.0), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.2](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.2), 2 days ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.236.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.236.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.9](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.9), 1 day ago) - A Helm chart for NetBox
+- [adfinis/adfinis-rclone-mount](https://github.com/adfinis/adfinis-rclone-mount) ([v0.4.0](https://github.com/adfinis/adfinis-rclone-mount/releases/tag/v0.4.0), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.2](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.2), 3 days ago) - Helm Charts for various Applications
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 days ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (4 days ago)
 - [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (1 week ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 week ago)
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (1 week ago)
