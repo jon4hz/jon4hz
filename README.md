@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [Maciejka1/sunshinestatus](https://github.com/Maciejka1/sunshinestatus) - Gnome extensions to manage status of sunshine. (today)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (6 days ago)
 - [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (1 week ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 week ago)
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (1 week ago)
-- [Joker-KP/jelly-watch-wise](https://github.com/Joker-KP/jelly-watch-wise) - Jellyfin screen time limiter (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
