@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.2.4](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.2.4), 1 day ago) - Helm Charts for various Applications
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 3 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 4 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.2.4](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.2.4), 2 days ago) - Helm Charts for various Applications
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 4 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 5 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [Maciejka1/sunshinestatus](https://github.com/Maciejka1/sunshinestatus) - Gnome extensions to manage status of sunshine. (3 days ago)
+- [Maciejka1/sunshinestatus](https://github.com/Maciejka1/sunshinestatus) - Gnome extensions to manage status of sunshine. (4 days ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
-- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (1 week ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (1 week ago)
-- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (1 week ago)
+- [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (2 weeks ago)
+- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 weeks ago)
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
