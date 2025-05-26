@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
-- [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (1 month ago)
+- [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (2 months ago)
 - [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 months ago)
 
 #### 🌱 My latest projects
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.2.4](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.2.4), 2 days ago) - Helm Charts for various Applications
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 4 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 5 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.2.4](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.2.4), 3 days ago) - Helm Charts for various Applications
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 5 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 6 days ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (1 month ago)
-- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (2 months ago)
+- [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (2 months ago)
+- [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (3 months ago)
 - [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (3 months ago)
 - [ci: publish to galaxy on release only](https://github.com/adfinis/ansible-role-icinga2_master/pull/129) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (3 months ago)
 - [feat: add option to filter fields](https://github.com/jon4hz/awoolt/pull/3) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [Maciejka1/sunshinestatus](https://github.com/Maciejka1/sunshinestatus) - Gnome extensions to manage status of sunshine. (4 days ago)
+- [Maciejka1/sunshinestatus](https://github.com/Maciejka1/sunshinestatus) - Gnome extensions to manage status of sunshine. (5 days ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
 - [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (2 weeks ago)
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 weeks ago)
