@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [IAmParadox27/jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar) - A Jellyfin Featured Content Bar to show off your media collection (today)
+- [lscambo13/ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI/UX. (today)
 - [Maciejka1/sunshinestatus](https://github.com/Maciejka1/sunshinestatus) - Gnome extensions to manage status of sunshine. (5 days ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 week ago)
 - [aelew/lookup.tools](https://github.com/aelew/lookup.tools) - 🔎 The cyber swiss army knife of lookup tools. Research information on domains, IP addresses, email addresses, and more. (2 weeks ago)
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies (2 weeks ago)
-- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
