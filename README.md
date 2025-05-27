@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (4 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (2 months ago)
@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.3.1](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.3.1), today) - Helm Charts for various Applications
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 5 days ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 6 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.3.1](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.3.1), 1 day ago) - Helm Charts for various Applications
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 6 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.5](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.5), 1 week ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [IAmParadox27/jellyfin-plugin-custom-tabs](https://github.com/IAmParadox27/jellyfin-plugin-custom-tabs) - Jellyfin plugin to add custom tabs to the jellyfin-web title bar (today)
-- [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly. (today)
-- [IAmParadox27/jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance (today)
-- [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI (today)
-- [IAmParadox27/jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar) - A Jellyfin Featured Content Bar to show off your media collection (today)
+- [IAmParadox27/jellyfin-plugin-custom-tabs](https://github.com/IAmParadox27/jellyfin-plugin-custom-tabs) - Jellyfin plugin to add custom tabs to the jellyfin-web title bar (1 day ago)
+- [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly. (1 day ago)
+- [IAmParadox27/jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance (1 day ago)
+- [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI (1 day ago)
+- [IAmParadox27/jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar) - A Jellyfin Featured Content Bar to show off your media collection (1 day ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
