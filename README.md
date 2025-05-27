@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.14.7](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.14.7), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([headwind-mdm-3.4.5](https://github.com/christianhuth/helm-charts/releases/tag/headwind-mdm-3.4.5), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.6](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.6), today) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.18](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.18), 6 days ago) - A Helm chart for NetBox
