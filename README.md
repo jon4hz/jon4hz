@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [zelenin/go-tdlib](https://github.com/zelenin/go-tdlib) - Go wrapper for TDLib (Telegram Database Library) (today)
 - [IAmParadox27/jellyfin-plugin-custom-tabs](https://github.com/IAmParadox27/jellyfin-plugin-custom-tabs) - Jellyfin plugin to add custom tabs to the jellyfin-web title bar (3 days ago)
 - [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly. (3 days ago)
 - [IAmParadox27/jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance (3 days ago)
 - [IAmParadox27/jellyfin-plugin-pages](https://github.com/IAmParadox27/jellyfin-plugin-pages) - Allows plugins to add pages to the main UI (3 days ago)
-- [IAmParadox27/jellyfin-plugin-media-bar](https://github.com/IAmParadox27/jellyfin-plugin-media-bar) - A Jellyfin Featured Content Bar to show off your media collection (3 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
