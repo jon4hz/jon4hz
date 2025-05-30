@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.1.7](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.1.7), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.10.8](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.10.8), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.12](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.12), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.6](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.6), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.0.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.0.1), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [kekePower/cognito-ai-search](https://github.com/kekePower/cognito-ai-search) - Powerful search page powered by LLMs and SearXNG (today)
 - [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask (today)
 - [zelenin/go-tdlib](https://github.com/zelenin/go-tdlib) - Go wrapper for TDLib (Telegram Database Library) (1 day ago)
 - [IAmParadox27/jellyfin-plugin-custom-tabs](https://github.com/IAmParadox27/jellyfin-plugin-custom-tabs) - Jellyfin plugin to add custom tabs to the jellyfin-web title bar (4 days ago)
 - [IAmParadox27/jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly. (4 days ago)
-- [IAmParadox27/jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance (4 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
