@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (today)
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (today)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 day ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 days ago)
 - [kekePower/cognito-ai-search](https://github.com/kekePower/cognito-ai-search) - Powerful search page powered by LLMs and SearXNG (5 days ago)
-- [maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com) - An informational website about why you should ask questions directly instead of asking to ask (5 days ago)
-- [zelenin/go-tdlib](https://github.com/zelenin/go-tdlib) - Go wrapper for TDLib (Telegram Database Library) (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
