@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 week ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (4 weeks ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (2 months ago)
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.14.11](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.14.11), today) - Helm Charts for various Applications
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), today) - Mounting Google Drive - The Adfinis way 🧙✨
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.16](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.16), today) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.14.11](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.14.11), 1 day ago) - Helm Charts for various Applications
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.16](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.16), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.6](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.6), 1 week ago) - 📈 Helm charts from Adfinis
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [fix: proxy giphy and tenor searches to avoid api key leakage](https://github.com/pix/giphytenormatrixproxy/pull/1) on [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) (today)
+- [fix: proxy giphy and tenor searches to avoid api key leakage](https://github.com/pix/giphytenormatrixproxy/pull/1) on [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) (1 day ago)
 - [fix: endeavouros mirror is official now](https://github.com/adfinis/landingpage-repo_mirror/pull/149) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 week ago)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (2 months ago)
 - [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (3 months ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (today)
-- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (today)
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 day ago)
-- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 days ago)
-- [kekePower/cognito-ai-search](https://github.com/kekePower/cognito-ai-search) - Powerful search page powered by LLMs and SearXNG (5 days ago)
+- [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (1 day ago)
+- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (1 day ago)
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (2 days ago)
+- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (3 days ago)
+- [kekePower/cognito-ai-search](https://github.com/kekePower/cognito-ai-search) - Powerful search page powered by LLMs and SearXNG (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
