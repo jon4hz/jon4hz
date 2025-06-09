@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-6.1.16](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-6.1.16), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.4.4](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.4.4), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.22](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.22), 1 day ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.237.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.237.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), 5 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux. (today)
 - [heidefinnischen/cuneo](https://github.com/heidefinnischen/cuneo) -  (1 day ago)
 - [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (5 days ago)
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (5 days ago)
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (6 days ago)
-- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
