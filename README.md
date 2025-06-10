@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 weeks ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) - Ansible role to configure 389DS (2 months ago)
-- [jon4hz/homebrew-tap](https://github.com/jon4hz/homebrew-tap) - 🍺 homebrew-tap (2 months ago)
 
 #### 🌱 My latest projects
 
