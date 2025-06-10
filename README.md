@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (today)
 - [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux. (1 day ago)
 - [heidefinnischen/cuneo](https://github.com/heidefinnischen/cuneo) -  (2 days ago)
 - [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (6 days ago)
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (6 days ago)
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
