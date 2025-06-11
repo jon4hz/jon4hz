@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.4.5](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.4.5), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.24](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.24), today) - A Helm chart for NetBox
 - [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([4.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/4.0.0), today) - Zabbix Ansible modules
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.13](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.13), 1 day ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.237.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.237.0), 5 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 
