@@ -21,8 +21,8 @@
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.27](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.27), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.7](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.7), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.10](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.10), 1 day ago) - Helm Charts for various Applications
-- [ansible-collections/community.zabbix](https://github.com/ansible-collections/community.zabbix) ([4.0.0](https://github.com/ansible-collections/community.zabbix/releases/tag/4.0.0), 2 days ago) - Zabbix Ansible modules
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
