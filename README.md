@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.36), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-3.7.14](https://github.com/christianhuth/helm-charts/releases/tag/typo3-3.7.14), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.28](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.28), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.7](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.7), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 1 month ago) - Build terminal forms and prompts 🤷🏻‍♀️
