@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (5 days ago)
+- [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (6 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (2 weeks ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.4.7](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.4.7), 1 day ago) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.29), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.7](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.7), 2 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.4.7](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.4.7), 2 days ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.29](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.29), 2 days ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([openshift-etcd-backup-1.9.7](https://github.com/adfinis/helm-charts/releases/tag/openshift-etcd-backup-1.9.7), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v1.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v1.1.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 months ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
@@ -34,8 +34,8 @@
 
 #### ⭐ Recent Stars
 
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (5 days ago)
-- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux. (6 days ago)
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (6 days ago)
+- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux. (1 week ago)
 - [heidefinnischen/cuneo](https://github.com/heidefinnischen/cuneo) -  (1 week ago)
 - [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (1 week ago)
 - [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (1 week ago)
