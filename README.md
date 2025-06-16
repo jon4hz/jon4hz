@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [torgrimt/zabbix-ntfy](https://github.com/torgrimt/zabbix-ntfy) - Mediatype to add support for ntfy.sh services (today)
+- [ranfdev/Notify](https://github.com/ranfdev/Notify) - Linux client for https://ntfy.sh (today)
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (6 days ago)
 - [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux. (1 week ago)
 - [heidefinnischen/cuneo](https://github.com/heidefinnischen/cuneo) -  (1 week ago)
-- [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) - A fast and simple Matrix sticker picker widget (1 week ago)
-- [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) - WhatsApp MCP server (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
