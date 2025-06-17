@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add flag to read openapi specs from file](https://github.com/univention/python-udm-rest-api-client/pull/111) on [univention/python-udm-rest-api-client](https://github.com/univention/python-udm-rest-api-client) (today)
 - [fix: proxy giphy and tenor searches to avoid api key leakage](https://github.com/pix/giphytenormatrixproxy/pull/1) on [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) (1 week ago)
 - [fix: endeavouros mirror is official now](https://github.com/adfinis/landingpage-repo_mirror/pull/149) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (3 weeks ago)
 - [fix: dont fail if dirsrv_selfsigned_cert is undefined](https://github.com/lvps/389ds-server/pull/70) on [lvps/389ds-server](https://github.com/lvps/389ds-server) (2 months ago)
 - [fix: remove trailing slash](https://github.com/adfinis/adfinis.github.io/pull/5) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (3 months ago)
-- [fix: make sure repo links are actually clickable](https://github.com/adfinis/adfinis.github.io/pull/4) on [adfinis/adfinis.github.io](https://github.com/adfinis/adfinis.github.io) (3 months ago)
 
 #### ⭐ Recent Stars
 
