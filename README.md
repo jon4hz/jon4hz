@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-3.7.15](https://github.com/christianhuth/helm-charts/releases/tag/typo3-3.7.15), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.11](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.11), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.31](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.31), today) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.27.0](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.27.0), 1 day ago) - 📈 Helm charts from Adfinis
