@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
 - [kerembayulgen/Elfin](https://github.com/kerembayulgen/Elfin) - Browse and play your Jellyfin library (1 day ago)
 - [torgrimt/zabbix-ntfy](https://github.com/torgrimt/zabbix-ntfy) - Mediatype to add support for ntfy.sh services (2 days ago)
 - [ranfdev/Notify](https://github.com/ranfdev/Notify) - Linux client for https://ntfy.sh (2 days ago)
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (1 week ago)
-- [Vysp3r/ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A modern compatibility tools manager for Linux. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
