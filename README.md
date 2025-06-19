@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-3.7.16](https://github.com/christianhuth/helm-charts/releases/tag/typo3-3.7.16), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.12](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.12), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.34](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.34), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.238.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.238.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (today)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 day ago)
 - [kerembayulgen/Elfin](https://github.com/kerembayulgen/Elfin) - Browse and play your Jellyfin library (2 days ago)
 - [torgrimt/zabbix-ntfy](https://github.com/torgrimt/zabbix-ntfy) - Mediatype to add support for ntfy.sh services (3 days ago)
 - [ranfdev/Notify](https://github.com/ranfdev/Notify) - Linux client for https://ntfy.sh (3 days ago)
-- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
