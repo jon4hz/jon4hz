@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use github.com/charmbracelet/fang for fancy command usage](https://github.com/adfinis/adfinis-rclone-mgr/pull/14) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/2) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 day ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/1) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 day ago)
 - [feat: add flag to read openapi specs from file](https://github.com/univention/python-udm-rest-api-client/pull/111) on [univention/python-udm-rest-api-client](https://github.com/univention/python-udm-rest-api-client) (2 days ago)
 - [fix: proxy giphy and tenor searches to avoid api key leakage](https://github.com/pix/giphytenormatrixproxy/pull/1) on [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) (2 weeks ago)
-- [fix: endeavouros mirror is official now](https://github.com/adfinis/landingpage-repo_mirror/pull/149) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
