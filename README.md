@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (today)
 - [feat: use github.com/charmbracelet/fang for fancy command usage](https://github.com/adfinis/adfinis-rclone-mgr/pull/14) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (5 days ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/2) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (6 days ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/1) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (6 days ago)
 - [feat: add flag to read openapi specs from file](https://github.com/univention/python-udm-rest-api-client/pull/111) on [univention/python-udm-rest-api-client](https://github.com/univention/python-udm-rest-api-client) (1 week ago)
-- [fix: proxy giphy and tenor searches to avoid api key leakage](https://github.com/pix/giphytenormatrixproxy/pull/1) on [pix/giphytenormatrixproxy](https://github.com/pix/giphytenormatrixproxy) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
