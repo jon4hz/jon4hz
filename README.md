@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 day ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (2 weeks ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (4 weeks ago)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.239.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.239.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.37.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.37.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.5.0](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.5.0), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.36), 2 days ago) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
 - [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 day ago)
 - [feat: use github.com/charmbracelet/fang for fancy command usage](https://github.com/adfinis/adfinis-rclone-mgr/pull/14) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (6 days ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/2) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 week ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/1) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 week ago)
-- [feat: add flag to read openapi specs from file](https://github.com/univention/python-udm-rest-api-client/pull/111) on [univention/python-udm-rest-api-client](https://github.com/univention/python-udm-rest-api-client) (1 week ago)
 
 #### ⭐ Recent Stars
 
