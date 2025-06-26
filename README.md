@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add pkg-bot.yml and uploader script](https://github.com/adfinis/adfinis-rclone-mgr/pull/18) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
 - [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 days ago)
 - [feat: use github.com/charmbracelet/fang for fancy command usage](https://github.com/adfinis/adfinis-rclone-mgr/pull/14) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/2) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 week ago)
-- [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/1) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 week ago)
 
 #### ⭐ Recent Stars
 
