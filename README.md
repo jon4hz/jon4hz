@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.6](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.6), 1 day ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-3.14.16](https://github.com/christianhuth/helm-charts/releases/tag/baserow-3.14.16), today) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.42](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.42), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.95.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.95.1), 1 day ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.36), 3 days ago) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 months ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
