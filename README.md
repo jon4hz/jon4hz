@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 day ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 day ago)
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (2 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (2 weeks ago)
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (4 weeks ago)
+- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -18,23 +18,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.6](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.6), today) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.95.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.95.1), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.36), 2 days ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.6](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.6), 1 day ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.95.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.95.1), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.36](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.36), 3 days ago) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 months ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
-- [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (1 day ago)
-- [feat: use github.com/charmbracelet/fang for fancy command usage](https://github.com/adfinis/adfinis-rclone-mgr/pull/14) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (6 days ago)
+- [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
+- [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 days ago)
+- [feat: use github.com/charmbracelet/fang for fancy command usage](https://github.com/adfinis/adfinis-rclone-mgr/pull/14) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/2) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 week ago)
 - [refactor: use github.com/mark3labs/mcp-go as mcp client](https://github.com/jon4hz/LocalAGI/pull/1) on [jon4hz/LocalAGI](https://github.com/jon4hz/LocalAGI) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (6 days ago)
+- [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
 - [kerembayulgen/Elfin](https://github.com/kerembayulgen/Elfin) - Browse and play your Jellyfin library (1 week ago)
 - [torgrimt/zabbix-ntfy](https://github.com/torgrimt/zabbix-ntfy) - Mediatype to add support for ntfy.sh services (1 week ago)
