@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 day ago)
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (2 days ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 days ago)
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (3 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (2 weeks ago)
 - [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.13](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.13), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.37](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.37), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.95.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.95.1), 1 day ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.43](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.43), 1 day ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.13](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.13), 1 day ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.95.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.95.1), 2 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 months ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
-- [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/2) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (today)
-- [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/1) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (today)
-- [chore: add pkg-bot.yml and uploader script](https://github.com/adfinis/adfinis-rclone-mgr/pull/18) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
-- [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
-- [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (2 days ago)
+- [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/2) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (1 day ago)
+- [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/1) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (1 day ago)
+- [chore: add pkg-bot.yml and uploader script](https://github.com/adfinis/adfinis-rclone-mgr/pull/18) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 day ago)
+- [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 days ago)
+- [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
