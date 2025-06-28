@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.46](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.46), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.41](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.41), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.18](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.18), 1 day ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.31.1](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.31.1), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
