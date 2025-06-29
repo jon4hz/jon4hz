@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: sanitize data before db insert](https://github.com/CyferShepard/Jellystat/pull/414) on [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) (today)
 - [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/2) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (3 days ago)
 - [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/1) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (3 days ago)
 - [chore: add pkg-bot.yml and uploader script](https://github.com/adfinis/adfinis-rclone-mgr/pull/18) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (3 days ago)
 - [feat: fancy autocomplete](https://github.com/jon4hz/awoolt/pull/23) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (4 days ago)
-- [chore(security-apps): upgrade oauth2-proxy to 7.9.0](https://github.com/adfinis/helm-charts/pull/1412) on [adfinis/helm-charts](https://github.com/adfinis/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
