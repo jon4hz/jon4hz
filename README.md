@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (today)
 - [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (1 week ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 week ago)
 - [kerembayulgen/Elfin](https://github.com/kerembayulgen/Elfin) - Browse and play your Jellyfin library (1 week ago)
 - [torgrimt/zabbix-ntfy](https://github.com/torgrimt/zabbix-ntfy) - Mediatype to add support for ntfy.sh services (1 week ago)
-- [ranfdev/Notify](https://github.com/ranfdev/Notify) - Linux client for https://ntfy.sh (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
