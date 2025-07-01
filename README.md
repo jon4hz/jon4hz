@@ -2,27 +2,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (today)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (6 days ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) -  (3 weeks ago)
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (1 month ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal.
 - [jon4hz/songlinkrr](https://github.com/jon4hz/songlinkrr) - a cli tool to share song links using subsonic
 - [jon4hz/lazyfestival_bot](https://github.com/jon4hz/lazyfestival_bot) - 
-- [jon4hz/greenfield_bot](https://github.com/jon4hz/greenfield_bot) - 
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.1.15](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.1.15), today) - Helm Charts for various Applications
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.1.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.1.0), today) - Aare.guru ir gnome shell
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-5.10.15](https://github.com/christianhuth/helm-charts/releases/tag/kutt-5.10.15), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.16.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.16.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.42](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.42), 1 day ago) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 2 weeks ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.7.0](https://github.com/charmbracelet/huh/releases/tag/v0.7.0), 2 months ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
