@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-3.7.18](https://github.com/christianhuth/helm-charts/releases/tag/typo3-3.7.18), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.14](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.14), today) - Helm Charts for various Applications
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.1.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.1.0), today) - Aare.guru ir gnome shell
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.16.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.16.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.42](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.42), 1 day ago) - A Helm chart for NetBox
