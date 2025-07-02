@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (today)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (today)
+- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (today)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.1.0](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.1.0), today) - An ansible collection for automated proxmox cluster upgrades
+- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.3.0](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.3.0), today) - An ansible collection for automated proxmox cluster upgrades
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.2.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.2.0), today) - Aare.guru ir gnome shell
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.43](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.43), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.14](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.14), 1 day ago) - Helm Charts for various Applications
