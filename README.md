@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 day ago)
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (today)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) - 📈 Helm charts from Adfinis (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.2.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.2.0), today) - Aare.guru ir gnome shell
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.43](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.43), 1 day ago) - A Helm chart for NetBox
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.1.5](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.1.5), 1 day ago) - Aare.guru ir gnome shell
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.14](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.14), 1 day ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.16.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.16.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.0.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.0.0), 2 weeks ago) - Mounting Google Drive - The Adfinis way 🧙✨
