@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (today)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (4 days ago)
 - [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (2 weeks ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 weeks ago)
 - [kerembayulgen/Elfin](https://github.com/kerembayulgen/Elfin) - Browse and play your Jellyfin library (2 weeks ago)
-- [torgrimt/zabbix-ntfy](https://github.com/torgrimt/zabbix-ntfy) - Mediatype to add support for ntfy.sh services (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
