@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.2.1](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.2.1), today) - Aare.guru ir gnome shell
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), today) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.4.1](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.4.1), 1 day ago) - An ansible collection for automated proxmox cluster upgrades
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.43](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.43), 2 days ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-4.7.14](https://github.com/christianhuth/helm-charts/releases/tag/umami-4.7.14), 2 days ago) - Helm Charts for various Applications
