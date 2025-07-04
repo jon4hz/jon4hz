@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.2.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.2.0), today) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.3.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.3.0), today) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.5.2](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.5.2), 1 day ago) - Helm Charts for various Applications
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 1 day ago) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.4.1](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.4.1), 2 days ago) - An ansible collection for automated proxmox cluster upgrades
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [SherClockHolmes/webpush-go](https://github.com/SherClockHolmes/webpush-go) - Web Push API Encryption with VAPID support. (today)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 day ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 day ago)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (5 days ago)
 - [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (2 weeks ago)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
