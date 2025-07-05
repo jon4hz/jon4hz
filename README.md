@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (2 days ago)
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (3 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.3.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.3.0), 1 day ago) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.4.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.4.0), today) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-1.5.2](https://github.com/christianhuth/helm-charts/releases/tag/squest-1.5.2), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 2 days ago) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.4.1](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.4.1), 3 days ago) - An ansible collection for automated proxmox cluster upgrades
