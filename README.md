@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. (today)
 - [SherClockHolmes/webpush-go](https://github.com/SherClockHolmes/webpush-go) - Web Push API Encryption with VAPID support. (1 day ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (2 days ago)
 - [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (2 days ago)
 - [disintegration/imaging](https://github.com/disintegration/imaging) - Imaging is a simple image processing package for Go (6 days ago)
-- [arush15june/zammad-mcp-go](https://github.com/arush15june/zammad-mcp-go) - MCP Server for Zammad API  (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
