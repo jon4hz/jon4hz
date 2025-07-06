@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/11) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [feat(web): improve mobile view of dashboard](https://github.com/jon4hz/jellysweep/pull/9) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat(engine): support different cleanup modes](https://github.com/jon4hz/jellysweep/pull/8) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [fix: sanitize data before db insert](https://github.com/CyferShepard/Jellystat/pull/414) on [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) (1 week ago)
 - [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/2) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (1 week ago)
-- [sync upstream changes](https://github.com/adfinis-forks/proxmox-ve/pull/1) on [adfinis-forks/proxmox-ve](https://github.com/adfinis-forks/proxmox-ve) (1 week ago)
-- [chore: add pkg-bot.yml and uploader script](https://github.com/adfinis/adfinis-rclone-mgr/pull/18) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 
 #### ⭐ Recent Stars
 
