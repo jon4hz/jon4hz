@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kube-ops-view-5.0.0](https://github.com/christianhuth/helm-charts/releases/tag/kube-ops-view-5.0.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.0.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.0.0), today) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.6.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.6.0), 1 day ago) - 🧹🪼 JellySweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 4 days ago) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.4.1](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.4.1), 5 days ago) - An ansible collection for automated proxmox cluster upgrades
