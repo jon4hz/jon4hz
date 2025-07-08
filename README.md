@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (5 days ago)
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (6 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 week ago)
