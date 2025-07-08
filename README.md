@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(web): duplicated items in approval queue](https://github.com/jon4hz/jellysweep/pull/16) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [fix(engine): set keep expiry to 90 days](https://github.com/jon4hz/jellysweep/pull/15) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [feat(engine): populate requester info in batches of 10](https://github.com/jon4hz/jellysweep/pull/14) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [refactor(web): smoother and better animated webui](https://github.com/jon4hz/jellysweep/pull/13) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/11) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
-- [feat(web): improve mobile view of dashboard](https://github.com/jon4hz/jellysweep/pull/9) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
-- [feat(engine): support different cleanup modes](https://github.com/jon4hz/jellysweep/pull/8) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
-- [fix: sanitize data before db insert](https://github.com/CyferShepard/Jellystat/pull/414) on [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) (1 week ago)
 
 #### ⭐ Recent Stars
 
