@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.7.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.7.0), today) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.44](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.44), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.0.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.0.0), 1 day ago) - Helm Charts for various Applications
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.6.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.6.0), 2 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 5 days ago) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) ([v0.4.1](https://github.com/adfinis/ansible-collection-proxmox_upgrade/releases/tag/v0.4.1), 6 days ago) - An ansible collection for automated proxmox cluster upgrades
 
 #### 🔨 My recent Pull Requests
 
+- [fix(engine): avoid conflicting keep tags](https://github.com/jon4hz/jellysweep/pull/17) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix(web): duplicated items in approval queue](https://github.com/jon4hz/jellysweep/pull/16) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix(engine): set keep expiry to 90 days](https://github.com/jon4hz/jellysweep/pull/15) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat(engine): populate requester info in batches of 10](https://github.com/jon4hz/jellysweep/pull/14) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [refactor(web): smoother and better animated webui](https://github.com/jon4hz/jellysweep/pull/13) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/11) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 
 #### ⭐ Recent Stars
 
