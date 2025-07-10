@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (today)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) -  (2 days ago)
 - [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. (5 days ago)
 - [SherClockHolmes/webpush-go](https://github.com/SherClockHolmes/webpush-go) - Web Push API Encryption with VAPID support. (6 days ago)
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
