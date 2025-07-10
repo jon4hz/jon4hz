@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.49](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.49), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.46](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.46), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.1.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.1.0), today) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.7.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.7.0), 2 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 1 week ago) - Aare.guru ir gnome shell
