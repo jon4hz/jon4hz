@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.1.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.1.1), today) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.50](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.50), today) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.1.0), today) - Mounting Google Drive - The Adfinis way 🧙✨
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.46](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.46), today) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.1.0](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.1.0), today) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.7.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.7.0), 2 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 1 week ago) - Aare.guru ir gnome shell
 
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) -  (2 days ago)
 - [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. (5 days ago)
 - [SherClockHolmes/webpush-go](https://github.com/SherClockHolmes/webpush-go) - Web Push API Encryption with VAPID support. (6 days ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 week ago)
-- [FalcoSuessgott/vkv](https://github.com/FalcoSuessgott/vkv) - vkv enables you to list, compare, move, import, document, backup &amp; encrypt secrets from a HashiCorp Vault KV engine (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
