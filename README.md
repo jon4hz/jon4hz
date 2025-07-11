@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-4.0.3](https://github.com/christianhuth/helm-charts/releases/tag/typo3-4.0.3), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.47](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.47), 1 day ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.51](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.51), today) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.1.4](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.1.4), today) - Helm Charts for various Applications
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.1.0), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.7.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.7.0), 3 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 1 week ago) - Aare.guru ir gnome shell
