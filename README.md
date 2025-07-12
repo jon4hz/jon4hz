@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add dotnet template config](https://github.com/jellyfin/jellyfin-plugin-template/pull/81) on [jellyfin/jellyfin-plugin-template](https://github.com/jellyfin/jellyfin-plugin-template) (today)
 - [feat(engine): add size threshold filter](https://github.com/jon4hz/jellysweep/pull/22) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [refactor: task scheduler and better caching](https://github.com/jon4hz/jellysweep/pull/21) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [feat: add option to duplicate files on google](https://github.com/adfinis/adfinis-rclone-mgr/pull/24) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 - [fix: replace zenity exec.Commands with an actual library](https://github.com/adfinis/adfinis-rclone-mgr/pull/23) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
-- [fix(engine): leave unaired episodes monitored](https://github.com/jon4hz/jellysweep/pull/18) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 
 #### ⭐ Recent Stars
 
