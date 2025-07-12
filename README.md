@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-4.0.4](https://github.com/christianhuth/helm-charts/releases/tag/typo3-4.0.4), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-5.0.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-5.0.4), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.52](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.52), today) - A Helm chart for NetBox
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.8.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.8.0), 1 day ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.1.0), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
