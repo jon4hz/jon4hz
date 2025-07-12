@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.1.18](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.1.18), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-6.0.5](https://github.com/christianhuth/helm-charts/releases/tag/kutt-6.0.5), today) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.8.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.8.0), 1 day ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.48](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.48), 1 day ago) - A Helm chart for NetBox
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.1.0), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [baas-cloud/baas](https://github.com/baas-cloud/baas) -  (today)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (2 days ago)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (2 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) -  (4 days ago)
 - [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. (1 week ago)
-- [SherClockHolmes/webpush-go](https://github.com/SherClockHolmes/webpush-go) - Web Push API Encryption with VAPID support. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
