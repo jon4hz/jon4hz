@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.49](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.49), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-5.0.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-5.0.4), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.52](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.52), today) - A Helm chart for NetBox
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.8.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.8.0), 1 day ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.1.0), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.0](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.0), 1 week ago) - Aare.guru ir gnome shell
 
 #### 🔨 My recent Pull Requests
 
+- [feat(engine): add size threshold filter](https://github.com/jon4hz/jellysweep/pull/22) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [refactor: task scheduler and better caching](https://github.com/jon4hz/jellysweep/pull/21) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [feat: add option to duplicate files on google](https://github.com/adfinis/adfinis-rclone-mgr/pull/24) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 - [fix: replace zenity exec.Commands with an actual library](https://github.com/adfinis/adfinis-rclone-mgr/pull/23) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 - [fix(engine): leave unaired episodes monitored](https://github.com/jon4hz/jellysweep/pull/18) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
-- [fix(engine): avoid conflicting keep tags](https://github.com/jon4hz/jellysweep/pull/17) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
 
 #### ⭐ Recent Stars
 
