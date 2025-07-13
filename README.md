@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 days ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 week ago)
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (1 week ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update docs with cleanup_schedule](https://github.com/jon4hz/jellysweep/pull/25) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [feat(api): add endpoints for jellyfin plugin](https://github.com/jon4hz/jellysweep/pull/24) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: add dotnet template config](https://github.com/jellyfin/jellyfin-plugin-template/pull/81) on [jellyfin/jellyfin-plugin-template](https://github.com/jellyfin/jellyfin-plugin-template) (1 day ago)
 - [feat(engine): add size threshold filter](https://github.com/jon4hz/jellysweep/pull/22) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [refactor: task scheduler and better caching](https://github.com/jon4hz/jellysweep/pull/21) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
-- [feat: add option to duplicate files on google](https://github.com/adfinis/adfinis-rclone-mgr/pull/24) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (3 days ago)
-- [fix: replace zenity exec.Commands with an actual library](https://github.com/adfinis/adfinis-rclone-mgr/pull/23) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (3 days ago)
 
 #### ⭐ Recent Stars
 
