@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.50](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.50), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.1.0), 1 day ago) - Companion for https://github.com/jon4hz/jellysweep
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.9.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.9.0), 1 day ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.49](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.49), 2 days ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-5.0.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-5.0.4), 2 days ago) - Helm Charts for various Applications
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.1.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.1.0), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 
