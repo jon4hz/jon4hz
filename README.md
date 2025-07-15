@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.0.8](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.0.8), today) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.1.0), 1 day ago) - 🪼💤 An experimental sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.96.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.96.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.50](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.50), 1 day ago) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.1.0), 2 days ago) - Companion for https://github.com/jon4hz/jellysweep
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.9.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.9.0), 2 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
 
