@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (today)
 - [baas-cloud/baas](https://github.com/baas-cloud/baas) -  (3 days ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (5 days ago)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (5 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) -  (1 week ago)
-- [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
