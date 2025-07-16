@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.0.55](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.0.55), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.1](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.1), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.52](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.52), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.1.0), 2 days ago) - 🪼💤 An experimental sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.96.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.96.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.1.0), 3 days ago) - Companion for https://github.com/jon4hz/jellysweep
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (today)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 day ago)
 - [baas-cloud/baas](https://github.com/baas-cloud/baas) -  (4 days ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (6 days ago)
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (6 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) -  (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
