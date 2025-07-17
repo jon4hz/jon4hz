@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add more flappy texts](https://github.com/adfinis/flappy-sez/pull/35) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
 - [docs: update docs with cleanup_schedule](https://github.com/jon4hz/jellysweep/pull/25) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
 - [feat(api): add endpoints for jellyfin plugin](https://github.com/jon4hz/jellysweep/pull/24) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
 - [fix: add dotnet template config](https://github.com/jellyfin/jellyfin-plugin-template/pull/81) on [jellyfin/jellyfin-plugin-template](https://github.com/jellyfin/jellyfin-plugin-template) (5 days ago)
 - [feat(engine): add size threshold filter](https://github.com/jon4hz/jellysweep/pull/22) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
-- [refactor: task scheduler and better caching](https://github.com/jon4hz/jellysweep/pull/21) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (6 days ago)
 
 #### ⭐ Recent Stars
 
