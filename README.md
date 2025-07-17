@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today)
 - [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (1 day ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (2 days ago)
 - [baas-cloud/baas](https://github.com/baas-cloud/baas) -  (5 days ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (1 week ago)
-- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
