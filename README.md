@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🪼💤 An experimental sleep timer plugin for Jellyfin. (4 days ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
 
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(engine): add support for streamystats](https://github.com/jon4hz/jellysweep/pull/35) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [feat(engine)!: add support for streamystats](https://github.com/jon4hz/jellysweep/pull/35) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: add more texts (fromsoftware flavor)](https://github.com/adfinis/flappy-sez/pull/36) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (2 days ago)
 - [feat: add more flappy texts](https://github.com/adfinis/flappy-sez/pull/35) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 week ago)
 - [docs: update docs with cleanup_schedule](https://github.com/jon4hz/jellysweep/pull/25) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
