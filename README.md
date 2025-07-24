@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(engine): add support for streamystats](https://github.com/jon4hz/jellysweep/pull/35) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: add more texts (fromsoftware flavor)](https://github.com/adfinis/flappy-sez/pull/36) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (2 days ago)
 - [feat: add more flappy texts](https://github.com/adfinis/flappy-sez/pull/35) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 week ago)
 - [docs: update docs with cleanup_schedule](https://github.com/jon4hz/jellysweep/pull/25) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat(api): add endpoints for jellyfin plugin](https://github.com/jon4hz/jellysweep/pull/24) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [fix: add dotnet template config](https://github.com/jellyfin/jellyfin-plugin-template/pull/81) on [jellyfin/jellyfin-plugin-template](https://github.com/jellyfin/jellyfin-plugin-template) (1 week ago)
 
 #### ⭐ Recent Stars
 
