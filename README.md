@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [Casey2134/suggesterr](https://github.com/Casey2134/suggesterr) - 🎬 AI-powered movie recommendation system with Plex/Jellyfin integration. Features collaborative filtering, mood-based suggestions, and smart library-aware recommendations using Google Gemini and OpenAI. (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (1 week ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 week ago)
 - [baas-cloud/baas](https://github.com/baas-cloud/baas) -  (1 week ago)
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
