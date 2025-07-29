@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.38.1](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.38.1), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([argo-apps-0.27.1](https://github.com/adfinis/helm-charts/releases/tag/argo-apps-0.27.1), today) - 📈 Helm charts from Adfinis
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.0), 3 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([etcd-defrag-1.4.4](https://github.com/christianhuth/helm-charts/releases/tag/etcd-defrag-1.4.4), 4 days ago) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.58](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.58), 1 week ago) - A Helm chart for NetBox
