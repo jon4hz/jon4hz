@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (4 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🪼💤 An experimental sleep timer plugin for Jellyfin. (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (2 weeks ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.1), today) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.50.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.50.0), 1 day ago) - 📈 Helm charts from Adfinis
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.0), 4 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([etcd-defrag-1.4.4](https://github.com/christianhuth/helm-charts/releases/tag/etcd-defrag-1.4.4), 5 days ago) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.58](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.58), 1 week ago) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.1.0), 2 weeks ago) - 🪼💤 An experimental sleep timer plugin for Jellyfin.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: tag checking if there is no disk pressure](https://github.com/jon4hz/jellysweep/pull/44) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix(api): correctly clear cache](https://github.com/jon4hz/jellysweep/pull/38) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 - [feat(engine)!: cleanup delay based on disk usage](https://github.com/jon4hz/jellysweep/pull/37) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 - [fix(config): correctly apply env overrides and defaults](https://github.com/jon4hz/jellysweep/pull/36) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (6 days ago)
 - [feat(engine)!: add support for streamystats](https://github.com/jon4hz/jellysweep/pull/35) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (6 days ago)
-- [feat: add more texts (fromsoftware flavor)](https://github.com/adfinis/flappy-sez/pull/36) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 week ago)
 
 #### ⭐ Recent Stars
 
