@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - About Usenet streaming with a webdav server and a sabnzbd-compatible api (1 day ago)
+- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API (1 day ago)
 - [Casey2134/suggesterr](https://github.com/Casey2134/suggesterr) - 🎬 AI-powered movie recommendation system with Plex/Jellyfin integration. Features collaborative filtering, mood-based suggestions, and smart library-aware recommendations using Google Gemini and OpenAI. (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
 - [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (2 weeks ago)
