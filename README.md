@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kube-ops-view-5.0.5](https://github.com/christianhuth/helm-charts/releases/tag/kube-ops-view-5.0.5), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.60](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.60), 3 days ago) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.6.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.1), 5 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([etcd-defrag-1.4.4](https://github.com/christianhuth/helm-charts/releases/tag/etcd-defrag-1.4.4), 1 week ago) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.1.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.1.0), 3 weeks ago) - 🪼💤 An experimental sleep timer plugin for Jellyfin.
 
 #### 🔨 My recent Pull Requests
