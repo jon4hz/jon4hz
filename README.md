@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove keep-request tags after partial deletion](https://github.com/jon4hz/jellysweep/pull/55) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: create &#34;leaving soon&#34; collections](https://github.com/jon4hz/jellysweep/pull/54) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: ensure all wanted episodes are monitored](https://github.com/p-hueber/prefetcharr/pull/93) on [p-hueber/prefetcharr](https://github.com/p-hueber/prefetcharr) (today)
 - [fix: correctly handle for-sure tag and delete logic if disk usage was…](https://github.com/jon4hz/jellysweep/pull/53) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: skip disk usage check if there is no threshold config](https://github.com/jon4hz/jellysweep/pull/52) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [fix: make sure username is always lowercase](https://github.com/jon4hz/jellysweep/pull/51) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 
 #### ⭐ Recent Stars
 
