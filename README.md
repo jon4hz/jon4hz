@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: correctly register plugin in app bar](https://github.com/adfinis-forks/mattermost-plugin-google-meet/pull/2) on [adfinis-forks/mattermost-plugin-google-meet](https://github.com/adfinis-forks/mattermost-plugin-google-meet) (today)
 - [fix: tag checking if there is no disk pressure](https://github.com/jon4hz/jellysweep/pull/44) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [fix(api): correctly clear cache](https://github.com/jon4hz/jellysweep/pull/38) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat(engine)!: cleanup delay based on disk usage](https://github.com/jon4hz/jellysweep/pull/37) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [fix(config): correctly apply env overrides and defaults](https://github.com/jon4hz/jellysweep/pull/36) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [feat(engine)!: add support for streamystats](https://github.com/jon4hz/jellysweep/pull/35) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
