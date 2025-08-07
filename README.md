@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-2.0.10](https://github.com/christianhuth/helm-charts/releases/tag/squest-2.0.10), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([syncstorage-rs-2.0.3](https://github.com/christianhuth/helm-charts/releases/tag/syncstorage-rs-2.0.3), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.63](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.63), today) - A Helm chart for NetBox
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.2](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.2), 1 day ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.6.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.6.0), 1 week ago) - 📈 Helm charts from Adfinis
