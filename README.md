@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-4.0.10](https://github.com/christianhuth/helm-charts/releases/tag/typo3-4.0.10), today) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.1.4](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.1.4), today) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.26](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.26), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.242.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.242.0), today) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.64](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.64), 1 day ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.5](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.5), 1 day ago) - Ansible role repo_mirror
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.2](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.2), 2 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
