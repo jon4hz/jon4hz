@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.6.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.6.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([proxysql-2.0.1](https://github.com/christianhuth/helm-charts/releases/tag/proxysql-2.0.1), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.64](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.64), 1 day ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.5](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.5), 1 day ago) - Ansible role repo_mirror
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.2](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.2), 2 days ago) - 🧹🪼 Jellysweep is a smart cleanup tool for your Jellyfin media server
