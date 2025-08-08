@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.1.22](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.1.22), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-6.0.12](https://github.com/christianhuth/helm-charts/releases/tag/kutt-6.0.12), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.1.4](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.1.4), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.242.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.242.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.5](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.5), 1 day ago) - Ansible role repo_mirror
@@ -35,10 +35,10 @@
 #### ⭐ Recent Stars
 
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API (1 week ago)
-- [Casey2134/suggesterr](https://github.com/Casey2134/suggesterr) - 🎬 AI-powered movie recommendation system with Plex/Jellyfin integration. Features collaborative filtering, mood-based suggestions, and smart library-aware recommendations using Google Gemini and OpenAI. (2 weeks ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 weeks ago)
 - [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (3 weeks ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (3 weeks ago)
+- [baas-cloud/baas](https://github.com/baas-cloud/baas) -  (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
