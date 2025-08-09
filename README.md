@@ -18,10 +18,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.243.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.243.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.67](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.67), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.1.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.1.1), today) - 🌙 A sleep timer plugin for Jellyfin.
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.1.7](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.1.7), 1 day ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.242.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.242.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.5](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.5), 2 days ago) - Ansible role repo_mirror
 
 #### 🔨 My recent Pull Requests
