@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (today)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (3 days ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 weeks ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.0), today) - 🌙 A sleep timer plugin for Jellyfin.
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.1), today) - 🌙 A sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.243.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.243.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.67](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.67), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.1.7](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.1.7), 2 days ago) - Helm Charts for various Applications
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add support for jellysleep plugin (sleep timer)](https://github.com/streamyfin/streamyfin/pull/922) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (today)
 - [ci: correctly generate release notes](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/2) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (today)
 - [feat: support multiple episode timers](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/1) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (today)
 - [fix: sanitize config urls](https://github.com/jon4hz/jellysweep/pull/59) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: add support for jellysleep plugin (sleep timer)](https://github.com/jon4hz/streamyfin/pull/1) on [jon4hz/streamyfin](https://github.com/jon4hz/streamyfin) (1 day ago)
-- [fix: improve command tasks and ignore other linter warning](https://github.com/adfinis/ansible-role-repo_mirror/pull/55) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (3 days ago)
 
 #### ⭐ Recent Stars
 
