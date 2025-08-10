@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 day ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 days ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
 - [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (3 days ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 weeks ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: sanitize config urls](https://github.com/jon4hz/jellysweep/pull/59) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: add support for jellysleep plugin (sleep timer)](https://github.com/jon4hz/streamyfin/pull/1) on [jon4hz/streamyfin](https://github.com/jon4hz/streamyfin) (1 day ago)
 - [fix: improve command tasks and ignore other linter warning](https://github.com/adfinis/ansible-role-repo_mirror/pull/55) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (3 days ago)
 - [Dependabot](https://github.com/adfinis/ansible-role-repo_mirror/pull/53) on [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) (3 days ago)
 - [fix: remove keep-request tags after partial deletion](https://github.com/jon4hz/jellysweep/pull/55) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
-- [feat: create &#34;leaving soon&#34; collections](https://github.com/jon4hz/jellysweep/pull/54) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
 
 #### ⭐ Recent Stars
 
