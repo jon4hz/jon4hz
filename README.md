@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.3](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.3), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.2](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.2), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.68](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.68), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.1), 1 day ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.243.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.243.0), 2 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) ([v0.0.5](https://github.com/adfinis/ansible-role-repo_mirror/releases/tag/v0.0.5), 4 days ago) - Ansible role repo_mirror
 
 #### 🔨 My recent Pull Requests
 
+- [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/63) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [fix(email): casing in jellysweepURL template variable](https://github.com/jon4hz/jellysweep/pull/62) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: add support for jellysleep plugin (sleep timer)](https://github.com/streamyfin/streamyfin/pull/922) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (1 day ago)
 - [ci: correctly generate release notes](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/2) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (1 day ago)
 - [feat: support multiple episode timers](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/1) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (1 day ago)
-- [fix: sanitize config urls](https://github.com/jon4hz/jellysweep/pull/59) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [feat: add support for jellysleep plugin (sleep timer)](https://github.com/jon4hz/streamyfin/pull/1) on [jon4hz/streamyfin](https://github.com/jon4hz/streamyfin) (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [hacel/jfsh](https://github.com/hacel/jfsh) - A terminal-based client for Jellyfin (today)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (today)
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript (today)
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 weeks ago)
-- [sj14/jellyfin-go](https://github.com/sj14/jellyfin-go) - Go client for the Jellyfin API (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
