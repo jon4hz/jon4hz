@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-2.0.14](https://github.com/christianhuth/helm-charts/releases/tag/squest-2.0.14), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.69](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.69), today) - A Helm chart for NetBox
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.3](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.3), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.2](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.2), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.1), 3 days ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.243.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.243.0), 4 days ago) - 📈 Helm charts from Adfinis
 
