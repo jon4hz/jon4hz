@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (2 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 days ago)
-- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: increase fanciness with charmbracelet/fang](https://github.com/c0rydoras/folien/pull/7) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (today)
+- [fix: dont print help on error](https://github.com/c0rydoras/folien/pull/6) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (today)
 - [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/63) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 - [fix(email): casing in jellysweepURL template variable](https://github.com/jon4hz/jellysweep/pull/62) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 - [feat: add support for jellysleep plugin (sleep timer)](https://github.com/streamyfin/streamyfin/pull/922) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (3 days ago)
-- [ci: correctly generate release notes](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/2) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (3 days ago)
-- [feat: support multiple episode timers](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/1) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (3 days ago)
 
 #### ⭐ Recent Stars
 
