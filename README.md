@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.1.7](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.1.7), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.69](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.69), today) - A Helm chart for NetBox
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.3](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.3), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.2](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.2), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.1), 3 days ago) - 🌙 A sleep timer plugin for Jellyfin.
@@ -38,7 +38,7 @@
 - [hacel/jfsh](https://github.com/hacel/jfsh) - A terminal-based client for Jellyfin (2 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 days ago)
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript (2 days ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 weeks ago)
+- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
