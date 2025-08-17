@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.72](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.72), 2 days ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-6.1.11](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-6.1.11), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-5.0.10](https://github.com/christianhuth/helm-charts/releases/tag/umami-5.0.10), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.3](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.3), 6 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.1), 1 week ago) - 🌙 A sleep timer plugin for Jellyfin.
