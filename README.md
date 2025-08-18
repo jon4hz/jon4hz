@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.1.1](https://github.com/c0rydoras/folien/releases/tag/v0.1.1), today) - Terminal based presentation tool (WIP)
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.73](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.73), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-5.0.10](https://github.com/christianhuth/helm-charts/releases/tag/umami-5.0.10), 3 days ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.3](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.3), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.2.1), 1 week ago) - 🌙 A sleep timer plugin for Jellyfin.
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.243.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.243.0), 1 week ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/66) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: use charmbracelet/log for logging](https://github.com/c0rydoras/folien/pull/8) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 - [feat: increase fanciness with charmbracelet/fang](https://github.com/c0rydoras/folien/pull/7) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 - [fix: dont print help on error](https://github.com/c0rydoras/folien/pull/6) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 - [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/63) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [fix(email): casing in jellysweepURL template variable](https://github.com/jon4hz/jellysweep/pull/62) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
