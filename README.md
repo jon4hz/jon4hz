@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: regenerate templ files](https://github.com/jon4hz/jellysweep/pull/68) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [ci: generate image for pull requests](https://github.com/jon4hz/jellysweep/pull/67) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/66) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: use charmbracelet/log for logging](https://github.com/c0rydoras/folien/pull/8) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 - [feat: increase fanciness with charmbracelet/fang](https://github.com/c0rydoras/folien/pull/7) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
-- [fix: dont print help on error](https://github.com/c0rydoras/folien/pull/6) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
-- [chore: s/JellySweep/Jellysweep/g](https://github.com/jon4hz/jellysweep/pull/63) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
