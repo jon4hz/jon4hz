@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) -  (5 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (5 days ago)
+- [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) -  (5 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (6 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 week ago)
 
 #### 🌱 My latest projects
