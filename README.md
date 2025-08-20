@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser. (today)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 week ago)
 - [hacel/jfsh](https://github.com/hacel/jfsh) - A terminal-based client for Jellyfin (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 week ago)
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) - A Jellyfin plugin to inject Javascript (1 week ago)
-- [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
