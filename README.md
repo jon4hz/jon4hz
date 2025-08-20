@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.98.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.98.0), today) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 1 day ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([popeye-2.4.1](https://github.com/christianhuth/helm-charts/releases/tag/popeye-2.4.1), 1 day ago) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.76](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.76), 1 day ago) - A Helm chart for NetBox
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.1.1](https://github.com/c0rydoras/folien/releases/tag/v0.1.1), 2 days ago) - Terminal based presentation tool (WIP)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.10.3](https://github.com/jon4hz/jellysweep/releases/tag/v0.10.3), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
 
