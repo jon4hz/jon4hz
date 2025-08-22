@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.245.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.245.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-3.0.31](https://github.com/christianhuth/helm-charts/releases/tag/countly-3.0.31), today) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.98.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.98.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 3 days ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.76](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.76), 3 days ago) - A Helm chart for NetBox
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.1.1](https://github.com/c0rydoras/folien/releases/tag/v0.1.1), 4 days ago) - Terminal based presentation tool (WIP)
