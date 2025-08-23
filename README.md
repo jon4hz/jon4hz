@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (today)
+- [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (today)
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. (2 days ago)
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create &amp; scan cute qr codes easily 👾 (3 days ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (3 days ago)
-- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (3 days ago)
-- [civilblur/mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser. (3 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
