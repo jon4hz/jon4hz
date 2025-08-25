@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (today)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (2 days ago)
 - [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (2 days ago)
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. (4 days ago)
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create &amp; scan cute qr codes easily 👾 (5 days ago)
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love (5 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
