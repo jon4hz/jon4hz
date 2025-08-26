@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-6.0.14](https://github.com/christianhuth/helm-charts/releases/tag/kutt-6.0.14), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-5.0.11](https://github.com/christianhuth/helm-charts/releases/tag/umami-5.0.11), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.99.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.99.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.78](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.78), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 1 week ago) - 🌙 A sleep timer plugin for Jellyfin.
