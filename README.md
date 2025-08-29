@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (4 days ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (6 days ago)
 - [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (6 days ago)
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. (1 week ago)
-- [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create &amp; scan cute qr codes easily 👾 (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
