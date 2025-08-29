@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.80](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.80), 1 day ago) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.1.13](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.1.13), 1 day ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.99.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.99.0), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.80](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.80), 2 days ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-7.1.13](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-7.1.13), 2 days ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.99.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.99.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 1 week ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.1.1](https://github.com/c0rydoras/folien/releases/tag/v0.1.1), 1 week ago) - Terminal based presentation tool (WIP)
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
+- [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 - [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/70) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/69) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [chore: regenerate templ files](https://github.com/jon4hz/jellysweep/pull/68) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
@@ -34,9 +34,9 @@
 
 #### ⭐ Recent Stars
 
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 days ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (5 days ago)
-- [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (5 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (4 days ago)
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (6 days ago)
+- [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (6 days ago)
 - [gabm/Satty](https://github.com/gabm/Satty) - Satty - Modern Screenshot Annotation. (1 week ago)
 - [lyqht/mini-qr](https://github.com/lyqht/mini-qr) - Create &amp; scan cute qr codes easily 👾 (1 week ago)
 
