@@ -4,8 +4,8 @@
 
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
-- [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) -  (2 weeks ago)
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (2 weeks ago)
+- [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) -  (3 weeks ago)
+- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (3 weeks ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,9 +18,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.2.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.2.1), today) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.81](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.81), today) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.101.2](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.101.2), today) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.2.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.2.1), 1 day ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.81](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.81), 1 day ago) - A Helm chart for NetBox
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.101.2](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.101.2), 1 day ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 2 weeks ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.1.1](https://github.com/c0rydoras/folien/releases/tag/v0.1.1), 2 weeks ago) - Terminal based presentation tool (WIP)
 
@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (4 days ago)
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (5 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 week ago)
 - [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (1 week ago)
