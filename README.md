@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: dont return status code 1 if unlock-home.sh is already linked](https://github.com/ovh/the-bastion/pull/578) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
+- [fix: check if /home is actually mounted before exiting the script early](https://github.com/ovh/the-bastion/pull/577) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
+- [fix: execute systemctl daemon-reload after /etc/fstab changes](https://github.com/ovh/the-bastion/pull/576) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/70) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
-- [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/69) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
-- [chore: regenerate templ files](https://github.com/jon4hz/jellysweep/pull/68) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
-- [ci: generate image for pull requests](https://github.com/jon4hz/jellysweep/pull/67) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
