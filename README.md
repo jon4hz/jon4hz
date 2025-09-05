@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (today)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (3 weeks ago)
 - [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.32.1](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.32.1), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.18.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.18.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.83](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.83), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.2.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.2.1), 3 days ago) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 2 weeks ago) - 🌙 A sleep timer plugin for Jellyfin.
