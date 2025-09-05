@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.249.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.249.1), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-0.32.1](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-0.32.1), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.83](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.83), 1 day ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.2.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.2.1), 3 days ago) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 2 weeks ago) - 🌙 A sleep timer plugin for Jellyfin.
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add doctor who flavor](https://github.com/adfinis/flappy-sez/pull/38) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
 - [fix: dont return status code 1 if unlock-home.sh is already linked](https://github.com/ovh/the-bastion/pull/578) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [fix: check if /home is actually mounted before exiting the script early](https://github.com/ovh/the-bastion/pull/577) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [fix: execute systemctl daemon-reload after /etc/fstab changes](https://github.com/ovh/the-bastion/pull/576) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [feat: implement database to track cleanup state](https://github.com/jon4hz/jellysweep/pull/70) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
