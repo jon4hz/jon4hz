@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 day ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
+- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
 - [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) -  (3 weeks ago)
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([hedgedoc-0.5.4](https://github.com/adfinis/helm-charts/releases/tag/hedgedoc-0.5.4), 1 day ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.84](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.84), 1 day ago) - A Helm chart for NetBox
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.2.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.2.1), 4 days ago) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([hedgedoc-0.5.4](https://github.com/adfinis/helm-charts/releases/tag/hedgedoc-0.5.4), 2 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.84](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.84), 2 days ago) - A Helm chart for NetBox
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-4.2.1](https://github.com/christianhuth/helm-charts/releases/tag/baserow-4.2.1), 5 days ago) - Helm Charts for various Applications
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.3.0), 2 weeks ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.1.1](https://github.com/c0rydoras/folien/releases/tag/v0.1.1), 2 weeks ago) - Terminal based presentation tool (WIP)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add doctor who flavor](https://github.com/adfinis/flappy-sez/pull/38) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 day ago)
-- [fix: dont return status code 1 if unlock-home.sh is already linked](https://github.com/ovh/the-bastion/pull/578) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
-- [fix: check if /home is actually mounted before exiting the script early](https://github.com/ovh/the-bastion/pull/577) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
-- [fix: execute systemctl daemon-reload after /etc/fstab changes](https://github.com/ovh/the-bastion/pull/576) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
-- [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
+- [feat: add doctor who flavor](https://github.com/adfinis/flappy-sez/pull/38) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (2 days ago)
+- [fix: dont return status code 1 if unlock-home.sh is already linked](https://github.com/ovh/the-bastion/pull/578) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
+- [fix: check if /home is actually mounted before exiting the script early](https://github.com/ovh/the-bastion/pull/577) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
+- [fix: execute systemctl daemon-reload after /etc/fstab changes](https://github.com/ovh/the-bastion/pull/576) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
+- [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
