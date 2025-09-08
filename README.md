@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: check if first admin is already in adminAccounts](https://github.com/ovh/the-bastion/pull/579) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [feat: add doctor who flavor](https://github.com/adfinis/flappy-sez/pull/38) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (3 days ago)
 - [fix: dont return status code 1 if unlock-home.sh is already linked](https://github.com/ovh/the-bastion/pull/578) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
 - [fix: check if /home is actually mounted before exiting the script early](https://github.com/ovh/the-bastion/pull/577) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
 - [fix: execute systemctl daemon-reload after /etc/fstab changes](https://github.com/ovh/the-bastion/pull/576) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
-- [WIP: refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/74) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
