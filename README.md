@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: switch banner if node is sealed](https://github.com/ovh/the-bastion/pull/586) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [feat: make code execution opt-in for server](https://github.com/c0rydoras/folien/pull/19) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (4 days ago)
 - [feat: use deb822 repository for debian &gt;= 12](https://github.com/adfinis/ansible-role-icinga2_web/pull/40) on [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) (4 days ago)
 - [feat: re-add ssh server](https://github.com/c0rydoras/folien/pull/17) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (4 days ago)
 - [fix: add ucs to bootstrap packages](https://github.com/robertdebock/ansible-role-bootstrap/pull/77) on [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) (5 days ago)
-- [feat: add support for UCS](https://github.com/robertdebock/ansible-role-bootstrap/pull/76) on [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) (5 days ago)
 
 #### ⭐ Recent Stars
 
