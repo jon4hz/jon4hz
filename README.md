@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.103.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.103.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.85](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.85), 1 day ago) - A Helm chart for NetBox
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.55.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.55.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.0), 4 days ago) - This role is used to configure icingaweb2
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.5.2](https://github.com/c0rydoras/folien/releases/tag/v0.5.2), 4 days ago) - Terminal based presentation tool (WIP)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.5](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.5), 5 days ago) - Prepare your system to be managed by Ansible.
