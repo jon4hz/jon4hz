@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (5 days ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (5 days ago)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 
 #### 🌱 My latest projects
