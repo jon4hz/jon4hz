@@ -26,19 +26,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support validation of certificate against a CA](https://github.com/ovh/yubico-piv-checker/pull/9) on [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) (today)
 - [docs: add link to ansible role](https://github.com/ovh/the-bastion/pull/588) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [feat: switch banner if node is sealed](https://github.com/ovh/the-bastion/pull/586) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [feat: make code execution opt-in for server](https://github.com/c0rydoras/folien/pull/19) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 - [feat: use deb822 repository for debian &gt;= 12](https://github.com/adfinis/ansible-role-icinga2_web/pull/40) on [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) (5 days ago)
-- [feat: re-add ssh server](https://github.com/c0rydoras/folien/pull/17) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 
 #### ⭐ Recent Stars
 
+- [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (today)
 - [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (today)
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (1 week ago)
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (2 weeks ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 weeks ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
