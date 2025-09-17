@@ -18,11 +18,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), today) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.103.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.103.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.85](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.85), 2 days ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.0), 5 days ago) - This role is used to configure icingaweb2
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.5.2](https://github.com/c0rydoras/folien/releases/tag/v0.5.2), 5 days ago) - Terminal based presentation tool (WIP)
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.5](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.5), 6 days ago) - Prepare your system to be managed by Ansible.
 
 #### 🔨 My recent Pull Requests
 
