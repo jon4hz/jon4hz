@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (5 days ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (5 days ago)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,19 +18,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.1.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.1.1), today) - Ansible role to install and configure The Bastion
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), today) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.103.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.103.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.85](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.85), 2 days ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.0), 5 days ago) - This role is used to configure icingaweb2
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) ([v0.5.2](https://github.com/c0rydoras/folien/releases/tag/v0.5.2), 5 days ago) - Terminal based presentation tool (WIP)
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add link to ansible role](https://github.com/ovh/the-bastion/pull/588) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [feat: switch banner if node is sealed](https://github.com/ovh/the-bastion/pull/586) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [feat: make code execution opt-in for server](https://github.com/c0rydoras/folien/pull/19) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
 - [feat: use deb822 repository for debian &gt;= 12](https://github.com/adfinis/ansible-role-icinga2_web/pull/40) on [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) (5 days ago)
 - [feat: re-add ssh server](https://github.com/c0rydoras/folien/pull/17) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (5 days ago)
-- [fix: add ucs to bootstrap packages](https://github.com/robertdebock/ansible-role-bootstrap/pull/77) on [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) (6 days ago)
 
 #### ⭐ Recent Stars
 
