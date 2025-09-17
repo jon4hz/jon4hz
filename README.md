@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (today)
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (1 week ago)
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (2 weeks ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 weeks ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (3 weeks ago)
-- [johnpc/karaoke-for-jellyfin](https://github.com/johnpc/karaoke-for-jellyfin) -  (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
