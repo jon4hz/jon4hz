@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
+- [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) - Wazuh - Ansible playbook (today)
 - [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (1 day ago)
 - [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (1 day ago)
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (1 week ago)
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (2 weeks ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
