@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 days ago)
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (6 days ago)
-- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (6 days ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 days ago)
+- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (1 week ago)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,27 +18,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.1.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.1.1), 1 day ago) - Ansible role to install and configure The Bastion
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), 1 day ago) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.103.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.103.0), 2 days ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.85](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.85), 3 days ago) - A Helm chart for NetBox
-- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.0), 6 days ago) - This role is used to configure icingaweb2
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.1.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.1.1), 2 days ago) - Ansible role to install and configure The Bastion
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), 2 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.103.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.103.0), 3 days ago) - 📈 Helm charts from Adfinis
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.0.85](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.0.85), 4 days ago) - A Helm chart for NetBox
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.0), 1 week ago) - This role is used to configure icingaweb2
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support validation of certificate against a CA](https://github.com/ovh/yubico-piv-checker/pull/9) on [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) (1 day ago)
-- [docs: add link to ansible role](https://github.com/ovh/the-bastion/pull/588) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
-- [feat: switch banner if node is sealed](https://github.com/ovh/the-bastion/pull/586) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
-- [feat: make code execution opt-in for server](https://github.com/c0rydoras/folien/pull/19) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (6 days ago)
-- [feat: use deb822 repository for debian &gt;= 12](https://github.com/adfinis/ansible-role-icinga2_web/pull/40) on [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) (6 days ago)
+- [feat: support validation of certificate against a CA](https://github.com/ovh/yubico-piv-checker/pull/9) on [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) (2 days ago)
+- [docs: add link to ansible role](https://github.com/ovh/the-bastion/pull/588) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
+- [feat: switch banner if node is sealed](https://github.com/ovh/the-bastion/pull/586) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
+- [feat: make code execution opt-in for server](https://github.com/c0rydoras/folien/pull/19) on [c0rydoras/folien](https://github.com/c0rydoras/folien) (1 week ago)
+- [feat: use deb822 repository for debian &gt;= 12](https://github.com/adfinis/ansible-role-icinga2_web/pull/40) on [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) - Wazuh - Ansible playbook (today)
-- [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (1 day ago)
-- [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (1 day ago)
+- [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) - Wazuh - Ansible playbook (1 day ago)
+- [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (2 days ago)
+- [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (2 days ago)
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (1 week ago)
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (2 weeks ago)
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
