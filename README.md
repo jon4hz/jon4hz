@@ -1,4 +1,8 @@
-<h1 align=center>Hello there 👋</h1>
+<h1 align="center">
+  <img src="./assets/praise-the-sun.gif" width="100" alt="PRAISE THE SUN" style="margin: 0 60px;"/>
+  PRAISE THE SUN
+  <img src="./assets/praise-the-sun.gif" width="100" alt="PRAISE THE SUN" style="margin: 0 60px;"/>
+</h1>
 
 #### 👷 Check out what I'm currently working on
 
