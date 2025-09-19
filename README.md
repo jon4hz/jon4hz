@@ -1,13 +1,8 @@
-<div class="tenor-gif-embed" data-postid="22248256" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/dark-souls-sun-praise-gif-22248256">Dark Souls Sticker</a>from <a href="https://tenor.com/search/dark-stickers">Dark Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<h1 align=center>Praise the sun</h1>
-
-<div class="tenor-gif-embed" data-postid="22248256" data-share-method="host" data-aspect-ratio="0.715625" data-width="100%"><a href="https://tenor.com/view/dark-souls-sun-praise-gif-22248256">Dark Souls Sticker</a>from <a href="https://tenor.com/search/dark-stickers">Dark Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<h1 align=center>Hello there 👋</h1>
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 days ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 days ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (1 week ago)
