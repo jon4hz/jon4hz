@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (5 days ago)
-- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (1 week ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (1 week ago)
 
 #### 🌱 My latest projects
 
