@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.3.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.3.1), today) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.1](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.1), today) - This role is used to configure icingaweb2
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.2.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.2.0), today) - Ansible role to install and configure The Bastion
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-8.0.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-8.0.2), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.1), today) - A Helm chart for NetBox
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), 5 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add config options for encrypt-rsync](https://github.com/adfinis/ansible-role-the_bastion/pull/5) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [feat: add config options for acl backup](https://github.com/adfinis/ansible-role-the_bastion/pull/4) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [refactor: split engine into multiple packages](https://github.com/jon4hz/jellysweep/pull/123) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 - [Revert &#34;refactor: split engine into multiple packages&#34;](https://github.com/jon4hz/jellysweep/pull/122) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 - [feat: allow validation of PIV certificate against a CA](https://github.com/ovh/the-bastion/pull/589) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
-- [feat: support validation of certificate against a CA](https://github.com/ovh/yubico-piv-checker/pull/9) on [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) (5 days ago)
 
 #### ⭐ Recent Stars
 
