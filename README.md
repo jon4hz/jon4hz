@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-8.0.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-8.0.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-8.0.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-8.0.1), today) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.1), today) - A Helm chart for NetBox
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.1.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.1.1), 5 days ago) - Ansible role to install and configure The Bastion
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), 5 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
