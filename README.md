@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.56.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.56.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.57.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.57.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.3.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.3.1), 1 day ago) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.1](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.1), 1 day ago) - This role is used to configure icingaweb2
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-8.0.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-8.0.2), 1 day ago) - Helm Charts for various Applications
