@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.56.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.56.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.3.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.3.1), 1 day ago) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.1](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.1), 1 day ago) - This role is used to configure icingaweb2
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-8.0.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-8.0.2), 1 day ago) - Helm Charts for various Applications
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.1), 1 day ago) - A Helm chart for NetBox
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.22.00](https://github.com/ovh/the-bastion/releases/tag/v3.22.00), 6 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 
 #### 🔨 My recent Pull Requests
 
