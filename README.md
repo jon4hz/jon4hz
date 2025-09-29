@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
-- [toverainc/willow-inference-server](https://github.com/toverainc/willow-inference-server) - Open source, local, and self-hosted highly optimized language inference server supporting ASR/STT, TTS, and LLM across WebRTC, REST, and WS (1 day ago)
 - [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) - Wazuh - Ansible playbook (1 week ago)
 - [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (1 week ago)
 - [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (1 week ago)
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (2 weeks ago)
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
