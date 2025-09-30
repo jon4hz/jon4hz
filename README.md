@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.2](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.2), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.3), today) - A Helm chart for NetBox
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.104.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.104.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.3.1](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.3.1), 3 days ago) - Helm Charts for various Applications
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.4.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.4.0), 6 days ago) - Ansible role to install and configure The Bastion
