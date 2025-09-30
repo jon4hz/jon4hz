@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.40.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.40.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.3.1](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.3.1), 3 days ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-1.0.0](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-1.0.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.4.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.4.0), 6 days ago) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v2.2.1](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v2.2.1), 1 week ago) - This role is used to configure icingaweb2
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.1](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.1), 1 week ago) - A Helm chart for NetBox
