@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: option to configure remote syslog server](https://github.com/adfinis/ansible-role-the_bastion/pull/6) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [feat: mount drive with starred content](https://github.com/adfinis/adfinis-rclone-mgr/pull/52) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [feat: add try-personal-keys option for groups](https://github.com/ovh/the-bastion/pull/593) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [feat: implement proxy jump for egress connections](https://github.com/ovh/the-bastion/pull/592) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (5 days ago)
 - [fix: debian 13 uses lastlog2](https://github.com/ovh/the-bastion/pull/590) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 week ago)
-- [feat: add config options for encrypt-rsync](https://github.com/adfinis/ansible-role-the_bastion/pull/5) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
