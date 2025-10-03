@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.6.3](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.6.3), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.5.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.5.0), 1 day ago) - Ansible role to install and configure The Bastion
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.0), 2 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.250.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.250.1), 2 days ago) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.3), 3 days ago) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-1.3.1](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-1.3.1), 6 days ago) - Helm Charts for various Applications
 
