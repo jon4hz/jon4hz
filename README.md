@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native (today)
 - [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) - Wazuh - Ansible playbook (2 weeks ago)
 - [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (2 weeks ago)
 - [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (2 weeks ago)
 - [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (3 weeks ago)
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) - Install and configure openbao on your system. (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
