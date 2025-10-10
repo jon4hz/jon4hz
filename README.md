@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (today)
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native (3 days ago)
 - [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) - Wazuh - Ansible playbook (3 weeks ago)
 - [ovh/yubico-piv-checker](https://github.com/ovh/yubico-piv-checker) -  (3 weeks ago)
 - [JMarkstrom/yubikey-piv-lifecycle](https://github.com/JMarkstrom/yubikey-piv-lifecycle) - Personal Identity Verification (PIV) related assets for YubiKeys (3 weeks ago)
-- [javi11/altmount](https://github.com/javi11/altmount) - usenet virtual fs (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
