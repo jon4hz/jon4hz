@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-7.1.3](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-7.1.3), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.3](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.3), 2 days ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.0), 3 days ago) - 📈 Helm charts from Adfinis
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.6](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.6), 4 days ago) - A Helm chart for NetBox
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.1.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.1.0), 5 days ago) - This role is used to configure an icinga2 master
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.5.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.5.0), 1 week ago) - Ansible role to install and configure The Bastion
 
