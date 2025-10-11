@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-7.1.4](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-7.1.4), today) - A Helm chart for NetBox
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.11.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.11.0), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.8](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.8), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.2.3](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.2.3), 2 days ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.1.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.1.0), 5 days ago) - This role is used to configure an icinga2 master
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.5.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.5.0), 1 week ago) - Ansible role to install and configure The Bastion
 
 #### 🔨 My recent Pull Requests
 
