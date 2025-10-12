@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor!: implement database for settings, media items and requests](https://github.com/jon4hz/jellysweep/pull/133) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: add CODEOWNERS](https://github.com/adfinis/ansible-role-the_bastion/pull/7) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [feat: option to configure remote syslog server](https://github.com/adfinis/ansible-role-the_bastion/pull/6) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [feat: mount drive with starred content](https://github.com/adfinis/adfinis-rclone-mgr/pull/52) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [feat: add try-personal-keys option for groups](https://github.com/ovh/the-bastion/pull/593) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 week ago)
-- [feat: implement proxy jump for egress connections](https://github.com/ovh/the-bastion/pull/592) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
