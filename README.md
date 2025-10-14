@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.251.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.251.0), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.12](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.12), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([nextcloud-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/nextcloud-exporter-1.1.0), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.11.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.11.0), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.0), 6 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.1.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.1.0), 1 week ago) - This role is used to configure an icinga2 master
 
 #### 🔨 My recent Pull Requests
