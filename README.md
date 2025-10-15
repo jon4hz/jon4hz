@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-7.1.9](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-7.1.9), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.14](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.14), today) - A Helm chart for NetBox
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 1 day ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.251.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.251.1), 1 day ago) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([nextcloud-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/nextcloud-exporter-1.1.0), 3 days ago) - Helm Charts for various Applications
