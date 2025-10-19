@@ -22,15 +22,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.17](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.17), today) - A Helm chart for NetBox
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.6](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.6), 2 days ago) - Prepare your system to be managed by Ansible.
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 4 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.251.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.251.1), 4 days ago) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([nextcloud-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/nextcloud-exporter-1.1.0), 6 days ago) - Helm Charts for various Applications
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.17](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.17), 1 day ago) - A Helm chart for NetBox
+- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.6](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.6), 3 days ago) - Prepare your system to be managed by Ansible.
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.251.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.251.1), 5 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([nextcloud-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/nextcloud-exporter-1.1.0), 1 week ago) - Helm Charts for various Applications
 
 #### 🔨 My recent Pull Requests
 
-- [refactor!: implement database for settings, media items and requests](https://github.com/jon4hz/jellysweep/pull/133) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (6 days ago)
+- [refactor!: implement database for settings, media items and requests](https://github.com/jon4hz/jellysweep/pull/133) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [chore: add CODEOWNERS](https://github.com/adfinis/ansible-role-the_bastion/pull/7) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 - [feat: option to configure remote syslog server](https://github.com/adfinis/ansible-role-the_bastion/pull/6) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 - [feat: mount drive with starred content](https://github.com/adfinis/adfinis-rclone-mgr/pull/52) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 weeks ago)
@@ -38,9 +38,9 @@
 
 #### ⭐ Recent Stars
 
-- [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box office top 10, their status in your Radarr library, and allows quality profile management. (1 day ago)
-- [kando-menu/gnome-shell-integration](https://github.com/kando-menu/gnome-shell-integration) - 🐚 A small GNOME Shell extension required for Kando on Wayland.  (1 day ago)
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency. (1 day ago)
+- [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box office top 10, their status in your Radarr library, and allows quality profile management. (2 days ago)
+- [kando-menu/gnome-shell-integration](https://github.com/kando-menu/gnome-shell-integration) - 🐚 A small GNOME Shell extension required for Kando on Wayland.  (2 days ago)
+- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency. (2 days ago)
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (1 week ago)
 - [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native (1 week ago)
 
