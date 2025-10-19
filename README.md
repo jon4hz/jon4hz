@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.17](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.17), 1 day ago) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-7.1.13](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-7.1.13), today) - A Helm chart for NetBox
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.6](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.6), 3 days ago) - Prepare your system to be managed by Ansible.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 5 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.251.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.251.1), 5 days ago) - 📈 Helm charts from Adfinis
