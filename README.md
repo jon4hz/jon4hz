@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.4.0), today) - 🌙 A sleep timer plugin for Jellyfin.
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.5.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.5.0), today) - 🌙 A sleep timer plugin for Jellyfin.
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.19](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.19), today) - A Helm chart for NetBox
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.6](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.6), 4 days ago) - Prepare your system to be managed by Ansible.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 6 days ago) - Build terminal forms and prompts 🤷🏻‍♀️
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [intro-skipper/jellyfin-plugin-edl](https://github.com/intro-skipper/jellyfin-plugin-edl) - Jellyfin .edl file creation plugin (today)
+- [endrl/segment-editor](https://github.com/endrl/segment-editor) - Segment Editor for Jellyfin Segment API (today)
+- [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen. (today)
 - [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box office top 10, their status in your Radarr library, and allows quality profile management. (3 days ago)
 - [kando-menu/gnome-shell-integration](https://github.com/kando-menu/gnome-shell-integration) - 🐚 A small GNOME Shell extension required for Kando on Wayland.  (3 days ago)
-- [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency. (3 days ago)
-- [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (1 week ago)
-- [Jellify-Music/App](https://github.com/Jellify-Music/App) - A cross-platform, free and open source music player for Jellyfin, powered by React Native (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
