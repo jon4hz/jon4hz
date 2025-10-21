@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: properly cleanup items in jellyfin](https://github.com/jon4hz/jellysweep/pull/153) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore(deps): bump github.com/sj14/jellyfin-go from 0.3.3 to 0.4.0](https://github.com/jon4hz/jellysweep/pull/152) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: add support for jellyfin 10.11](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/12) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (1 day ago)
 - [refactor!: implement database for settings, media items and requests](https://github.com/jon4hz/jellysweep/pull/133) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [chore: add CODEOWNERS](https://github.com/adfinis/ansible-role-the_bastion/pull/7) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
-- [feat: option to configure remote syslog server](https://github.com/adfinis/ansible-role-the_bastion/pull/6) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
