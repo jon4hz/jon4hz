@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions (today)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 day ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 weeks ago)
-- [jon4hz/canihazgnomeupdate](https://github.com/jon4hz/canihazgnomeupdate) - 🧙 check if all your extensions support a specific gnome version (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), today) - Opinionated build tooling for Gnome Shell extensions
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), today) - 📈 Helm charts from Adfinis
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.20](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.20), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.5.1), 1 day ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.6](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.6), 6 days ago) - Prepare your system to be managed by Ansible.
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 
 #### 🔨 My recent Pull Requests
 
