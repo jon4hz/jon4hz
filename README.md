@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Readonly mirror of codeberg.org/swsnr/gnome-search-providers-vscode (today)
+- [swsnr/gnome-shell-extension-xwayland-indicator](https://github.com/swsnr/gnome-shell-extension-xwayland-indicator) - Readonly mirror of codeberg.org/swsnr/gnome-shell-extension-xwayland-indicator (today)
 - [intro-skipper/jellyfin-plugin-edl](https://github.com/intro-skipper/jellyfin-plugin-edl) - Jellyfin .edl file creation plugin (2 days ago)
 - [endrl/segment-editor](https://github.com/endrl/segment-editor) - Segment Editor for Jellyfin Segment API (2 days ago)
 - [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen. (2 days ago)
-- [iongpt/boxarr](https://github.com/iongpt/boxarr) - Boxarr is an automated box office tracking application that integrates with Radarr to monitor, add, and manage the latest theatrical releases. It provides a beautiful dashboard showing the current box office top 10, their status in your Radarr library, and allows quality profile management. (5 days ago)
-- [kando-menu/gnome-shell-integration](https://github.com/kando-menu/gnome-shell-integration) - 🐚 A small GNOME Shell extension required for Kando on Wayland.  (5 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
