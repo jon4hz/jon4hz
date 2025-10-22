@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-7.1.14](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-7.1.14), today) - A Helm chart for NetBox
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.5.1), 1 day ago) - 🌙 A sleep timer plugin for Jellyfin.
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.19](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.19), 2 days ago) - A Helm chart for NetBox
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.6](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.6), 6 days ago) - Prepare your system to be managed by Ansible.
 - [charmbracelet/huh](https://github.com/charmbracelet/huh) ([v0.8.0](https://github.com/charmbracelet/huh/releases/tag/v0.8.0), 1 week ago) - Build terminal forms and prompts 🤷🏻‍♀️
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.251.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.251.1), 1 week ago) - 📈 Helm charts from Adfinis
