@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: omit includeItemTypes in getLatestMedia if possible](https://github.com/streamyfin/streamyfin/pull/1141) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (today)
 - [fix: improve content age filter to respect previous jellysweep deletions](https://github.com/jon4hz/jellysweep/pull/154) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 - [feat: properly cleanup items in jellyfin](https://github.com/jon4hz/jellysweep/pull/153) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 - [chore(deps): bump github.com/sj14/jellyfin-go from 0.3.3 to 0.4.0](https://github.com/jon4hz/jellysweep/pull/152) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 - [feat: add support for jellyfin 10.11](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/12) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (4 days ago)
-- [refactor!: implement database for settings, media items and requests](https://github.com/jon4hz/jellysweep/pull/133) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
