@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions (3 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (4 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ui): show requester username in approval queue](https://github.com/jon4hz/jellysweep/pull/155) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: omit includeItemTypes in getLatestMedia if possible](https://github.com/streamyfin/streamyfin/pull/1141) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (1 day ago)
 - [fix: improve content age filter to respect previous jellysweep deletions](https://github.com/jon4hz/jellysweep/pull/154) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
 - [feat: properly cleanup items in jellyfin](https://github.com/jon4hz/jellysweep/pull/153) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
 - [chore(deps): bump github.com/sj14/jellyfin-go from 0.3.3 to 0.4.0](https://github.com/jon4hz/jellysweep/pull/152) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
-- [feat: add support for jellyfin 10.11](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/12) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (5 days ago)
 
 #### ⭐ Recent Stars
 
