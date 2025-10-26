@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻 (today)
 - [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Readonly mirror of codeberg.org/swsnr/gnome-search-providers-vscode (4 days ago)
 - [swsnr/gnome-shell-extension-xwayland-indicator](https://github.com/swsnr/gnome-shell-extension-xwayland-indicator) - Readonly mirror of codeberg.org/swsnr/gnome-shell-extension-xwayland-indicator (4 days ago)
 - [intro-skipper/jellyfin-plugin-edl](https://github.com/intro-skipper/jellyfin-plugin-edl) - Jellyfin .edl file creation plugin (6 days ago)
 - [endrl/segment-editor](https://github.com/endrl/segment-editor) - Segment Editor for Jellyfin Segment API (6 days ago)
-- [jeppevinkel/jellyfin-tizen-builds](https://github.com/jeppevinkel/jellyfin-tizen-builds) - The purpose of this repository is to automatically build the most up-to-date version of jellyfin-tizen. (6 days ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
