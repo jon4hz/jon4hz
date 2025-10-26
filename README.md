@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ui): add history page](https://github.com/jon4hz/jellysweep/pull/161) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat(ui): show requester username in approval queue](https://github.com/jon4hz/jellysweep/pull/155) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [fix: omit includeItemTypes in getLatestMedia if possible](https://github.com/streamyfin/streamyfin/pull/1141) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (2 days ago)
 - [fix: improve content age filter to respect previous jellysweep deletions](https://github.com/jon4hz/jellysweep/pull/154) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 - [feat: properly cleanup items in jellyfin](https://github.com/jon4hz/jellysweep/pull/153) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
-- [chore(deps): bump github.com/sj14/jellyfin-go from 0.3.3 to 0.4.0](https://github.com/jon4hz/jellysweep/pull/152) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 
 #### ⭐ Recent Stars
 
