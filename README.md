@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.22](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.22), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 1 day ago) - Helm Charts for various Applications
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.21](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.21), 2 days ago) - A Helm chart for NetBox
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.12.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.12.1), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), 5 days ago) - Opinionated build tooling for Gnome Shell extensions
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), 5 days ago) - 📈 Helm charts from Adfinis
