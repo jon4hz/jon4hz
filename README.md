@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update fedora link](https://github.com/adfinis/landingpage-repo_mirror/pull/150) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (today)
 - [fix: meta to install all roles](https://github.com/adfinis-forks/wazuh-ansible/pull/1) on [adfinis-forks/wazuh-ansible](https://github.com/adfinis-forks/wazuh-ansible) (today)
 - [fix: meta to install all roles](https://github.com/wazuh/wazuh-ansible/pull/1821) on [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) (today)
 - [feat: add event history](https://github.com/jon4hz/jellysweep/pull/161) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [feat(ui): show requester username in approval queue](https://github.com/jon4hz/jellysweep/pull/155) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
-- [fix: omit includeItemTypes in getLatestMedia if possible](https://github.com/streamyfin/streamyfin/pull/1141) on [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) (3 days ago)
 
 #### ⭐ Recent Stars
 
