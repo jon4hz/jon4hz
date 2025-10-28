@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.23](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.23), today) - A Helm chart for NetBox
+- [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-7.1.17](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-7.1.17), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.12.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.12.1), 4 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), 6 days ago) - Opinionated build tooling for Gnome Shell extensions
