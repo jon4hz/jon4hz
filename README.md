@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: goreleaser and dependabot](https://github.com/Melkor333/oils-readline/pull/20) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (today)
 - [feat: add plugin interface](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/pull/7) on [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) (1 day ago)
 - [fix: update fedora link](https://github.com/adfinis/landingpage-repo_mirror/pull/150) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (1 day ago)
 - [fix: meta to install all roles](https://github.com/adfinis-forks/wazuh-ansible/pull/1) on [adfinis-forks/wazuh-ansible](https://github.com/adfinis-forks/wazuh-ansible) (1 day ago)
 - [fix: meta to install all roles](https://github.com/wazuh/wazuh-ansible/pull/1821) on [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible) (1 day ago)
-- [feat: add event history](https://github.com/jon4hz/jellysweep/pull/161) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 
 #### ⭐ Recent Stars
 
