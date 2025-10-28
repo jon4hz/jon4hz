@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), today) - This role is used to configure an icinga2 master
 - [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ([netbox-operator-1.1.24](https://github.com/netbox-community/netbox-chart/releases/tag/netbox-operator-1.1.24), today) - A Helm chart for NetBox
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 2 days ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.12.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.12.1), 4 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), 6 days ago) - Opinionated build tooling for Gnome Shell extensions
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.105.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.105.1), 6 days ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
 
