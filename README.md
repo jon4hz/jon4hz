@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [LukasK32/fleeting-plugin-proxmox](https://github.com/LukasK32/fleeting-plugin-proxmox) - Fleeting plugin for Proxmox Virtual Environment. (today)
 - [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - A notification library for gophers and their furry friends. (3 days ago)
 - [ajnart/subs](https://github.com/ajnart/subs) - Subs ! Track your subscriptions easily  (3 days ago)
 - [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻 (3 days ago)
 - [swsnr/gnome-search-providers-vscode](https://github.com/swsnr/gnome-search-providers-vscode) - Readonly mirror of codeberg.org/swsnr/gnome-search-providers-vscode (1 week ago)
-- [swsnr/gnome-shell-extension-xwayland-indicator](https://github.com/swsnr/gnome-shell-extension-xwayland-indicator) - Readonly mirror of codeberg.org/swsnr/gnome-shell-extension-xwayland-indicator (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
