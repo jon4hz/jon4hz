@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat(ui): show badge if dry run mode is active](https://github.com/jon4hz/jellysweep/pull/176) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [chore: restructure project folders](https://github.com/jon4hz/jellysweep/pull/175) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 
 #### ⭐ Recent Stars
 
