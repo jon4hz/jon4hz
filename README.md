@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.0), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 3 days ago) - Enhanced readline for the Oils project
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 5 days ago) - This role is used to configure an icinga2 master
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 1 week ago) - Helm Charts for various Applications
