@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
-- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (4 days ago)
+- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (5 days ago)
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 week ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 weeks ago)
@@ -22,27 +22,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 2 days ago) - Enhanced readline for the Oils project
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 4 days ago) - This role is used to configure an icinga2 master
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 6 days ago) - Helm Charts for various Applications
+- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 3 days ago) - Enhanced readline for the Oils project
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 5 days ago) - This role is used to configure an icinga2 master
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 1 week ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.12.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.12.1), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), 1 week ago) - Opinionated build tooling for Gnome Shell extensions
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ui): show badge if dry run mode is active](https://github.com/jon4hz/jellysweep/pull/176) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [chore: restructure project folders](https://github.com/jon4hz/jellysweep/pull/175) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [ci: goreleaser and dependabot](https://github.com/Melkor333/oils-readline/pull/20) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (4 days ago)
-- [feat: add plugin interface](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/pull/7) on [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) (5 days ago)
-- [fix: update fedora link](https://github.com/adfinis/landingpage-repo_mirror/pull/150) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (5 days ago)
+- [feat(ui): show badge if dry run mode is active](https://github.com/jon4hz/jellysweep/pull/176) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [chore: restructure project folders](https://github.com/jon4hz/jellysweep/pull/175) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [ci: goreleaser and dependabot](https://github.com/Melkor333/oils-readline/pull/20) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (5 days ago)
+- [feat: add plugin interface](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/pull/7) on [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) (6 days ago)
+- [fix: update fedora link](https://github.com/adfinis/landingpage-repo_mirror/pull/150) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (2 days ago)
-- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (3 days ago)
-- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (3 days ago)
-- [LukasK32/fleeting-plugin-proxmox](https://github.com/LukasK32/fleeting-plugin-proxmox) - Fleeting plugin for Proxmox Virtual Environment. (3 days ago)
-- [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - A notification library for gophers and their furry friends. (6 days ago)
+- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (3 days ago)
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (4 days ago)
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (4 days ago)
+- [LukasK32/fleeting-plugin-proxmox](https://github.com/LukasK32/fleeting-plugin-proxmox) - Fleeting plugin for Proxmox Virtual Environment. (4 days ago)
+- [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - A notification library for gophers and their furry friends. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
