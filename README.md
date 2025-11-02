@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat(ui): show badge if dry run mode is active](https://github.com/jon4hz/jellysweep/pull/176) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [chore: restructure project folders](https://github.com/jon4hz/jellysweep/pull/175) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [ci: goreleaser and dependabot](https://github.com/Melkor333/oils-readline/pull/20) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (5 days ago)
-- [feat: add plugin interface](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/pull/7) on [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) (6 days ago)
-- [fix: update fedora link](https://github.com/adfinis/landingpage-repo_mirror/pull/150) on [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) (6 days ago)
 
 #### ⭐ Recent Stars
 
