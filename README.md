@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
-- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (6 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (1 week ago)
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions (1 week ago)
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 week ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 weeks ago)
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,26 +22,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 1 day ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 4 days ago) - Enhanced readline for the Oils project
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 6 days ago) - This role is used to configure an icinga2 master
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 5 days ago) - Enhanced readline for the Oils project
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 1 week ago) - This role is used to configure an icinga2 master
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 1 week ago) - Helm Charts for various Applications
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), 1 week ago) - Opinionated build tooling for Gnome Shell extensions
 
 #### 🔨 My recent Pull Requests
 
-- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
+- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
+- [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
+- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
+- [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (4 days ago)
-- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (5 days ago)
-- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (5 days ago)
-- [LukasK32/fleeting-plugin-proxmox](https://github.com/LukasK32/fleeting-plugin-proxmox) - Fleeting plugin for Proxmox Virtual Environment. (5 days ago)
+- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (5 days ago)
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (6 days ago)
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (6 days ago)
+- [LukasK32/fleeting-plugin-proxmox](https://github.com/LukasK32/fleeting-plugin-proxmox) - Fleeting plugin for Proxmox Virtual Environment. (6 days ago)
 - [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - A notification library for gophers and their furry friends. (1 week ago)
 
 #### 📫 How to reach me
