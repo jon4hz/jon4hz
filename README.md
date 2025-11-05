@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (today)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (1 day ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (6 days ago)
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units (1 week ago)
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (1 week ago)
-- [LukasK32/fleeting-plugin-proxmox](https://github.com/LukasK32/fleeting-plugin-proxmox) - Fleeting plugin for Proxmox Virtual Environment. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
