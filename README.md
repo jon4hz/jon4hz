@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (today)
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (1 day ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 days ago)
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (1 week ago)
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions (2 weeks ago)
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
 
 #### 🌱 My latest projects
 
