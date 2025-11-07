@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (2 days ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 days ago)
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (3 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (4 days ago)
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (1 week ago)
 - [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) - Opinionated build tooling for Gnome Shell extensions (2 weeks ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 4 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 5 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 1 week ago) - Enhanced readline for the Oils project
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 1 week ago) - This role is used to configure an icinga2 master
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([netcupscp-exporter-1.2.7](https://github.com/christianhuth/helm-charts/releases/tag/netcupscp-exporter-1.2.7), 1 week ago) - Helm Charts for various Applications
@@ -30,18 +30,18 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
-- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
-- [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
-- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
-- [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (4 days ago)
+- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
+- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
+- [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
+- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
+- [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (today)
-- [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (today)
-- [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (1 day ago)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (2 days ago)
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (1 day ago)
+- [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (1 day ago)
+- [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (2 days ago)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (3 days ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
 
 #### 📫 How to reach me
