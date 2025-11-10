@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/1) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
 - [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [refactor: dedicated filter config and packages](https://github.com/jon4hz/jellysweep/pull/177) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
