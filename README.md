@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 day ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (4 days ago)
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (5 days ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (6 days ago)
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (5 days ago)
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (6 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) - Enhanced readline for the Oils project (1 week ago)
 
 #### 🌱 My latest projects
@@ -38,10 +38,10 @@
 
 #### ⭐ Recent Stars
 
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (3 days ago)
-- [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (3 days ago)
-- [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (4 days ago)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (5 days ago)
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (4 days ago)
+- [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (4 days ago)
+- [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (5 days ago)
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (6 days ago)
 - [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
 
 #### 📫 How to reach me
