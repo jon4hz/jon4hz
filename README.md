@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (today)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (4 days ago)
 - [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (4 days ago)
 - [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (5 days ago)
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (6 days ago)
-- [c0rydoras/folien](https://github.com/c0rydoras/folien) - Terminal based presentation tool (WIP) (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
