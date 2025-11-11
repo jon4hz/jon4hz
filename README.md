@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (today)
 - [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (1 day ago)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (5 days ago)
 - [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (5 days ago)
 - [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (6 days ago)
-- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool  (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
