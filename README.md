@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), today) - A modern Jellyfin client built with Expo
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([etcd-defrag-1.5.3](https://github.com/christianhuth/helm-charts/releases/tag/etcd-defrag-1.5.3), 1 day ago) - Helm Charts for various Applications
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 2 weeks ago) - Enhanced readline for the Oils project
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 2 weeks ago) - This role is used to configure an icinga2 master
-- [jon4hz/gsebuild](https://github.com/jon4hz/gsebuild) ([v0.1.3](https://github.com/jon4hz/gsebuild/releases/tag/v0.1.3), 3 weeks ago) - Opinionated build tooling for Gnome Shell extensions
 
 #### 🔨 My recent Pull Requests
 
