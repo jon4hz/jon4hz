@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.7.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.7.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.7.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.7.0), 1 day ago) - Helm Charts for various Applications
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 3 days ago) - A modern Jellyfin client built with Expo
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 2 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 2 weeks ago) - Enhanced readline for the Oils project
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 2 weeks ago) - This role is used to configure an icinga2 master
 
 #### 🔨 My recent Pull Requests
 
