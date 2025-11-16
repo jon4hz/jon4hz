@@ -22,24 +22,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.7.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.7.0), today) - Helm Charts for various Applications
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 2 days ago) - A modern Jellyfin client built with Expo
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.7.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.7.0), 1 day ago) - Helm Charts for various Applications
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 3 days ago) - A modern Jellyfin client built with Expo
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 2 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) ([v0.0.2](https://github.com/Melkor333/oils-readline/releases/tag/v0.0.2), 2 weeks ago) - Enhanced readline for the Oils project
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.2.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.2.0), 2 weeks ago) - This role is used to configure an icinga2 master
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/1) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (5 days ago)
-- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
+- [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/1) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (6 days ago)
+- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
+- [feat: add tunarr filter](https://github.com/jon4hz/jellysweep/pull/182) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
+- [chore: add mock interfaces and filter tests](https://github.com/jon4hz/jellysweep/pull/181) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
+- [fix: use image cache again](https://github.com/jon4hz/jellysweep/pull/179) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (4 days ago)
-- [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (5 days ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (5 days ago)
+- [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (6 days ago)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (1 week ago)
 - [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (1 week ago)
 - [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (1 week ago)
