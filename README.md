@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: config options for our own fork](https://github.com/adfinis/ansible-role-the_bastion/pull/8) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/4) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
 - [feat: implement proxy jump for egress connections](https://github.com/adfinis-forks/the-bastion/pull/3) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
 - [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/2) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
 - [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/1) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
-- [feat: auto approve permissions](https://github.com/jon4hz/jellysweep/pull/183) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
