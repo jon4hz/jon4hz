@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), today) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.7.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.7.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.7.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.7.0), 4 days ago) - Helm Charts for various Applications
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 6 days ago) - A modern Jellyfin client built with Expo
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.13.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.13.1), 2 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
 
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (today)
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (1 week ago)
 - [opt-nc/geol](https://github.com/opt-nc/geol) - Efficiently show end-of-life dates for a number of products in your terminal  using https://endoflife.date/ API (1 week ago)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (1 week ago)
 - [myka0/gocean](https://github.com/myka0/gocean) - Enjoy the mysteries of the sea from the safety of your own terminal! (1 week ago)
-- [ImAleeexx/authentik-generator](https://github.com/ImAleeexx/authentik-generator) -  (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
