@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.2.0), today) - 
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), 1 day ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.7.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.7.0), 4 days ago) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.7.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.7.0), 5 days ago) - Helm Charts for various Applications
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.47.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.47.1), 1 week ago) - A modern Jellyfin client built with Expo
 
 #### 🔨 My recent Pull Requests
 
+- [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (today)
 - [feat: config options for our own fork](https://github.com/adfinis/ansible-role-the_bastion/pull/8) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
 - [feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/4) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
 - [feat: implement proxy jump for egress connections](https://github.com/adfinis-forks/the-bastion/pull/3) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
 - [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/2) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
-- [feat: add try-personal-keys policy for groups](https://github.com/adfinis-forks/the-bastion/pull/1) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
