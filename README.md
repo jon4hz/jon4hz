@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.2.0), today) - 
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.2.1](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.2.1), today) - 
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), 1 day ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.7.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.7.0), 4 days ago) - 📈 Helm charts from Adfinis
