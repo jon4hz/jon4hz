@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing the watch progress (today)
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (4 days ago)
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 weeks ago)
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (2 weeks ago)
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.6.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.6.0), today) - 🌙 A sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.41.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.41.0), today) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), today) - Remove items from &#34;Continue Watching&#34; without loosing the watch progress
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), 4 days ago) - A Jellyfin plugin to inject Javascript
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.7.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.7.0), 1 week ago) - Helm Charts for various Applications
 
 #### 🔨 My recent Pull Requests
 
