@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.7.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.7.0), today) - 🌙 A sleep timer plugin for Jellyfin.
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.8.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.8.0), today) - 🌙 A sleep timer plugin for Jellyfin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.41.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.41.0), today) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), today) - Remove items from &#34;Continue Watching&#34; without loosing the watch progress
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
