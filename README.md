@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Danger, Will Robinson!](https://github.com/adfinis/flappy-sez/pull/39) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
 - [feat: show denylists in config page (maybe?)](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/7) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (5 days ago)
 - [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (5 days ago)
 - [feat: config options for our own fork](https://github.com/adfinis/ansible-role-the_bastion/pull/8) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/4) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
-- [feat: implement proxy jump for egress connections](https://github.com/adfinis-forks/the-bastion/pull/3) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
