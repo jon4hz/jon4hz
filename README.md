@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 days ago)
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (2 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 weeks ago)
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (3 days ago)
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 weeks ago)
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,27 +22,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.8.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.8.0), 2 days ago) - 🌙 A sleep timer plugin for Jellyfin.
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.41.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.41.0), 2 days ago) - 📈 Helm charts from Adfinis
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), 2 days ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 6 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), 6 days ago) - A Jellyfin plugin to inject Javascript
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.8.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.8.0), 3 days ago) - 🌙 A sleep timer plugin for Jellyfin.
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.41.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.41.0), 3 days ago) - 📈 Helm charts from Adfinis
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), 3 days ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Danger, Will Robinson!](https://github.com/adfinis/flappy-sez/pull/39) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
-- [feat: show denylists in config page (maybe?)](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/7) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (5 days ago)
-- [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (5 days ago)
+- [feat: Danger, Will Robinson!](https://github.com/adfinis/flappy-sez/pull/39) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 day ago)
+- [feat: show denylists in config page (maybe?)](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/7) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (6 days ago)
+- [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (6 days ago)
 - [feat: config options for our own fork](https://github.com/adfinis/ansible-role-the_bastion/pull/8) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/4) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch](https://github.com/Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch) -  (1 day ago)
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (2 days ago)
-- [PatrickSt1991/Samsung-Jellyfin-Installer](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions! (2 days ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (5 days ago)
-- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (6 days ago)
+- [Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch](https://github.com/Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch) -  (2 days ago)
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 days ago)
+- [PatrickSt1991/Samsung-Jellyfin-Installer](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions! (3 days ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (6 days ago)
+- [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
