@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (today)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (3 days ago)
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 weeks ago)
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (3 weeks ago)
 
 #### 🌱 My latest projects
 
