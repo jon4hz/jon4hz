@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.2.0), today) - Companion for https://github.com/jon4hz/jellysweep
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([vault-monitoring-0.7.0](https://github.com/adfinis/helm-charts/releases/tag/vault-monitoring-0.7.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.8.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.8.0), 6 days ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), 6 days ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.2.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.2.1), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.1.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: use Jellyfin-JavaScript-Injector for js injection](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/15) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (today)
 - [feat: Danger, Will Robinson!](https://github.com/adfinis/flappy-sez/pull/39) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (4 days ago)
 - [feat: show denylists in config page (maybe?)](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/7) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 week ago)
 - [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 week ago)
 - [feat: config options for our own fork](https://github.com/adfinis/ansible-role-the_bastion/pull/8) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
-- [feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/4) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
