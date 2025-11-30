@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV&#39;s running Tizen OS (5.5 and up) (today)
 - [skeema/knownhosts](https://github.com/skeema/knownhosts) - Go SSH known_hosts wrapper with host key lookup (2 days ago)
 - [Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch](https://github.com/Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch) -  (6 days ago)
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (1 week ago)
 - [PatrickSt1991/Samsung-Jellyfin-Installer](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions! (1 week ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
