@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) - Terraform Provider for The Bastion (1 day ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (2 days ago)
-- [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) - Terraform Provider for The Bastion (3 days ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (5 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 week ago)
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: group accesses and commands](https://github.com/adfinis/terraform-provider-the-bastion/pull/2) on [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) (today)
 - [refactor: use Jellyfin-JavaScript-Injector for js injection](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/15) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (2 days ago)
 - [feat: Danger, Will Robinson!](https://github.com/adfinis/flappy-sez/pull/39) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (6 days ago)
 - [feat: show denylists in config page (maybe?)](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/7) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 week ago)
 - [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 week ago)
-- [feat: config options for our own fork](https://github.com/adfinis/ansible-role-the_bastion/pull/8) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
