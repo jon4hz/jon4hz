@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: return accountInfo if grace period is set](https://github.com/ovh/the-bastion/pull/594) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
+- [fix: return accountInfo if grace period is set](https://github.com/adfinis-forks/the-bastion/pull/5) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
 - [feat: group accesses and commands](https://github.com/adfinis/terraform-provider-the-bastion/pull/2) on [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) (today)
 - [refactor: use Jellyfin-JavaScript-Injector for js injection](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/15) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (2 days ago)
 - [feat: Danger, Will Robinson!](https://github.com/adfinis/flappy-sez/pull/39) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (6 days ago)
-- [feat: show denylists in config page (maybe?)](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/7) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 week ago)
-- [feat: scheduled task to remove items after threshold](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/6) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 week ago)
 
 #### ⭐ Recent Stars
 
