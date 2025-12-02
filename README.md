@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) - Terraform Provider for The Bastion (today)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform Provider for The Bastion (today)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (6 days ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (1 week ago)
@@ -31,10 +31,10 @@
 #### 🔨 My recent Pull Requests
 
 - [fix: return booleans as 1 and 0 in the api](https://github.com/adfinis-forks/the-bastion/pull/6) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
-- [feat: configure account piv policy](https://github.com/adfinis/terraform-provider-the-bastion/pull/4) on [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) (today)
+- [feat: configure account piv policy](https://github.com/adfinis/terraform-provider-bastion/pull/4) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [fix: return accountInfo if grace period is set](https://github.com/ovh/the-bastion/pull/594) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [fix: return accountInfo if grace period is set](https://github.com/adfinis-forks/the-bastion/pull/5) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 day ago)
-- [feat: group accesses and commands](https://github.com/adfinis/terraform-provider-the-bastion/pull/2) on [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) (1 day ago)
+- [feat: group accesses and commands](https://github.com/adfinis/terraform-provider-bastion/pull/2) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 
 #### ⭐ Recent Stars
 
