@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: return booleans as 1 and 0 in the api](https://github.com/adfinis-forks/the-bastion/pull/6) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
 - [feat: configure account piv policy](https://github.com/adfinis/terraform-provider-the-bastion/pull/4) on [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) (today)
 - [fix: return accountInfo if grace period is set](https://github.com/ovh/the-bastion/pull/594) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [fix: return accountInfo if grace period is set](https://github.com/adfinis-forks/the-bastion/pull/5) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 day ago)
 - [feat: group accesses and commands](https://github.com/adfinis/terraform-provider-the-bastion/pull/2) on [adfinis/terraform-provider-the-bastion](https://github.com/adfinis/terraform-provider-the-bastion) (1 day ago)
-- [refactor: use Jellyfin-JavaScript-Injector for js injection](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/15) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (3 days ago)
 
 #### ⭐ Recent Stars
 
