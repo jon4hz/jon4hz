@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
+- [ feat: add local portforwarding accesses](https://github.com/ovh/the-bastion/pull/597) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [fix: return booleans as 1 and 0 in the api](https://github.com/adfinis-forks/the-bastion/pull/6) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
 - [feat: configure account piv policy](https://github.com/adfinis/terraform-provider-bastion/pull/4) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [fix: return accountInfo if grace period is set](https://github.com/ovh/the-bastion/pull/594) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
-- [fix: return accountInfo if grace period is set](https://github.com/adfinis-forks/the-bastion/pull/5) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (3 days ago)
-- [feat: group accesses and commands](https://github.com/adfinis/terraform-provider-bastion/pull/2) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
 
 #### ⭐ Recent Stars
 
