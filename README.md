@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.2.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.2.0), today) - Terraform Provider for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.42.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.42.0), today) - 📈 Helm charts from Adfinis
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.1.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.1.1), 1 day ago) - Terraform Provider for The Bastion
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.2.0), 6 days ago) - Companion for https://github.com/jon4hz/jellysweep
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.8.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.8.0), 1 week ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), 1 week ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
