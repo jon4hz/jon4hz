@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.42.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.42.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.1.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.1.1), 1 day ago) - Terraform Provider for The Bastion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([tracing-apps-1.1.0](https://github.com/adfinis/helm-charts/releases/tag/tracing-apps-1.1.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.2.0), 6 days ago) - Companion for https://github.com/jon4hz/jellysweep
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.8.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.8.0), 1 week ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.4.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.4.0), 1 week ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support for portforwardings](https://github.com/adfinis/terraform-provider-bastion/pull/8) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 day ago)
 - [ feat: add local portforwarding accesses](https://github.com/ovh/the-bastion/pull/597) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
 - [fix: return booleans as 1 and 0 in the api](https://github.com/adfinis-forks/the-bastion/pull/6) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (3 days ago)
 - [feat: configure account piv policy](https://github.com/adfinis/terraform-provider-bastion/pull/4) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
-- [fix: return accountInfo if grace period is set](https://github.com/ovh/the-bastion/pull/594) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
 
 #### ⭐ Recent Stars
 
