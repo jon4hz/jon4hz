@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform Provider for The Bastion (2 days ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (1 week ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: custom resume endpoints](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/12) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (today)
 - [feat: support for portforwardings](https://github.com/adfinis/terraform-provider-bastion/pull/8) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (3 days ago)
 - [ feat: add local portforwarding accesses](https://github.com/ovh/the-bastion/pull/597) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
 - [fix: return booleans as 1 and 0 in the api](https://github.com/adfinis-forks/the-bastion/pull/6) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (5 days ago)
-- [feat: configure account piv policy](https://github.com/adfinis/terraform-provider-bastion/pull/4) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
 
 #### ⭐ Recent Stars
 
