@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: group guest accesses](https://github.com/adfinis/terraform-provider-bastion/pull/10) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [feat: custom resume endpoints](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/12) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 day ago)
 - [feat: support for portforwardings](https://github.com/adfinis/terraform-provider-bastion/pull/8) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
 - [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (4 days ago)
 - [ feat: add local portforwarding accesses](https://github.com/ovh/the-bastion/pull/597) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
-- [fix: return booleans as 1 and 0 in the api](https://github.com/adfinis-forks/the-bastion/pull/6) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (6 days ago)
 
 #### ⭐ Recent Stars
 
