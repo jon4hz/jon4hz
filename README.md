@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform Provider for The Bastion (today)
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (1 day ago)
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (2 days ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (1 week ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 week ago)
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (2 weeks ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.253.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.253.0), today) - 📈 Helm charts from Adfinis
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.5.1), 1 day ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.2.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.2.0.0), 1 day ago) - A Jellyfin plugin to inject Javascript
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.2.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.2.0), 3 days ago) - Terraform Provider for The Bastion
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.253.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.253.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.5.1), 2 days ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
+- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.2.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.2.0.0), 2 days ago) - A Jellyfin plugin to inject Javascript
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.2.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.2.0), 4 days ago) - Terraform Provider for The Bastion
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.2.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.2.0), 1 week ago) - Companion for https://github.com/jon4hz/jellysweep
 
 #### 🔨 My recent Pull Requests
 
-- [feat: group guest accesses](https://github.com/adfinis/terraform-provider-bastion/pull/10) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [feat: custom resume endpoints](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/12) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (1 day ago)
-- [feat: support for portforwardings](https://github.com/adfinis/terraform-provider-bastion/pull/8) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
-- [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (4 days ago)
-- [ feat: add local portforwarding accesses](https://github.com/ovh/the-bastion/pull/597) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
+- [feat: group guest accesses](https://github.com/adfinis/terraform-provider-bastion/pull/10) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
+- [feat: custom resume endpoints](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/12) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (2 days ago)
+- [feat: support for portforwardings](https://github.com/adfinis/terraform-provider-bastion/pull/8) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
+- [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (5 days ago)
+- [ feat: add local portforwarding accesses](https://github.com/ovh/the-bastion/pull/597) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (5 days ago)
 
 #### ⭐ Recent Stars
 
