@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform Provider for The Bastion (today)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform Provider for The Bastion (2 days ago)
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (4 days ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (1 week ago)
-- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.5.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.5.1), 1 day ago) - Ansible role to install and configure The Bastion
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.3.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.3.0), today) - Terraform Provider for The Bastion
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.0), today) - Ansible role to install and configure The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.253.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.253.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.5.1), 4 days ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.2.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.2.0.0), 4 days ago) - A Jellyfin plugin to inject Javascript
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.2.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.2.0), 6 days ago) - Terraform Provider for The Bastion
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix release names](https://github.com/adfinis/terraform-provider-bastion/pull/13) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [ci: test with opentofu 1.11](https://github.com/adfinis/terraform-provider-bastion/pull/12) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [fix: improve encryption password check](https://github.com/adfinis/ansible-role-the_bastion/pull/11) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
 - [feat: group guest accesses](https://github.com/adfinis/terraform-provider-bastion/pull/10) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
 - [feat: custom resume endpoints](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/12) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (4 days ago)
-- [feat: support for portforwardings](https://github.com/adfinis/terraform-provider-bastion/pull/8) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
-- [ feat: add local portforwarding accesses](https://github.com/adfinis-forks/the-bastion/pull/7) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
