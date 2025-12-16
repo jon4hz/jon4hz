@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [fix: stop banner service, not restart](https://github.com/ovh/the-bastion/pull/603) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [fix: gpg conditional depending on active features](https://github.com/adfinis/ansible-role-the_bastion/pull/12) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [ci: dont create directory in release](https://github.com/adfinis/terraform-provider-bastion/pull/18) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
-- [ci: s/format/formats/](https://github.com/adfinis/terraform-provider-bastion/pull/17) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
-- [ci: create zip archives](https://github.com/adfinis/terraform-provider-bastion/pull/16) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
 
 #### ⭐ Recent Stars
 
