@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.254.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.254.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.0), today) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.1), 1 day ago) - Ansible role to install and configure The Bastion
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.1.0](https://github.com/lvps/389ds-server/releases/tag/v4.1.0), 2 days ago) - Ansible role to configure 389DS
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.3.4](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.3.4), 6 days ago) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.253.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.253.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.5.1), 1 week ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 
 #### 🔨 My recent Pull Requests
