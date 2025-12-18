@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [CodeDevMLH/Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) - Plugin for seasonal themes/animations for Jellyfin Web (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 week ago)
 - [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV&#39;s running Tizen OS (5.5 and up) (2 weeks ago)
 - [skeema/knownhosts](https://github.com/skeema/knownhosts) - Go SSH known_hosts wrapper with host key lookup (2 weeks ago)
 - [Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch](https://github.com/Softcom-Technologies-Organization/SenslerdeutschesWoerterbuch) -  (3 weeks ago)
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
