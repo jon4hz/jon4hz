@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 days ago)
-- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (2 days ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 days ago)
+- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), today) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.17.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.17.0), today) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.1), 1 day ago) - Ansible role to install and configure The Bastion
-- [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.1.0](https://github.com/lvps/389ds-server/releases/tag/v4.1.0), 2 days ago) - Ansible role to configure 389DS
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), 1 day ago) - Terraform/OpenTofu Provider for The Bastion
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.17.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.17.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.1), 2 days ago) - Ansible role to install and configure The Bastion
+- [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.1.0](https://github.com/lvps/389ds-server/releases/tag/v4.1.0), 3 days ago) - Ansible role to configure 389DS
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.5.1](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.5.1), 1 week ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 
 #### 🔨 My recent Pull Requests
 
-- [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
-- [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
-- [fix: stop banner service, not restart](https://github.com/ovh/the-bastion/pull/603) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
+- [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
+- [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
+- [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
+- [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
+- [fix: stop banner service, not restart](https://github.com/ovh/the-bastion/pull/603) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
 
 #### ⭐ Recent Stars
 
