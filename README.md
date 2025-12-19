@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([audiobookshelf-1.3.0](https://github.com/christianhuth/helm-charts/releases/tag/audiobookshelf-1.3.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([dns-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/dns-exporter-1.1.0), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), 2 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.1), 3 days ago) - Ansible role to install and configure The Bastion
