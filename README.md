@@ -7,9 +7,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 day ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (2 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 days ago)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (4 days ago)
 
 #### 🌱 My latest projects
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([dns-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/dns-exporter-1.1.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([syncstorage-rs-4.0.0](https://github.com/christianhuth/helm-charts/releases/tag/syncstorage-rs-4.0.0), today) - Helm Charts for various Applications
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), today) - Ansible role to install and configure The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), 2 days ago) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.1), 3 days ago) - Ansible role to install and configure The Bastion
 - [lvps/389ds-server](https://github.com/lvps/389ds-server) ([v4.1.0](https://github.com/lvps/389ds-server/releases/tag/v4.1.0), 4 days ago) - Ansible role to configure 389DS
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
 - [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
-- [fix: stop banner service, not restart](https://github.com/ovh/the-bastion/pull/603) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
 
 #### ⭐ Recent Stars
 
