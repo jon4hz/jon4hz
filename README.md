@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.0.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.0.2), today) - Helm Charts for various Applications
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), today) - Jellystat is a free and open source Statistics App for Jellyfin
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-4.0.0](https://github.com/christianhuth/helm-charts/releases/tag/countly-4.0.0), 1 day ago) - Helm Charts for various Applications
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 1 day ago) - Ansible role to install and configure The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), 3 days ago) - Terraform/OpenTofu Provider for The Bastion
