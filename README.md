@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (today)
 - [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (today)
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (2 days ago)
 - [CodeDevMLH/Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) - Plugin for seasonal themes/animations for Jellyfin Web (3 days ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 week ago)
-- [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV&#39;s running Tizen OS (5.5 and up) (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
