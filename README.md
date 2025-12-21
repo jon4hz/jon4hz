@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 day ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (3 days ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 days ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 days ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,26 +22,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.0.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.0.2), today) - Helm Charts for various Applications
-- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), today) - Jellystat is a free and open source Statistics App for Jellyfin
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 1 day ago) - Ansible role to install and configure The Bastion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 2 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), 3 days ago) - Terraform/OpenTofu Provider for The Bastion
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.0.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.0.2), 1 day ago) - Helm Charts for various Applications
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 1 day ago) - Jellystat is a free and open source Statistics App for Jellyfin
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 2 days ago) - Ansible role to install and configure The Bastion
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 3 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.1), 4 days ago) - Terraform/OpenTofu Provider for The Bastion
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
-- [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
-- [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
-- [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
-- [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
+- [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
+- [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
+- [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
+- [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
+- [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (1 day ago)
-- [CodeDevMLH/Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) - Plugin for seasonal themes/animations for Jellyfin Web (2 days ago)
+- [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (2 days ago)
+- [CodeDevMLH/Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) - Plugin for seasonal themes/animations for Jellyfin Web (3 days ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 week ago)
-- [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV&#39;s running Tizen OS (5.5 and up) (2 weeks ago)
+- [OneLiberty/moonlight-chrome-tizen](https://github.com/OneLiberty/moonlight-chrome-tizen) - A WASM port of Moonlight for Samsung Smart TV&#39;s running Tizen OS (5.5 and up) (3 weeks ago)
 - [skeema/knownhosts](https://github.com/skeema/knownhosts) - Go SSH known_hosts wrapper with host key lookup (3 weeks ago)
 
 #### 📫 How to reach me
