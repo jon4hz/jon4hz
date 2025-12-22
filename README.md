@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([popeye-2.4.2](https://github.com/christianhuth/helm-charts/releases/tag/popeye-2.4.2), today) - Helm Charts for various Applications
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), today) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.1.0](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.1.0), today) - Helm Charts for various Applications
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 2 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 3 days ago) - Ansible role to install and configure The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 4 days ago) - 📈 Helm charts from Adfinis
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (today)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (1 day ago)
 - [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (1 day ago)
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (3 days ago)
 - [CodeDevMLH/Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) - Plugin for seasonal themes/animations for Jellyfin Web (4 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
