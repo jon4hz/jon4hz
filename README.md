@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 day ago)
+- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (today)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (4 days ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (4 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (4 days ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([proxysql-2.1.1](https://github.com/christianhuth/helm-charts/releases/tag/proxysql-2.1.1), 1 day ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.1.1](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.1.1), today) - Helm Charts for various Applications
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 1 day ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 3 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 4 days ago) - Ansible role to install and configure The Bastion
