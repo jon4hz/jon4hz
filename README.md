@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improvements improvements](https://github.com/adfinis/proxmox-tofu-demo/pull/2) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (today)
 - [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (4 days ago)
 - [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
 - [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
 - [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
-- [feat: support passphrase protected private keys](https://github.com/adfinis/terraform-provider-bastion/pull/20) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
