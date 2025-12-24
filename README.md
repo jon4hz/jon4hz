@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.18.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.18.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([audiobookshelf-1.4.1](https://github.com/christianhuth/helm-charts/releases/tag/audiobookshelf-1.4.1), today) - Helm Charts for various Applications
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 2 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 4 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 5 days ago) - Ansible role to install and configure The Bastion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.255.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.255.0), 6 days ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
 
