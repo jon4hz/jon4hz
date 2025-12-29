@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (today)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (1 week ago)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (1 week ago)
 - [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (1 week ago)
 - [PCJones/UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) - A tool to work around Sonarr, Radarr, Lidarr and Readarrs problems with foreign languages (1 week ago)
-- [CodeDevMLH/Jellyfin-Seasonals](https://github.com/CodeDevMLH/Jellyfin-Seasonals) - Plugin for seasonal themes/animations for Jellyfin Web (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
