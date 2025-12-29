@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([freshrss-2.2.0](https://github.com/christianhuth/helm-charts/releases/tag/freshrss-2.2.0), 5 days ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.0.1](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.0.1), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.43.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.43.0), 5 days ago) - 📈 Helm charts from Adfinis
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 1 week ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 1 week ago) - Jellystat is a free and open source Statistics App for Jellyfin
