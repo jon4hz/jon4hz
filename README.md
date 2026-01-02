@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add missing client_id in device authorization request](https://github.com/DuendeSoftware/foss/pull/310) on [DuendeSoftware/foss](https://github.com/DuendeSoftware/foss) (today)
 - [Improvements improvements](https://github.com/adfinis/proxmox-tofu-demo/pull/2) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (1 week ago)
 - [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 - [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 weeks ago)
 - [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 weeks ago)
-- [fix: add delay after deleting guest access](https://github.com/adfinis/terraform-provider-bastion/pull/21) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
