@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: match medias based on tmdb/tvdb id](https://github.com/jon4hz/jellysweep/pull/233) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: improve env parsing](https://github.com/jon4hz/jellysweep/pull/232) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: support custom url path in sonarr and radarr api](https://github.com/jon4hz/jellysweep/pull/231) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: add missing client_id in device authorization request](https://github.com/DuendeSoftware/foss/pull/310) on [DuendeSoftware/foss](https://github.com/DuendeSoftware/foss) (1 day ago)
 - [Improvements improvements](https://github.com/adfinis/proxmox-tofu-demo/pull/2) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (1 week ago)
-- [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
