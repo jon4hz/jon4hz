@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 week ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 weeks ago)
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: support custom url path in sonarr and radarr api](https://github.com/jon4hz/jellysweep/pull/231) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: add missing client_id in device authorization request](https://github.com/DuendeSoftware/foss/pull/310) on [DuendeSoftware/foss](https://github.com/DuendeSoftware/foss) (1 day ago)
 - [Improvements improvements](https://github.com/adfinis/proxmox-tofu-demo/pull/2) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (1 week ago)
 - [fix: add admins to osh-admin group](https://github.com/adfinis/ansible-role-the_bastion/pull/13) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 - [fix: handle auditor command correctly](https://github.com/adfinis/terraform-provider-bastion/pull/23) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 weeks ago)
-- [chore: terraform to opentofu](https://github.com/adfinis/terraform-provider-bastion/pull/22) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
