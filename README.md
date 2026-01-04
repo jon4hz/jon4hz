@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 week ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.0.1](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.0.1), 5 days ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.0.1](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.0.1), 6 days ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.43.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.43.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 1 week ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 2 weeks ago) - Jellystat is a free and open source Statistics App for Jellyfin
@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: match medias based on tmdb/tvdb id](https://github.com/jon4hz/jellysweep/pull/233) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [fix: improve env parsing](https://github.com/jon4hz/jellysweep/pull/232) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [fix: support custom url path in sonarr and radarr api](https://github.com/jon4hz/jellysweep/pull/231) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [fix: add missing client_id in device authorization request](https://github.com/DuendeSoftware/foss/pull/310) on [DuendeSoftware/foss](https://github.com/DuendeSoftware/foss) (1 day ago)
+- [fix: match medias based on tmdb/tvdb id](https://github.com/jon4hz/jellysweep/pull/233) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [fix: improve env parsing](https://github.com/jon4hz/jellysweep/pull/232) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [fix: support custom url path in sonarr and radarr api](https://github.com/jon4hz/jellysweep/pull/231) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [fix: add missing client_id in device authorization request](https://github.com/DuendeSoftware/foss/pull/310) on [DuendeSoftware/foss](https://github.com/DuendeSoftware/foss) (2 days ago)
 - [Improvements improvements](https://github.com/adfinis/proxmox-tofu-demo/pull/2) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (4 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (5 days ago)
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (5 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (1 week ago)
-- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (1 week ago)
-- [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (1 week ago)
+- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (2 weeks ago)
+- [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
