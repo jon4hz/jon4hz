@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.0.1](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.0.1), 6 days ago) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.43.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.43.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 1 week ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.7](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.7), 2 weeks ago) - Jellystat is a free and open source Statistics App for Jellyfin
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.2](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.2), 2 weeks ago) - Ansible role to install and configure The Bastion
 
 #### 🔨 My recent Pull Requests
 
