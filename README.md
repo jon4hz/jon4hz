@@ -14,11 +14,11 @@
 
 #### 🌱 My latest projects
 
+- [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) - 
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 - [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) - 
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin.
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell
 
 #### 🔭 Latest releases I've contributed to
 
