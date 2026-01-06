@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.257.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.257.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.21.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.21.0), today) - 📈 Helm charts from Adfinis
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.0.1](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.0.1), 1 week ago) - Helm Charts for various Applications
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 2 weeks ago) - Authentication, authorization, traceability and auditability for SSH accesses.
