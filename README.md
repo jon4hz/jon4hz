@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add oidc device authorization flow](https://github.com/jon4hz/jellyfin-plugin-sso/pull/1) on [jon4hz/jellyfin-plugin-sso](https://github.com/jon4hz/jellyfin-plugin-sso) (today)
 - [fix: allow empty password](https://github.com/jon4hz/jellysweep/pull/236) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 - [feat: support pkce for the oidc login flow](https://github.com/jon4hz/jellysweep/pull/235) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 - [fix: match medias based on tmdb/tvdb id](https://github.com/jon4hz/jellysweep/pull/233) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 - [fix: improve env parsing](https://github.com/jon4hz/jellysweep/pull/232) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
-- [fix: support custom url path in sonarr and radarr api](https://github.com/jon4hz/jellysweep/pull/231) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 
 #### ⭐ Recent Stars
 
