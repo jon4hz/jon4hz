@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-7.2.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-7.2.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.2.0](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.2.0), today) - Helm Charts for various Applications
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 1 day ago) - A modern Jellyfin client built with Expo
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.21.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.21.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
