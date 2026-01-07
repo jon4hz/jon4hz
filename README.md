@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([timetagger-2.0.0](https://github.com/christianhuth/helm-charts/releases/tag/timetagger-2.0.0), today) - Helm Charts for various Applications
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 1 day ago) - A modern Jellyfin client built with Expo
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.21.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.21.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.0.1](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.0.1), 1 week ago) - Helm Charts for various Applications
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 2 weeks ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 
 #### 🔨 My recent Pull Requests
