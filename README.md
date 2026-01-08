@@ -8,7 +8,7 @@
 
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) -  (3 days ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (4 days ago)
-- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (2 weeks ago)
+- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 week ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 weeks ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([proxysql-2.3.0](https://github.com/christianhuth/helm-charts/releases/tag/proxysql-2.3.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-7.3.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-7.3.0), today) - Helm Charts for various Applications
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 2 days ago) - A modern Jellyfin client built with Expo
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.21.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.21.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 4 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
