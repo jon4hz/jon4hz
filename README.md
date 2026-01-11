@@ -9,8 +9,8 @@
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) -  (6 days ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 week ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 weeks ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (3 weeks ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 weeks ago)
 
 #### 🌱 My latest projects
 
