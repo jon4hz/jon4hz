@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feat OIDC device auth](https://github.com/jon4hz/Fladder-Tizen/pull/1) on [jon4hz/Fladder-Tizen](https://github.com/jon4hz/Fladder-Tizen) (today)
 - [Swagger: load xml comments from plugins](https://github.com/jellyfin/jellyfin/pull/15996) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (today)
 - [feat: add oidc device authorization flow](https://github.com/jon4hz/jellyfin-plugin-sso/pull/1) on [jon4hz/jellyfin-plugin-sso](https://github.com/jon4hz/jellyfin-plugin-sso) (5 days ago)
 - [fix: allow empty password](https://github.com/jon4hz/jellysweep/pull/236) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [feat: support pkce for the oidc login flow](https://github.com/jon4hz/jellysweep/pull/235) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [fix: match medias based on tmdb/tvdb id](https://github.com/jon4hz/jellysweep/pull/233) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
