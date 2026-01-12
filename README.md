@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) -  (1 week ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 week ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (3 weeks ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-7.4.0](https://github.com/christianhuth/helm-charts/releases/tag/umami-7.4.0), today) - Helm Charts for various Applications
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), today) - Terraform/OpenTofu Provider for The Bastion
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([mcp-for-argocd-1.0.0](https://github.com/christianhuth/helm-charts/releases/tag/mcp-for-argocd-1.0.0), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.44.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.44.0), today) - 📈 Helm charts from Adfinis
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 6 days ago) - A modern Jellyfin client built with Expo
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.00](https://github.com/ovh/the-bastion/releases/tag/v3.23.00), 3 weeks ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add group name validator](https://github.com/adfinis/terraform-provider-bastion/pull/25) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [Feat OIDC device auth](https://github.com/jon4hz/Fladder-Tizen/pull/1) on [jon4hz/Fladder-Tizen](https://github.com/jon4hz/Fladder-Tizen) (1 day ago)
 - [Swagger: load xml comments from plugins](https://github.com/jellyfin/jellyfin/pull/15996) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 day ago)
 - [feat: add oidc device authorization flow](https://github.com/jon4hz/jellyfin-plugin-sso/pull/1) on [jon4hz/jellyfin-plugin-sso](https://github.com/jon4hz/jellyfin-plugin-sso) (6 days ago)
 - [fix: allow empty password](https://github.com/jon4hz/jellysweep/pull/236) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [feat: support pkce for the oidc login flow](https://github.com/jon4hz/jellysweep/pull/235) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
