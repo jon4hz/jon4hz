@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([prometheus-pve-exporter-2.5.0](https://github.com/christianhuth/helm-charts/releases/tag/prometheus-pve-exporter-2.5.0), today) - Helm Charts for various Applications
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), today) - Terraform/OpenTofu Provider for The Bastion
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([mcp-for-argocd-1.0.0](https://github.com/christianhuth/helm-charts/releases/tag/mcp-for-argocd-1.0.0), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.44.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.44.0), today) - 📈 Helm charts from Adfinis
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 6 days ago) - A modern Jellyfin client built with Expo
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
