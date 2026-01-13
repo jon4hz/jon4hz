@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (today)
 - [fix: add group name validator](https://github.com/adfinis/terraform-provider-bastion/pull/25) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 - [Feat OIDC device auth](https://github.com/jon4hz/Fladder-Tizen/pull/1) on [jon4hz/Fladder-Tizen](https://github.com/jon4hz/Fladder-Tizen) (2 days ago)
 - [Swagger: load xml comments from plugins](https://github.com/jellyfin/jellyfin/pull/15996) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (2 days ago)
 - [feat: add oidc device authorization flow](https://github.com/jon4hz/jellyfin-plugin-sso/pull/1) on [jon4hz/jellyfin-plugin-sso](https://github.com/jon4hz/jellyfin-plugin-sso) (1 week ago)
-- [fix: allow empty password](https://github.com/jon4hz/jellysweep/pull/236) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 
 #### ⭐ Recent Stars
 
