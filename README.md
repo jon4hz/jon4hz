@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-9.3.1](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-9.3.1), 1 day ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([keycloak-mcp-server-1.0.0](https://github.com/christianhuth/helm-charts/releases/tag/keycloak-mcp-server-1.0.0), today) - Helm Charts for various Applications
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 1 day ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.44.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.44.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 1 week ago) - A modern Jellyfin client built with Expo
