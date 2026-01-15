@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([proxysql-2.3.2](https://github.com/christianhuth/helm-charts/releases/tag/proxysql-2.3.2), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.3.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.3.2), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.61.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.61.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 3 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 1 week ago) - A modern Jellyfin client built with Expo
