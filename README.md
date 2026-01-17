@@ -39,10 +39,10 @@
 #### ⭐ Recent Stars
 
 - [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go (1 week ago)
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (2 weeks ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 weeks ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (3 weeks ago)
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (3 weeks ago)
+- [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
