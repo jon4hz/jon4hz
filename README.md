@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (3 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
+- [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (4 days ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (6 days ago)
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) -  (1 week ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,27 +22,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.259.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.259.1), 1 day ago) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.3.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.3.2), 2 days ago) - Helm Charts for various Applications
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 5 days ago) - Terraform/OpenTofu Provider for The Bastion
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.259.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.259.1), 2 days ago) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.3.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.3.2), 3 days ago) - Helm Charts for various Applications
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 6 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 1 week ago) - A modern Jellyfin client built with Expo
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 2 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
 
-- [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (3 days ago)
-- [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (4 days ago)
-- [fix: add group name validator](https://github.com/adfinis/terraform-provider-bastion/pull/25) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
-- [Feat OIDC device auth](https://github.com/jon4hz/Fladder-Tizen/pull/1) on [jon4hz/Fladder-Tizen](https://github.com/jon4hz/Fladder-Tizen) (6 days ago)
-- [Swagger: load xml comments from plugins](https://github.com/jellyfin/jellyfin/pull/15996) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (6 days ago)
+- [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (4 days ago)
+- [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (5 days ago)
+- [fix: add group name validator](https://github.com/adfinis/terraform-provider-bastion/pull/25) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
+- [Feat OIDC device auth](https://github.com/jon4hz/Fladder-Tizen/pull/1) on [jon4hz/Fladder-Tizen](https://github.com/jon4hz/Fladder-Tizen) (1 week ago)
+- [Swagger: load xml comments from plugins](https://github.com/jellyfin/jellyfin/pull/15996) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go (1 week ago)
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 weeks ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE (3 weeks ago)
-- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (3 weeks ago)
-- [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (3 weeks ago)
+- [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server. (4 weeks ago)
+- [modkavartini/catppuccin](https://github.com/modkavartini/catppuccin) - soothing pastel suite for rainmeter (4 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
