@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-6.2.2](https://github.com/christianhuth/helm-charts/releases/tag/baserow-6.2.2), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.259.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.259.1), 2 days ago) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.3.2](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.3.2), 3 days ago) - Helm Charts for various Applications
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 6 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 1 week ago) - A modern Jellyfin client built with Expo
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.14.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.14.0), 2 weeks ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
