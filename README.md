@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([baserow-6.2.3](https://github.com/christianhuth/helm-charts/releases/tag/baserow-6.2.3), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-8.3.3](https://github.com/christianhuth/helm-charts/releases/tag/kutt-8.3.3), today) - Helm Charts for various Applications
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.3.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.3.0.0), 1 day ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.259.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.259.1), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
