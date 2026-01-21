@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin. (1 week ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 week ago)
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) -  (2 weeks ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
-- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.1.0](https://github.com/adfinis/bastion-go/releases/tag/v0.1.0), today) - Golang client for The Bastion
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.107.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.107.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-4.3.0](https://github.com/christianhuth/helm-charts/releases/tag/countly-4.3.0), 1 day ago) - Helm Charts for various Applications
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.3.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.3.0.0), 3 days ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.51.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.51.0), 2 weeks ago) - A modern Jellyfin client built with Expo
 
 #### 🔨 My recent Pull Requests
 
