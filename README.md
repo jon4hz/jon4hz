@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.1.0](https://github.com/adfinis/bastion-go/releases/tag/v0.1.0), today) - Golang client for The Bastion
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), today) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.107.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.107.0), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-4.3.0](https://github.com/christianhuth/helm-charts/releases/tag/countly-4.3.0), 1 day ago) - Helm Charts for various Applications
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.3.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.3.0.0), 3 days ago) - A Jellyfin plugin to inject Javascript
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: use dedicated bastion module](https://github.com/adfinis/terraform-provider-bastion/pull/28) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (1 week ago)
 - [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (1 week ago)
 - [fix: add group name validator](https://github.com/adfinis/terraform-provider-bastion/pull/25) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 - [Feat OIDC device auth](https://github.com/jon4hz/Fladder-Tizen/pull/1) on [jon4hz/Fladder-Tizen](https://github.com/jon4hz/Fladder-Tizen) (1 week ago)
-- [Swagger: load xml comments from plugins](https://github.com/jellyfin/jellyfin/pull/15996) on [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) (1 week ago)
 
 #### ⭐ Recent Stars
 
