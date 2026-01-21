@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kubevirt-manager-0.5.0](https://github.com/christianhuth/helm-charts/releases/tag/kubevirt-manager-0.5.0), today) - Helm Charts for various Applications
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), today) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.107.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.107.0), today) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([countly-4.3.0](https://github.com/christianhuth/helm-charts/releases/tag/countly-4.3.0), 1 day ago) - Helm Charts for various Applications
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.3.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.3.0.0), 3 days ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.2), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
 
