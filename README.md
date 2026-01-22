@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([ntp-exporter-1.1.0](https://github.com/christianhuth/helm-charts/releases/tag/ntp-exporter-1.1.0), 1 day ago) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([bindy-1.2.4](https://github.com/christianhuth/helm-charts/releases/tag/bindy-1.2.4), today) - Helm Charts for various Applications
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), 1 day ago) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.107.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.107.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.3.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.3.0.0), 4 days ago) - A Jellyfin plugin to inject Javascript
