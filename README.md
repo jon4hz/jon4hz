@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([ntp-exporter-1.2.1](https://github.com/christianhuth/helm-charts/releases/tag/ntp-exporter-1.2.1), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([passbolt-ha-5.4.0](https://github.com/christianhuth/helm-charts/releases/tag/passbolt-ha-5.4.0), today) - Helm Charts for various Applications
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.1.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.1.0), today) - Gnome shell extension for Netbird
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), 2 days ago) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.107.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.107.0), 2 days ago) - 📈 Helm charts from Adfinis
