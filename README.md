@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: accept -l as user option](https://github.com/ovh/the-bastion/pull/610) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [feat: add tag to conf.d configuration task](https://github.com/adfinis/ansible-role-icinga2_master/pull/134) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 day ago)
 - [refactor: use dedicated bastion module](https://github.com/adfinis/terraform-provider-bastion/pull/28) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 - [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
 - [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
-- [fix: add group name validator](https://github.com/adfinis/terraform-provider-bastion/pull/25) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
