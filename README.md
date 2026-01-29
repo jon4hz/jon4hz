@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([dnsbl-exporter-1.3.0](https://github.com/christianhuth/helm-charts/releases/tag/dnsbl-exporter-1.3.0), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-6.4.0](https://github.com/christianhuth/helm-charts/releases/tag/typo3-6.4.0), today) - Helm Charts for various Applications
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 2 days ago) - This role is used to configure an icinga2 master
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.1.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.1.0), 6 days ago) - Gnome shell extension for Netbird
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), 1 week ago) - Golang client for The Bastion
