@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 days ago)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (3 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (3 days ago)
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (4 days ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 week ago)
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (1 week ago)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 week ago)
@@ -22,16 +22,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), today) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-6.4.0](https://github.com/christianhuth/helm-charts/releases/tag/typo3-6.4.0), 1 day ago) - Helm Charts for various Applications
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 3 days ago) - This role is used to configure an icinga2 master
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 1 day ago) - Authentication, authorization, traceability and auditability for SSH accesses.
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([typo3-6.4.0](https://github.com/christianhuth/helm-charts/releases/tag/typo3-6.4.0), 2 days ago) - Helm Charts for various Applications
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 4 days ago) - This role is used to configure an icinga2 master
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.1.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.1.0), 1 week ago) - Gnome shell extension for Netbird
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), 1 week ago) - Golang client for The Bastion
 
 #### 🔨 My recent Pull Requests
 
-- [feat: accept -l as user option](https://github.com/ovh/the-bastion/pull/610) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
-- [feat: add tag to conf.d configuration task](https://github.com/adfinis/ansible-role-icinga2_master/pull/134) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (3 days ago)
+- [feat: accept -l as user option](https://github.com/ovh/the-bastion/pull/610) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (3 days ago)
+- [feat: add tag to conf.d configuration task](https://github.com/adfinis/ansible-role-icinga2_master/pull/134) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (4 days ago)
 - [refactor: use dedicated bastion module](https://github.com/adfinis/terraform-provider-bastion/pull/28) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 - [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
 - [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
