@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (5 days ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (6 days ago)
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 week ago)
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (1 week ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 week ago)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: improve compatibility with ansible 2.19](https://github.com/adfinis/ansible-role-the_bastion/pull/14) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [feat: accept -l as user option](https://github.com/ovh/the-bastion/pull/610) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (5 days ago)
 - [feat: add tag to conf.d configuration task](https://github.com/adfinis/ansible-role-icinga2_master/pull/134) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (6 days ago)
 - [refactor: use dedicated bastion module](https://github.com/adfinis/terraform-provider-bastion/pull/28) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 - [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
-- [feat: add oidc device authorization flow](https://github.com/9p4/jellyfin-plugin-sso/pull/342) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
