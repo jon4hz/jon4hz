@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (6 days ago)
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 week ago)
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (1 week ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-7.4.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-7.4.4), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-4.2.6](https://github.com/christianhuth/helm-charts/releases/tag/squest-4.2.6), today) - Helm Charts for various Applications
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), today) - Ansible role to install and configure The Bastion
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 4 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 1 week ago) - This role is used to configure an icinga2 master
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.1.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.1.0), 1 week ago) - Gnome shell extension for Netbird
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.2.0](https://github.com/adfinis/bastion-go/releases/tag/v0.2.0), 1 week ago) - Golang client for The Bastion
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add new config option from v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/15) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [chore: improve compatibility with ansible 2.19](https://github.com/adfinis/ansible-role-the_bastion/pull/14) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
 - [feat: accept -l as user option](https://github.com/ovh/the-bastion/pull/610) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (6 days ago)
 - [feat: add tag to conf.d configuration task](https://github.com/adfinis/ansible-role-icinga2_master/pull/134) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 week ago)
 - [refactor: use dedicated bastion module](https://github.com/adfinis/terraform-provider-bastion/pull/28) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
-- [fix: invalidate state immediately after auth](https://github.com/9p4/jellyfin-plugin-sso/pull/343) on [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
