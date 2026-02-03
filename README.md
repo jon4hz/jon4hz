@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([kutt-8.3.6](https://github.com/christianhuth/helm-charts/releases/tag/kutt-8.3.6), today) - Helm Charts for various Applications
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([umami-7.4.4](https://github.com/christianhuth/helm-charts/releases/tag/umami-7.4.4), today) - Helm Charts for various Applications
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 4 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 1 week ago) - This role is used to configure an icinga2 master
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.1.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.1.0), 1 week ago) - Gnome shell extension for Netbird
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [conejoninja/gopherbadge](https://github.com/conejoninja/gopherbadge) -  (today)
 - [VULGA01/Authentik-Login-theme-Glassmorphism](https://github.com/VULGA01/Authentik-Login-theme-Glassmorphism) -  (1 week ago)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 week ago)
 - [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go (4 weeks ago)
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (1 month ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
