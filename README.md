@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-10.1.2](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-10.1.2), today) - Helm Charts for various Applications
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.1), today) - 📈 Helm charts from Adfinis
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-10.1.3](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-10.1.3), today) - Helm Charts for various Applications
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), today) - Ansible role to install and configure The Bastion
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 4 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 1 week ago) - This role is used to configure an icinga2 master
-- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.1.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.1.0), 1 week ago) - Gnome shell extension for Netbird
 
 #### 🔨 My recent Pull Requests
 
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (today)
 - [conejoninja/gopherbadge](https://github.com/conejoninja/gopherbadge) -  (today)
 - [VULGA01/Authentik-Login-theme-Glassmorphism](https://github.com/VULGA01/Authentik-Login-theme-Glassmorphism) -  (1 week ago)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 week ago)
 - [go-piv/piv-go](https://github.com/go-piv/piv-go) - Keys and certificates for YubiKeys, written in Go (4 weeks ago)
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz &amp; Amazon Music — no account required. (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
