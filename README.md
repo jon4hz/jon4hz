@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.1](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.1), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.61.1](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.61.1), today) - 📈 Helm charts from Adfinis
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-10.1.3](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-10.1.3), today) - Helm Charts for various Applications
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), today) - Ansible role to install and configure The Bastion
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 4 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
