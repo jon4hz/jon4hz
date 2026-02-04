@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-web-1.11.0](https://github.com/christianhuth/helm-charts/releases/tag/shlink-web-1.11.0), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.61.2](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.61.2), 1 day ago) - 📈 Helm charts from Adfinis
-- [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([shlink-backend-10.1.3](https://github.com/christianhuth/helm-charts/releases/tag/shlink-backend-10.1.3), 1 day ago) - Helm Charts for various Applications
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), 1 day ago) - Ansible role to install and configure The Bastion
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 5 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.3.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.3.0), 1 week ago) - This role is used to configure an icinga2 master
