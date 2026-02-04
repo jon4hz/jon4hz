@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (today)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (today)
 - [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (1 day ago)
 - [conejoninja/gopherbadge](https://github.com/conejoninja/gopherbadge) -  (1 day ago)
 - [VULGA01/Authentik-Login-theme-Glassmorphism](https://github.com/VULGA01/Authentik-Login-theme-Glassmorphism) -  (1 week ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
