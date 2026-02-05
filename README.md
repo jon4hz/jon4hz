@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
+- [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 days ago)
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (3 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.2.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.2.0), today) - GitLab CI optimized Docker image for FPM
 - [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts) ([squest-4.2.7](https://github.com/christianhuth/helm-charts/releases/tag/squest-4.2.7), today) - Helm Charts for various Applications
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.3](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.3), today) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.3.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.3.0), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), 2 days ago) - Ansible role to install and configure The Bastion
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 6 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: run pipeline on main](https://github.com/adfinis/effing-package-manager-docker/pull/20) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (today)
 - [feat: install automake](https://github.com/adfinis/effing-package-manager-docker/pull/19) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (today)
 - [feat: add toggle all button](https://github.com/adfinis/adfinis-rclone-mgr/pull/91) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [chore: make nautilus integration an optional dependency](https://github.com/adfinis/adfinis-rclone-mgr/pull/90) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [feat: no file conversion from native format](https://github.com/adfinis/adfinis-rclone-mgr/pull/87) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 day ago)
-- [fix: add new config option from v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/15) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
 
 #### ⭐ Recent Stars
 
