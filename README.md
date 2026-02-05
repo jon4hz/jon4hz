@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: install automake](https://github.com/adfinis/effing-package-manager-docker/pull/19) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (today)
 - [feat: add toggle all button](https://github.com/adfinis/adfinis-rclone-mgr/pull/91) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [chore: make nautilus integration an optional dependency](https://github.com/adfinis/adfinis-rclone-mgr/pull/90) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [feat: no file conversion from native format](https://github.com/adfinis/adfinis-rclone-mgr/pull/87) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 day ago)
 - [fix: add new config option from v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/15) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
-- [chore: improve compatibility with ansible 2.19](https://github.com/adfinis/ansible-role-the_bastion/pull/14) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (3 days ago)
 
 #### ⭐ Recent Stars
 
