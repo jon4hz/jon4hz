@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 days ago)
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (3 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add toggle all button](https://github.com/adfinis/adfinis-rclone-mgr/pull/91) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
+- [chore: make nautilus integration an optional dependency](https://github.com/adfinis/adfinis-rclone-mgr/pull/90) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [feat: no file conversion from native format](https://github.com/adfinis/adfinis-rclone-mgr/pull/87) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 day ago)
 - [fix: add new config option from v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/15) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
 - [chore: improve compatibility with ansible 2.19](https://github.com/adfinis/ansible-role-the_bastion/pull/14) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (3 days ago)
-- [feat: accept -l as user option](https://github.com/ovh/the-bastion/pull/610) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 week ago)
-- [feat: add tag to conf.d configuration task](https://github.com/adfinis/ansible-role-icinga2_master/pull/134) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (1 week ago)
 
 #### ⭐ Recent Stars
 
