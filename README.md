@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: missing syslog-ng config for bastion-scripts](https://github.com/ovh/the-bastion/pull/614) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [ci: run pipeline on main](https://github.com/adfinis/effing-package-manager-docker/pull/20) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (1 day ago)
 - [feat: install automake](https://github.com/adfinis/effing-package-manager-docker/pull/19) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (1 day ago)
 - [feat: add toggle all button](https://github.com/adfinis/adfinis-rclone-mgr/pull/91) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 day ago)
 - [chore: make nautilus integration an optional dependency](https://github.com/adfinis/adfinis-rclone-mgr/pull/90) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 day ago)
-- [feat: no file conversion from native format](https://github.com/adfinis/adfinis-rclone-mgr/pull/87) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 
 #### ⭐ Recent Stars
 
