@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([V1.1.8](https://github.com/CyferShepard/Jellystat/releases/tag/V1.1.8), today) - Jellystat is a free and open source Statistics App for Jellyfin
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.2.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.2.0), 3 days ago) - GitLab CI optimized Docker image for FPM
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.3](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.3), 3 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.3.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.3.0), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), 5 days ago) - Ansible role to install and configure The Bastion
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.01](https://github.com/ovh/the-bastion/releases/tag/v3.23.01), 1 week ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 
 #### 🔨 My recent Pull Requests
 
