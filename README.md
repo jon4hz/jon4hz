@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (5 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (5 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 week ago)
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (1 week ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.0), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([V1.1.8](https://github.com/CyferShepard/Jellystat/releases/tag/V1.1.8), 2 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.2.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.2.0), 5 days ago) - GitLab CI optimized Docker image for FPM
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.260.3](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.260.3), 5 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.3.0](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.3.0), 6 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.6.3](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.6.3), 1 week ago) - Ansible role to install and configure The Bastion
 
 #### 🔨 My recent Pull Requests
 
+- [fix: dont inject buttons for google root directory](https://github.com/adfinis/adfinis-rclone-mgr/pull/97) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [fix: missing syslog-ng config for bastion-scripts](https://github.com/ovh/the-bastion/pull/614) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (4 days ago)
 - [ci: run pipeline on main](https://github.com/adfinis/effing-package-manager-docker/pull/20) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (5 days ago)
 - [feat: install automake](https://github.com/adfinis/effing-package-manager-docker/pull/19) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (5 days ago)
 - [feat: add toggle all button](https://github.com/adfinis/adfinis-rclone-mgr/pull/91) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (5 days ago)
-- [chore: make nautilus integration an optional dependency](https://github.com/adfinis/adfinis-rclone-mgr/pull/90) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (5 days ago)
 
 #### ⭐ Recent Stars
 
