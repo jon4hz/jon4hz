@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (today)
 - [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (6 days ago)
 - [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (1 week ago)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 week ago)
 - [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (1 week ago)
-- [conejoninja/gopherbadge](https://github.com/conejoninja/gopherbadge) -  (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
