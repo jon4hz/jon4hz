@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.9.1](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.9.1), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.108.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.108.0), today) - 📈 Helm charts from Adfinis
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), today) - Prepare your system to be managed by Ansible.
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.1), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([V1.1.8](https://github.com/CyferShepard/Jellystat/releases/tag/V1.1.8), 5 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
