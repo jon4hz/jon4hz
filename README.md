@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 days ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 week ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 week ago)
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (1 week ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), today) - Gnome shell extension for Netbird
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.108.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.108.0), today) - 📈 Helm charts from Adfinis
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), today) - Prepare your system to be managed by Ansible.
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.1), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([V1.1.8](https://github.com/CyferShepard/Jellystat/releases/tag/V1.1.8), 5 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
-- [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) ([v1.2.0](https://github.com/adfinis/effing-package-manager-docker/releases/tag/v1.2.0), 1 week ago) - GitLab CI optimized Docker image for FPM
 
 #### 🔨 My recent Pull Requests
 
