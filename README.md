@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (3 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
+- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (4 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 week ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 week ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,27 +22,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.19.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.19.0), today) - 📈 Helm charts from Adfinis
-- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 3 days ago) - Gnome shell extension for Netbird
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), 3 days ago) - Prepare your system to be managed by Ansible.
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.1), 6 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.19.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.19.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 4 days ago) - Gnome shell extension for Netbird
+- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), 4 days ago) - Prepare your system to be managed by Ansible.
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.1), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([V1.1.8](https://github.com/CyferShepard/Jellystat/releases/tag/V1.1.8), 1 week ago) - Jellystat is a free and open source Statistics App for Jellyfin
 
 #### 🔨 My recent Pull Requests
 
-- [fix: missing syslog-ng config for bastion-scripts](https://github.com/adfinis-forks/the-bastion/pull/8) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (6 days ago)
-- [fix: dont inject buttons for google root directory](https://github.com/adfinis/adfinis-rclone-mgr/pull/97) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (6 days ago)
+- [fix: missing syslog-ng config for bastion-scripts](https://github.com/adfinis-forks/the-bastion/pull/8) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
+- [fix: dont inject buttons for google root directory](https://github.com/adfinis/adfinis-rclone-mgr/pull/97) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [fix: missing syslog-ng config for bastion-scripts](https://github.com/ovh/the-bastion/pull/614) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 week ago)
 - [ci: run pipeline on main](https://github.com/adfinis/effing-package-manager-docker/pull/20) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (1 week ago)
 - [feat: install automake](https://github.com/adfinis/effing-package-manager-docker/pull/19) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (5 days ago)
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (6 days ago)
 - [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (1 week ago)
 - [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (1 week ago)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 week ago)
-- [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (1 week ago)
+- [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
