@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([azure-apps-0.19.0](https://github.com/adfinis/helm-charts/releases/tag/azure-apps-0.19.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([back8sup-0.5.0](https://github.com/adfinis/helm-charts/releases/tag/back8sup-0.5.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 4 days ago) - Gnome shell extension for Netbird
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), 4 days ago) - Prepare your system to be managed by Ansible.
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.1), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
