@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (4 days ago)
+- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) - Gnome shell extension for Netbird (5 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 - [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) - GitLab CI optimized Docker image for FPM (1 week ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.62.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.62.0), today) - 📈 Helm charts from Adfinis
-- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 4 days ago) - Gnome shell extension for Netbird
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), 4 days ago) - Prepare your system to be managed by Ansible.
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([misc-apps-0.62.0](https://github.com/adfinis/helm-charts/releases/tag/misc-apps-0.62.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 5 days ago) - Gnome shell extension for Netbird
+- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), 5 days ago) - Prepare your system to be managed by Ansible.
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.1](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.1), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([V1.1.8](https://github.com/CyferShepard/Jellystat/releases/tag/V1.1.8), 1 week ago) - Jellystat is a free and open source Statistics App for Jellyfin
 
@@ -38,10 +38,10 @@
 
 #### ⭐ Recent Stars
 
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (6 days ago)
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (1 week ago)
 - [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (1 week ago)
-- [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (1 week ago)
-- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (1 week ago)
+- [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (2 weeks ago)
+- [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (2 weeks ago)
 - [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (2 weeks ago)
 
 #### 📫 How to reach me
