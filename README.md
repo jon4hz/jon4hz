@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: make no_log configurable and dont leak private keys](https://github.com/adfinis/ansible-role-bareos_fd/pull/59) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (today)
 - [fix: flush handlers after configuring the bareos repo](https://github.com/adfinis/ansible-collection-bareos/pull/125) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 day ago)
 - [fix: missing syslog-ng config for bastion-scripts](https://github.com/adfinis-forks/the-bastion/pull/8) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (1 week ago)
 - [fix: dont inject buttons for google root directory](https://github.com/adfinis/adfinis-rclone-mgr/pull/97) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [fix: missing syslog-ng config for bastion-scripts](https://github.com/ovh/the-bastion/pull/614) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 week ago)
-- [ci: run pipeline on main](https://github.com/adfinis/effing-package-manager-docker/pull/20) on [adfinis/effing-package-manager-docker](https://github.com/adfinis/effing-package-manager-docker) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
