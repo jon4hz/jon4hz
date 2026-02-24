@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci(molecule): verify correct version](https://github.com/adfinis/ansible-role-the_bastion/pull/22) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [chore: upgrade default bastion version to v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/21) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [ci: create molecule pipeline and use docker driver](https://github.com/adfinis/ansible-role-the_bastion/pull/20) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [feat: support arbitrary plugin configurations](https://github.com/adfinis/ansible-role-the_bastion/pull/19) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [Feat/support ephemeral vars](https://github.com/adf-patrickha/terraform-provider-semaphore/pull/1) on [adf-patrickha/terraform-provider-semaphore](https://github.com/adf-patrickha/terraform-provider-semaphore) (4 days ago)
-- [feat: make no_log configurable and dont leak private keys](https://github.com/adfinis/ansible-role-bareos_fd/pull/59) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (5 days ago)
 
 #### ⭐ Recent Stars
 
