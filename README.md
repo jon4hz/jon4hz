@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support arbitrary plugin configurations](https://github.com/adfinis/ansible-role-the_bastion/pull/19) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [Feat/support ephemeral vars](https://github.com/adf-patrickha/terraform-provider-semaphore/pull/1) on [adf-patrickha/terraform-provider-semaphore](https://github.com/adf-patrickha/terraform-provider-semaphore) (4 days ago)
 - [feat: make no_log configurable and dont leak private keys](https://github.com/adfinis/ansible-role-bareos_fd/pull/59) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (5 days ago)
 - [fix: flush handlers after configuring the bareos repo](https://github.com/adfinis/ansible-collection-bareos/pull/125) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (6 days ago)
 - [fix: missing syslog-ng config for bastion-scripts](https://github.com/adfinis-forks/the-bastion/pull/8) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 weeks ago)
-- [fix: dont inject buttons for google root directory](https://github.com/adfinis/adfinis-rclone-mgr/pull/97) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
