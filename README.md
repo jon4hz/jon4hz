@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (today)
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (2 weeks ago)
 - [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (2 weeks ago)
 - [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (3 weeks ago)
 - [aymanbagabas/go-nativeclipboard](https://github.com/aymanbagabas/go-nativeclipboard) - A cross-platform clipboard library for Go that works without cgo (3 weeks ago)
-- [linux-credentials/credentialsd](https://github.com/linux-credentials/credentialsd) - Proposal for a Linux credential management xdg portal D-Bus specification, including webauthn/passkey support (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
