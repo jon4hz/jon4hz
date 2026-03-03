@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.262.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.262.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.7.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.7.0), 1 week ago) - Ansible role to install and configure The Bastion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.111.1](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.111.1), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.2.6](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.2.6), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 2 weeks ago) - Gnome shell extension for Netbird
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.1.7](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.1.7), 2 weeks ago) - Prepare your system to be managed by Ansible.
