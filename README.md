@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: regenerate copyright headers](https://github.com/adfinis/terraform-provider-bastion/pull/42) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [ci(molecule): verify correct version](https://github.com/adfinis/ansible-role-the_bastion/pull/22) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [chore: upgrade default bastion version to v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/21) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [ci: create molecule pipeline and use docker driver](https://github.com/adfinis/ansible-role-the_bastion/pull/20) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [feat: support arbitrary plugin configurations](https://github.com/adfinis/ansible-role-the_bastion/pull/19) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
-- [Feat/support ephemeral vars](https://github.com/adf-patrickha/terraform-provider-semaphore/pull/1) on [adf-patrickha/terraform-provider-semaphore](https://github.com/adf-patrickha/terraform-provider-semaphore) (1 week ago)
 
 #### ⭐ Recent Stars
 
