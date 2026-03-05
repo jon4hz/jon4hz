@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: make interface fuckery a little less fucked up](https://github.com/Melkor333/oils-readline/pull/33) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (today)
 - [chore: regenerate copyright headers](https://github.com/adfinis/terraform-provider-bastion/pull/42) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 - [ci(molecule): verify correct version](https://github.com/adfinis/ansible-role-the_bastion/pull/22) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [chore: upgrade default bastion version to v3.23.01](https://github.com/adfinis/ansible-role-the_bastion/pull/21) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 - [ci: create molecule pipeline and use docker driver](https://github.com/adfinis/ansible-role-the_bastion/pull/20) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
-- [feat: support arbitrary plugin configurations](https://github.com/adfinis/ansible-role-the_bastion/pull/19) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
