@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.112.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.112.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.113.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.113.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.7.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.7.0), 1 week ago) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.2.6](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.2.6), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 3 weeks ago) - Gnome shell extension for Netbird
