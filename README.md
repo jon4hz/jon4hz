@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 week ago)
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (2 weeks ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.2](https://github.com/adfinis/bssh/releases/tag/v0.1.2), today) - SSH for The Bastion with fancy autocompletion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.0](https://github.com/adfinis/bastion-go/releases/tag/v0.3.0), today) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.114.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.114.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.7.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.7.0), 1 week ago) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.2.6](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.2.6), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/gnome-shell-extension-netbird](https://github.com/adfinis/gnome-shell-extension-netbird) ([v0.2.0](https://github.com/adfinis/gnome-shell-extension-netbird/releases/tag/v0.2.0), 3 weeks ago) - Gnome shell extension for Netbird
 
 #### 🔨 My recent Pull Requests
 
