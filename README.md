@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.2](https://github.com/adfinis/bssh/releases/tag/v0.1.2), today) - SSH for The Bastion with fancy autocompletion
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.3](https://github.com/adfinis/bssh/releases/tag/v0.1.3), today) - SSH for The Bastion with fancy autocompletion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.0](https://github.com/adfinis/bastion-go/releases/tag/v0.3.0), today) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.114.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.114.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.7.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.7.0), 1 week ago) - Ansible role to install and configure The Bastion
