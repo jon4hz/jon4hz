@@ -8,9 +8,9 @@
 
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
+- [adfinis/effing-package-manager](https://github.com/adfinis/effing-package-manager) - GitLab CI optimized Docker image for FPM (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 week ago)
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (2 weeks ago)
 
 #### 🌱 My latest projects
 
