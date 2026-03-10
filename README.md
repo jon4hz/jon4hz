@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (today)
-- [adfinis/nur](https://github.com/adfinis/nur) - Nix User Repository ❄️ (today)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
+- [adfinis/nur](https://github.com/adfinis/nur) - Nix User Repository ❄️ (today)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (today)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [feat: support keyboard-interactive auth](https://github.com/adfinis/bastion-go/pull/7) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 day ago)
 - [fix: make interface fuckery a little less fucked up](https://github.com/Melkor333/oils-readline/pull/33) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (5 days ago)
-- [chore: regenerate copyright headers](https://github.com/adfinis/terraform-provider-bastion/pull/42) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
-- [ci(molecule): verify correct version](https://github.com/adfinis/ansible-role-the_bastion/pull/22) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
