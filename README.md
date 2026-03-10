@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.2](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.2), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.3](https://github.com/adfinis/bssh/releases/tag/v0.1.3), 1 day ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.0](https://github.com/adfinis/bastion-go/releases/tag/v0.3.0), 1 day ago) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.114.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.114.0), 1 day ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.7.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.7.0), 2 weeks ago) - Ansible role to install and configure The Bastion
 
 #### 🔨 My recent Pull Requests
 
