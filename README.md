@@ -30,8 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [feat: support keyboard-interactive auth](https://github.com/adfinis/bastion-go/pull/7) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 day ago)
 - [fix: make interface fuckery a little less fucked up](https://github.com/Melkor333/oils-readline/pull/33) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (5 days ago)
