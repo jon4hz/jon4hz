@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (1 day ago)
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 day ago)
 - [adfinis/effing-package-manager](https://github.com/adfinis/effing-package-manager) - GitLab CI optimized Docker image for FPM (1 day ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (6 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.2](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.2), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.3](https://github.com/adfinis/bssh/releases/tag/v0.1.3), 1 day ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.0](https://github.com/adfinis/bastion-go/releases/tag/v0.3.0), 1 day ago) - Golang client for The Bastion
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.114.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.114.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.7.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.7.0), 2 weeks ago) - Ansible role to install and configure The Bastion
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.2.6](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.2.6), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 
 #### 🔨 My recent Pull Requests
 
