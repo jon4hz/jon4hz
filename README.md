@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 day ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [adfinis/nur](https://github.com/adfinis/nur) - Nix User Repository ❄️ (1 day ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 day ago)
