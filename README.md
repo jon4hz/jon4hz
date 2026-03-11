@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (today)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
-- [adfinis/nur](https://github.com/adfinis/nur) - Nix User Repository ❄️ (today)
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (today)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 day ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
+- [adfinis/nur](https://github.com/adfinis/nur) - Nix User Repository ❄️ (1 day ago)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -22,25 +22,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.9.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.9.0), today) - 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.2](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.2), today) - Mounting Google Drive - The Adfinis way 🧙✨
-- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.3](https://github.com/adfinis/bssh/releases/tag/v0.1.3), 1 day ago) - SSH for The Bastion with fancy autocompletion
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.0](https://github.com/adfinis/bastion-go/releases/tag/v0.3.0), 1 day ago) - Golang client for The Bastion
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.9.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.9.0), 1 day ago) - 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), 1 day ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.2](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.2), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.3](https://github.com/adfinis/bssh/releases/tag/v0.1.3), 2 days ago) - SSH for The Bastion with fancy autocompletion
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.0](https://github.com/adfinis/bastion-go/releases/tag/v0.3.0), 2 days ago) - Golang client for The Bastion
 
 #### 🔨 My recent Pull Requests
 
-- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [feat: support keyboard-interactive auth](https://github.com/adfinis/bastion-go/pull/7) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 day ago)
-- [fix: make interface fuckery a little less fucked up](https://github.com/Melkor333/oils-readline/pull/33) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (5 days ago)
+- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
+- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
+- [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
+- [feat: support keyboard-interactive auth](https://github.com/adfinis/bastion-go/pull/7) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (2 days ago)
+- [fix: make interface fuckery a little less fucked up](https://github.com/Melkor333/oils-readline/pull/33) on [Melkor333/oils-readline](https://github.com/Melkor333/oils-readline) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (2 days ago)
-- [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (1 week ago)
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (3 weeks ago)
+- [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (3 days ago)
+- [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (2 weeks ago)
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (4 weeks ago)
 - [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (1 month ago)
 - [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (1 month ago)
 
