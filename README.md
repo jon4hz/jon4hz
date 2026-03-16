@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (6 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
-- [adfinis/nur](https://github.com/adfinis/nur) - Nix User Repository ❄️ (6 days ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (6 days ago)
 
 #### 🌱 My latest projects
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: make the linter happy](https://github.com/jon4hz/jellysweep/pull/289) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [docs: add mkdocs](https://github.com/jon4hz/jellysweep/pull/288) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
 - [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
 - [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
-- [feat: support keyboard-interactive auth](https://github.com/adfinis/bastion-go/pull/7) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 week ago)
 
 #### ⭐ Recent Stars
 
