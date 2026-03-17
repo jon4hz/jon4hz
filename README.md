@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add healthcheck endpoint](https://github.com/jon4hz/jellysweep/pull/290) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: make the linter happy](https://github.com/jon4hz/jellysweep/pull/289) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [docs: add mkdocs](https://github.com/jon4hz/jellysweep/pull/288) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 - [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
-- [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
