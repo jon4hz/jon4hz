@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (6 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (6 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (6 days ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 week ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.263.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.263.0), 5 days ago) - 📈 Helm charts from Adfinis
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.3](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.3), 5 days ago) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.3.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.3.0), 5 days ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.9.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.9.0), 6 days ago) - 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.263.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.263.0), 6 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.3](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.3), 6 days ago) - Terraform/OpenTofu Provider for The Bastion
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.3.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.3.0), 6 days ago) - A collection of Ansible roles to manage Bareos installations.
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.9.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.9.0), 1 week ago) - 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-03](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-03), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
-- [chore: make the linter happy](https://github.com/jon4hz/jellysweep/pull/289) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [docs: add mkdocs](https://github.com/jon4hz/jellysweep/pull/288) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
-- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
-- [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
+- [chore: make the linter happy](https://github.com/jon4hz/jellysweep/pull/289) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [docs: add mkdocs](https://github.com/jon4hz/jellysweep/pull/288) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/47) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
+- [ci: add permissions to workflow](https://github.com/adfinis/terraform-provider-bastion/pull/46) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
+- [fix: retry if internal error occurs](https://github.com/adfinis/terraform-provider-bastion/pull/45) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
