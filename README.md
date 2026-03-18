@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.11.3](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.11.3), today) - 📈 Helm charts from Adfinis
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.4](https://github.com/adfinis/bssh/releases/tag/v0.1.4), today) - SSH for The Bastion with fancy autocompletion
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.263.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.263.0), 1 week ago) - 📈 Helm charts from Adfinis
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.3](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.3), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.3.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.3.0), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.9.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.9.0), 1 week ago) - 
