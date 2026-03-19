@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (today)
 - [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (1 week ago)
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (3 weeks ago)
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (1 month ago)
 - [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (1 month ago)
-- [terinjokes/StickersStandard](https://github.com/terinjokes/StickersStandard) - The Stickers Standard (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
