@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (1 day ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 week ago)
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: switch to zensical](https://github.com/jon4hz/jellysweep/pull/295) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [ci: fix rpm dependencies](https://github.com/adfinis/bssh/pull/5) on [adfinis/bssh](https://github.com/adfinis/bssh) (1 day ago)
 - [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/jon4hz/jellysweep/pull/294) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 - [Potential fix for code scanning alert no. 29: Workflow does not contain permissions](https://github.com/jon4hz/jellysweep/pull/293) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 - [Potential fix for code scanning alert no. 30: Workflow does not contain permissions](https://github.com/jon4hz/jellysweep/pull/292) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
-- [feat: add config option for trusted proxies](https://github.com/jon4hz/jellysweep/pull/291) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 
 #### ⭐ Recent Stars
 
