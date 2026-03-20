@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) ([v4.0.0.4](https://github.com/9p4/jellyfin-plugin-sso/releases/tag/v4.0.0.4), today) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.11.3](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.11.3), 2 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.4](https://github.com/adfinis/bssh/releases/tag/v0.1.4), 2 days ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.3](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.3), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.3.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.3.0), 1 week ago) - A collection of Ansible roles to manage Bareos installations.
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.9.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.9.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
