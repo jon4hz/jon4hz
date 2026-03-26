@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transports timetables, inspidered by the SBB/CFF/FFS app (today)
 - [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (1 week ago)
 - [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (2 weeks ago)
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (4 weeks ago)
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (1 month ago)
-- [caiman-dorohedoro/dcss-ttyrec-player](https://github.com/caiman-dorohedoro/dcss-ttyrec-player) -  (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
