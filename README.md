@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (today)
 - [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transports timetables, inspidered by the SBB/CFF/FFS app (1 day ago)
 - [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (1 week ago)
 - [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (2 weeks ago)
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (1 month ago)
-- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
