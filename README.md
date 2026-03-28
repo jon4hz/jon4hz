@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.4.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.4.0.0), today) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.11.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.11.4), 1 week ago) - 📈 Helm charts from Adfinis
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) ([v4.0.0.4](https://github.com/9p4/jellyfin-plugin-sso/releases/tag/v4.0.0.4), 1 week ago) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.4](https://github.com/adfinis/bssh/releases/tag/v0.1.4), 1 week ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.3](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.3), 2 weeks ago) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.3.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.3.0), 2 weeks ago) - A collection of Ansible roles to manage Bareos installations.
 
 #### 🔨 My recent Pull Requests
 
