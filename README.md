@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (1 week ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (2 weeks ago)
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (2 weeks ago)
@@ -38,8 +38,8 @@
 
 #### ⭐ Recent Stars
 
-- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (today)
-- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transports timetables, inspidered by the SBB/CFF/FFS app (1 day ago)
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (1 day ago)
+- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transports timetables, inspidered by the SBB/CFF/FFS app (2 days ago)
 - [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (1 week ago)
 - [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (2 weeks ago)
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (1 month ago)
