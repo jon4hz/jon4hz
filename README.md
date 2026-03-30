@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.0), today) - This role is used to configure an icinga2 master
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.4.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.4.0.0), 2 days ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.11.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.11.4), 1 week ago) - 📈 Helm charts from Adfinis
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) ([v4.0.0.4](https://github.com/9p4/jellyfin-plugin-sso/releases/tag/v4.0.0.4), 1 week ago) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.1.4](https://github.com/adfinis/bssh/releases/tag/v0.1.4), 1 week ago) - SSH for The Bastion with fancy autocompletion
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.4.3](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.4.3), 2 weeks ago) - Terraform/OpenTofu Provider for The Bastion
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@
 #### ⭐ Recent Stars
 
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (3 days ago)
-- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transports timetables, inspidered by the SBB/CFF/FFS app (4 days ago)
+- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transport timetables, inspidered by the SBB/CFF/FFS app (4 days ago)
 - [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (1 week ago)
 - [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (3 weeks ago)
 - [systemd/particleos](https://github.com/systemd/particleos) - ⸭ An image-based, secure OS, built on top of various Linux distributions (1 month ago)
