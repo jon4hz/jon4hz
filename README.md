@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.0](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.0), 1 day ago) - This role is used to configure an icinga2 master
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.1), today) - This role is used to configure an icinga2 master
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.4.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.4.0.0), 3 days ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.11.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.11.4), 1 week ago) - 📈 Helm charts from Adfinis
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) ([v4.0.0.4](https://github.com/9p4/jellyfin-plugin-sso/releases/tag/v4.0.0.4), 1 week ago) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
