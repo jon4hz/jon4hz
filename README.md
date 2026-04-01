@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use ansible_facts instead of ansible_ prefix](https://github.com/adfinis/ansible-collection-semaphoreui/pull/8) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [feat: support for write-only attributes](https://github.com/semaphoreui/terraform-provider-semaphore/pull/16) on [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) (today)
 - [docs: switch to zensical](https://github.com/jon4hz/jellysweep/pull/295) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [ci: fix rpm dependencies](https://github.com/adfinis/bssh/pull/5) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 weeks ago)
 - [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/jon4hz/jellysweep/pull/294) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
-- [Potential fix for code scanning alert no. 29: Workflow does not contain permissions](https://github.com/jon4hz/jellysweep/pull/293) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
