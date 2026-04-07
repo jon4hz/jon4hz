@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (6 days ago)
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (today)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (2 weeks ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (3 weeks ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.3.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.3.0), today) - 
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.9](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.9), 5 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-04](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-04), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.1), 1 week ago) - This role is used to configure an icinga2 master
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.4.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.4.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.11.4](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.11.4), 2 weeks ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
 
+- [ci: create galaxy release directly after semantic release job](https://github.com/adfinis/ansible-collection-semaphoreui/pull/15) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [ci: use GITHUB_TOKEN from actions instead of PAT](https://github.com/adfinis/ansible-collection-semaphoreui/pull/12) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [feat: config option for no_log](https://github.com/adfinis/ansible-collection-semaphoreui/pull/9) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (6 days ago)
 - [chore: use ansible_facts instead of ansible_ prefix](https://github.com/adfinis/ansible-collection-semaphoreui/pull/8) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (6 days ago)
 - [feat: support for write-only attributes](https://github.com/semaphoreui/terraform-provider-semaphore/pull/16) on [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) (6 days ago)
-- [docs: switch to zensical](https://github.com/jon4hz/jellysweep/pull/295) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
