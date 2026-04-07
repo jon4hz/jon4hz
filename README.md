@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (today)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (5 days ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (1 week ago)
 - [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transport timetables, inspidered by the SBB/CFF/FFS app (1 week ago)
 - [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (2 weeks ago)
-- [MusicMoveArr/Datasets](https://github.com/MusicMoveArr/Datasets) - Datasets of MusicBrainz, Tidal, Spotify, Deezer (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
