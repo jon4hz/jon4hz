@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: option to configure extra volumes for the server container](https://github.com/adfinis/ansible-collection-semaphoreui/pull/17) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [feat: add support for deb822 repos on deb13](https://github.com/robertdebock/ansible-role-openbao/pull/11) on [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) (1 day ago)
 - [ci: remove unused ansible-galaxy workflow](https://github.com/adfinis/ansible-collection-semaphoreui/pull/16) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
 - [ci: create galaxy release directly after semantic release job](https://github.com/adfinis/ansible-collection-semaphoreui/pull/15) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
 - [ci: use GITHUB_TOKEN from actions instead of PAT](https://github.com/adfinis/ansible-collection-semaphoreui/pull/12) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
-- [feat: config option for no_log](https://github.com/adfinis/ansible-collection-semaphoreui/pull/9) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
 
 #### ⭐ Recent Stars
 
