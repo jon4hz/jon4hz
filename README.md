@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (1 day ago)
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (today)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (3 weeks ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 weeks ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.3.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.3.0), 2 days ago) - 
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.4.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.4.0), today) - 
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.9](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.9), 1 week ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-04](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-04), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.1), 1 week ago) - This role is used to configure an icinga2 master
