@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [agent: allow changing the uid and gid of a file sink](https://github.com/openbao/openbao/pull/2851) on [openbao/openbao](https://github.com/openbao/openbao) (today)
 - [feat: option to configure extra volumes for the server container](https://github.com/adfinis/ansible-collection-semaphoreui/pull/17) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
 - [feat: add support for deb822 repos on deb13](https://github.com/robertdebock/ansible-role-openbao/pull/11) on [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) (2 days ago)
 - [ci: remove unused ansible-galaxy workflow](https://github.com/adfinis/ansible-collection-semaphoreui/pull/16) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
 - [ci: create galaxy release directly after semantic release job](https://github.com/adfinis/ansible-collection-semaphoreui/pull/15) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
-- [ci: use GITHUB_TOKEN from actions instead of PAT](https://github.com/adfinis/ansible-collection-semaphoreui/pull/12) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
 
 #### ⭐ Recent Stars
 
