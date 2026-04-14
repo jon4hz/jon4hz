@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (today)
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (1 week ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 week ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (2 weeks ago)
 - [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transport timetables, inspidered by the SBB/CFF/FFS app (2 weeks ago)
-- [MoazSalem/litefin](https://github.com/MoazSalem/litefin) - Jellyfin Client for Tizen and WebOS. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
