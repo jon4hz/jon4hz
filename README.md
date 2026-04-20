@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 2 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.1](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.1), 6 days ago) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.4.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.4.0), 1 week ago) - 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-04](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-04), 2 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.1](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.1), 2 weeks ago) - This role is used to configure an icinga2 master
 
 #### 🔨 My recent Pull Requests
 
