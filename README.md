@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (6 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
-- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (6 days ago)
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 week ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
+- [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 week ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (1 week ago)
 
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 2 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.1](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.1), 6 days ago) - Aare.guru ir gnome shell
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), 1 day ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 3 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.1](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.1), 1 week ago) - Aare.guru ir gnome shell
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.4.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.4.0), 1 week ago) - 
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-04](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-04), 2 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
@@ -34,13 +34,13 @@
 - [agent: allow changing the uid and gid of a file sink](https://github.com/openbao/openbao/pull/2851) on [openbao/openbao](https://github.com/openbao/openbao) (1 week ago)
 - [feat: option to configure extra volumes for the server container](https://github.com/adfinis/ansible-collection-semaphoreui/pull/17) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
 - [feat: add support for deb822 repos on deb13](https://github.com/robertdebock/ansible-role-openbao/pull/11) on [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) (1 week ago)
-- [ci: remove unused ansible-galaxy workflow](https://github.com/adfinis/ansible-collection-semaphoreui/pull/16) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
+- [ci: remove unused ansible-galaxy workflow](https://github.com/adfinis/ansible-collection-semaphoreui/pull/16) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea (6 days ago)
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (6 days ago)
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (1 week ago)
+- [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea (1 week ago)
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (1 week ago)
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (2 weeks ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (2 weeks ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (3 weeks ago)
 
