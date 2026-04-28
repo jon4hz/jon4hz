@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([storage-apps-0.22.0](https://github.com/adfinis/helm-charts/releases/tag/storage-apps-0.22.0), 4 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.267.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.267.0), today) - 📈 Helm charts from Adfinis
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 1 week ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.1](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.1), 2 weeks ago) - Aare.guru ir gnome shell
