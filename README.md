@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.118.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.118.0), 1 day ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.119.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.119.0), today) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v3.0.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v3.0.0), today) - This role is used to configure icingaweb2
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 1 week ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.1](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.1), 2 weeks ago) - Aare.guru ir gnome shell
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.4.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.4.0), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
