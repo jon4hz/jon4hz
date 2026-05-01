@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (today)
+- [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles. (today)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (2 weeks ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (2 weeks ago)
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 weeks ago)
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles.
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) - 
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) - 
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 - [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) - 
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin.
 
 #### 🔭 Latest releases I've contributed to
 
