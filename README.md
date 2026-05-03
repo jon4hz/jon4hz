@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (1 day ago)
-- [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles. (1 day ago)
+- [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (2 days ago)
+- [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles. (2 days ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (2 weeks ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (2 weeks ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-05](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-05), 1 day ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.48.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.48.0), 1 day ago) - 📈 Helm charts from Adfinis
-- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v3.0.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v3.0.0), 2 days ago) - This role is used to configure icingaweb2
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-05](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-05), 2 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([logging-apps-0.48.0](https://github.com/adfinis/helm-charts/releases/tag/logging-apps-0.48.0), 2 days ago) - 📈 Helm charts from Adfinis
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v3.0.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v3.0.0), 3 days ago) - This role is used to configure icingaweb2
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 2 weeks ago) - Jellystat is a free and open source Statistics App for Jellyfin
 
