@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (1 week ago)
 - [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles. (1 week ago)
+- [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (1 week ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (3 weeks ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 weeks ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (3 weeks ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 weeks ago)
 
 #### 🌱 My latest projects
 
