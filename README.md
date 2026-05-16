@@ -26,7 +26,7 @@
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-05](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-05), 2 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v3.0.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v3.0.0), 2 weeks ago) - This role is used to configure icingaweb2
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), 3 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 3 weeks ago) - Jellystat is a free and open source Statistics App for Jellyfin
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 4 weeks ago) - Jellystat is a free and open source Statistics App for Jellyfin
 
 #### 🔨 My recent Pull Requests
 
