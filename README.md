@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.4](https://github.com/openbao/openbao/releases/tag/v2.5.4), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.268.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.268.0), 2 weeks ago) - 📈 Helm charts from Adfinis
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-05](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-05), 2 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v3.0.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v3.0.0), 2 weeks ago) - This role is used to configure icingaweb2
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.3](https://github.com/openbao/openbao/releases/tag/v2.5.3), 1 month ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.10](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.10), 1 month ago) - Jellystat is a free and open source Statistics App for Jellyfin
 
 #### 🔨 My recent Pull Requests
