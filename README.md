@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles. (3 weeks ago)
 - [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (3 weeks ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 month ago)
 - [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) -  (1 month ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 month ago)
 
 #### 🌱 My latest projects
 
