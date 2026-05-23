@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
 - [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles. (3 weeks ago)
 - [projecttestitest/ansible-role-potos_template](https://github.com/projecttestitest/ansible-role-potos_template) - Template repository for Potos ansible roles. (3 weeks ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.4](https://github.com/openbao/openbao/releases/tag/v2.5.4), 2 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.4](https://github.com/openbao/openbao/releases/tag/v2.5.4), 3 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.268.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.268.0), 2 weeks ago) - 📈 Helm charts from Adfinis
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-05](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-05), 3 weeks ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) ([v3.0.0](https://github.com/adfinis/ansible-role-icinga2_web/releases/tag/v3.0.0), 3 weeks ago) - This role is used to configure icingaweb2
