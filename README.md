@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: JWT auth during task execution](https://github.com/adfinis-forks/semaphore/pull/1) on [adfinis-forks/semaphore](https://github.com/adfinis-forks/semaphore) (today)
 - [ci: pin actions and improve workflow security](https://github.com/adfinis/proxmox-tofu-demo/pull/4) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (1 month ago)
 - [agent: allow changing the uid and gid of a file sink](https://github.com/openbao/openbao/pull/2851) on [openbao/openbao](https://github.com/openbao/openbao) (1 month ago)
 - [feat: option to configure extra volumes for the server container](https://github.com/adfinis/ansible-collection-semaphoreui/pull/17) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 month ago)
 - [feat: add support for deb822 repos on deb13](https://github.com/robertdebock/ansible-role-openbao/pull/11) on [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) (1 month ago)
-- [ci: remove unused ansible-galaxy workflow](https://github.com/adfinis/ansible-collection-semaphoreui/pull/16) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [go-jose/go-jose](https://github.com/go-jose/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go (today)
 - [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea (1 month ago)
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (1 month ago)
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. (1 month ago)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (1 month ago)
-- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (2 months ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
