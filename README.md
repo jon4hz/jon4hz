@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: jwt auth during task execution](https://github.com/semaphoreui/semaphore-docs/pull/131) on [semaphoreui/semaphore-docs](https://github.com/semaphoreui/semaphore-docs) (today)
+- [feat(jwt): issue per-task JWTs to runners](https://github.com/semaphoreui/semaphore/pull/3896) on [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) (today)
 - [feat: JWT auth during task execution](https://github.com/adfinis-forks/semaphore/pull/1) on [adfinis-forks/semaphore](https://github.com/adfinis-forks/semaphore) (1 day ago)
 - [ci: pin actions and improve workflow security](https://github.com/adfinis/proxmox-tofu-demo/pull/4) on [adfinis/proxmox-tofu-demo](https://github.com/adfinis/proxmox-tofu-demo) (1 month ago)
 - [agent: allow changing the uid and gid of a file sink](https://github.com/openbao/openbao/pull/2851) on [openbao/openbao](https://github.com/openbao/openbao) (1 month ago)
-- [feat: option to configure extra volumes for the server container](https://github.com/adfinis/ansible-collection-semaphoreui/pull/17) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 month ago)
-- [feat: add support for deb822 repos on deb13](https://github.com/robertdebock/ansible-role-openbao/pull/11) on [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) (1 month ago)
 
 #### ⭐ Recent Stars
 
