@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-pkg_mirror](https://github.com/adfinis/ansible-role-pkg_mirror) - Ansible role pkg_mirror (today)
-- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (today)
+- [adfinis/ansible-role-repo_mirror](https://github.com/adfinis/ansible-role-repo_mirror) - Ansible role repo_mirror (today)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
-- [adfinis/.github](https://github.com/adfinis/.github) -  (today)
-- [adfinis/effing-package-manager](https://github.com/adfinis/effing-package-manager) - GitLab CI optimized Docker image for FPM (today)
+- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (today)
+- [adfinis/ansible-role-mariadb](https://github.com/adfinis/ansible-role-mariadb) - Ansible role mariadb (today)
 
 #### 🌱 My latest projects
 
