@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/ansible-role-pkg_mirror](https://github.com/adfinis/ansible-role-pkg_mirror) - Ansible role pkg_mirror (today)
-- [adfinis/ansible-role-graphite](https://github.com/adfinis/ansible-role-graphite) -  (today)
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (today)
-- [adfinis/ansible-role-mariadb](https://github.com/adfinis/ansible-role-mariadb) - Ansible role mariadb (today)
+- [adfinis/.github](https://github.com/adfinis/.github) -  (today)
+- [adfinis/effing-package-manager](https://github.com/adfinis/effing-package-manager) - GitLab CI optimized Docker image for FPM (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix linter errors](https://github.com/adfinis/ansible-collection-proxmox_upgrade/pull/8) on [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) (today)
 - [ci: pin actions and lint with zizmor](https://github.com/adfinis/bssh/pull/13) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
 - [chore(deps): bump github.com/hashicorp/copywrite in /tools](https://github.com/adfinis/terraform-provider-bastion/pull/62) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [ci: lint actions with zizmor](https://github.com/adfinis/terraform-provider-bastion/pull/61) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [ci: lint actions with zizmor](https://github.com/adfinis/sbb-fallblatt/pull/85) on [adfinis/sbb-fallblatt](https://github.com/adfinis/sbb-fallblatt) (today)
-- [ci: lint actions with zizmor](https://github.com/adfinis/ansible-collection-semaphoreui/pull/18) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 
 #### ⭐ Recent Stars
 
