@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.121.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.121.0), today) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.3](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.3), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.1](https://github.com/adfinis/bastion-go/releases/tag/v0.3.1), 3 days ago) - Golang client for The Bastion
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.2](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.2), 6 days ago) - This role is used to configure an icinga2 master
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.4](https://github.com/openbao/openbao/releases/tag/v2.5.4), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([infra-apps-0.268.0](https://github.com/adfinis/helm-charts/releases/tag/infra-apps-0.268.0), 3 weeks ago) - 📈 Helm charts from Adfinis
 
 #### 🔨 My recent Pull Requests
 
