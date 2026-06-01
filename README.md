@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (today)
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (today)
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (3 days ago)
+- [adfinis/ansible-role-graphite](https://github.com/adfinis/ansible-role-graphite) -  (3 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 days ago)
-- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (3 days ago)
-- [adfinis/ansible-role-pkg_mirror](https://github.com/adfinis/ansible-role-pkg_mirror) - Ansible role pkg_mirror (3 days ago)
+- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: pin actions to their commit sha](https://github.com/ansible/ansible-content-actions/pull/107) on [ansible/ansible-content-actions](https://github.com/ansible/ansible-content-actions) (today)
 - [chore: fix linter errors](https://github.com/adfinis/ansible-collection-proxmox_upgrade/pull/8) on [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) (3 days ago)
 - [ci: pin actions and lint with zizmor](https://github.com/adfinis/bssh/pull/13) on [adfinis/bssh](https://github.com/adfinis/bssh) (3 days ago)
 - [chore(deps): bump github.com/hashicorp/copywrite in /tools](https://github.com/adfinis/terraform-provider-bastion/pull/62) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
 - [ci: lint actions with zizmor](https://github.com/adfinis/terraform-provider-bastion/pull/61) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (3 days ago)
-- [ci: lint actions with zizmor](https://github.com/adfinis/sbb-fallblatt/pull/85) on [adfinis/sbb-fallblatt](https://github.com/adfinis/sbb-fallblatt) (3 days ago)
 
 #### ⭐ Recent Stars
 
