@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (today)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (3 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (3 days ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 days ago)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (3 days ago)
-- [adfinis/ansible-role-mariadb](https://github.com/adfinis/ansible-role-mariadb) - Ansible role mariadb (3 days ago)
+- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (3 days ago)
+- [adfinis/ansible-role-pkg_mirror](https://github.com/adfinis/ansible-role-pkg_mirror) - Ansible role pkg_mirror (3 days ago)
 
 #### 🌱 My latest projects
 
