@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.54.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.54.1), today) - A modern Jellyfin client built with Expo
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.121.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.121.0), 1 day ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.3](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.3), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.1](https://github.com/adfinis/bastion-go/releases/tag/v0.3.1), 4 days ago) - Golang client for The Bastion
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.2](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.2), 1 week ago) - This role is used to configure an icinga2 master
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.4](https://github.com/openbao/openbao/releases/tag/v2.5.4), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
 
