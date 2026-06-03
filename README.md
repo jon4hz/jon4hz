@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([hedgedoc-0.6.0](https://github.com/adfinis/helm-charts/releases/tag/hedgedoc-0.6.0), today) - 📈 Helm charts from Adfinis
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.54.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.54.1), 1 day ago) - A modern Jellyfin client built with Expo
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([security-apps-0.121.0](https://github.com/adfinis/helm-charts/releases/tag/security-apps-0.121.0), 2 days ago) - 📈 Helm charts from Adfinis
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.3](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.3), 5 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.1](https://github.com/adfinis/bastion-go/releases/tag/v0.3.1), 5 days ago) - Golang client for The Bastion
 - [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) ([v1.4.2](https://github.com/adfinis/ansible-role-icinga2_master/releases/tag/v1.4.2), 1 week ago) - This role is used to configure an icinga2 master
