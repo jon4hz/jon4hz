@@ -10,7 +10,7 @@
 - [projectpotos/ansible-role-potos_firstboot](https://github.com/projectpotos/ansible-role-potos_firstboot) - Role to run handle firstboot questions in Potos Linux Clients. (2 days ago)
 - [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (2 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (2 days ago)
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (5 days ago)
+- [adfinis/ansible-role-pkg_mirror](https://github.com/adfinis/ansible-role-pkg_mirror) - Ansible role pkg_mirror (5 days ago)
 
 #### 🌱 My latest projects
 
