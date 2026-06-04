@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (today)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 day ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (3 days ago)
-- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (3 days ago)
 - [projectpotos/ansible-role-potos_firstboot](https://github.com/projectpotos/ansible-role-potos_firstboot) - Role to run handle firstboot questions in Potos Linux Clients. (3 days ago)
-- [adfinis/landingpage-repo_mirror](https://github.com/adfinis/landingpage-repo_mirror) - The landing page of our repository mirror (6 days ago)
+- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (3 days ago)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: pin images in COPY instructions](https://github.com/azu/dockerfile-pin/pull/47) on [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) (today)
 - [fix: pin actions to their commit sha](https://github.com/ansible/ansible-content-actions/pull/107) on [ansible/ansible-content-actions](https://github.com/ansible/ansible-content-actions) (3 days ago)
 - [chore: fix linter errors](https://github.com/adfinis/ansible-collection-proxmox_upgrade/pull/8) on [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) (6 days ago)
 - [ci: pin actions and lint with zizmor](https://github.com/adfinis/bssh/pull/13) on [adfinis/bssh](https://github.com/adfinis/bssh) (6 days ago)
 - [chore(deps): bump github.com/hashicorp/copywrite in /tools](https://github.com/adfinis/terraform-provider-bastion/pull/62) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
-- [ci: lint actions with zizmor](https://github.com/adfinis/terraform-provider-bastion/pull/61) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
 
 #### ⭐ Recent Stars
 
