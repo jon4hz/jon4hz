@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (today)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (2 days ago)
 - [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (4 days ago)
 - [go-jose/go-jose](https://github.com/go-jose/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go (1 week ago)
 - [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea (1 month ago)
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup massive amounts of org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚 (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
