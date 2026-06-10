@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([hedgedoc-0.6.0](https://github.com/adfinis/helm-charts/releases/tag/hedgedoc-0.6.0), 1 week ago) - 📈 Helm charts from Adfinis
+- [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.12.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.12.0), today) - 📈 Helm charts from Adfinis
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.54.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.54.1), 1 week ago) - A modern Jellyfin client built with Expo
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.3](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.3), 1 week ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.3.1](https://github.com/adfinis/bastion-go/releases/tag/v0.3.1), 1 week ago) - Golang client for The Bastion
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support different upgrade modes and custom files](https://github.com/adfinis/ansible-role-the_bastion/pull/34) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
+- [ci: one publish pipeline only without PAT](https://github.com/adfinis/ansible-role-the_bastion/pull/33) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [feat: pin images in COPY instructions](https://github.com/azu/dockerfile-pin/pull/47) on [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) (6 days ago)
 - [fix: pin actions to their commit sha](https://github.com/ansible/ansible-content-actions/pull/107) on [ansible/ansible-content-actions](https://github.com/ansible/ansible-content-actions) (1 week ago)
 - [chore: fix linter errors](https://github.com/adfinis/ansible-collection-proxmox_upgrade/pull/8) on [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) (1 week ago)
-- [ci: pin actions and lint with zizmor](https://github.com/adfinis/bssh/pull/13) on [adfinis/bssh](https://github.com/adfinis/bssh) (1 week ago)
-- [chore(deps): bump github.com/hashicorp/copywrite in /tools](https://github.com/adfinis/terraform-provider-bastion/pull/62) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
