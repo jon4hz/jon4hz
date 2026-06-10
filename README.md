@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [keylime/keylime](https://github.com/keylime/keylime) - A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT (today)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 days ago)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (4 days ago)
 - [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (6 days ago)
 - [go-jose/go-jose](https://github.com/go-jose/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go (2 weeks ago)
-- [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
