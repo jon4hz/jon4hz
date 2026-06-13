@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [Zverik/every_door](https://github.com/Zverik/every_door) - A dedicated app for collecting thousands of POI for OpenStreetMap (today)
 - [radiorabe/klangbecken](https://github.com/radiorabe/klangbecken) - Klangbecken: The RaBe Endless Music Player (2 days ago)
 - [keylime/keylime](https://github.com/keylime/keylime) - A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT (3 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (5 days ago)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 week ago)
-- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
