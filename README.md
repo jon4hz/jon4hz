@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.15.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.15.0), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.9.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.9.0), 1 day ago) - Ansible role to install and configure The Bastion
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.9.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.9.0), 1 day ago) - A collection of reusable workflows for the bareos repositories.
 - [adfinis/helm-charts](https://github.com/adfinis/helm-charts) ([keycloak-operator-1.12.0](https://github.com/adfinis/helm-charts/releases/tag/keycloak-operator-1.12.0), 3 days ago) - 📈 Helm charts from Adfinis
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.54.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.54.1), 1 week ago) - A modern Jellyfin client built with Expo
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.3](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.3), 2 weeks ago) - Mounting Google Drive - The Adfinis way 🧙✨
 
 #### 🔨 My recent Pull Requests
 
