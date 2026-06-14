@@ -10,7 +10,7 @@
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) - A collection of reusable workflows for the bareos repositories. (2 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (1 week ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 week ago)
-- [adfinis/ansible-collection-proxmox_upgrade](https://github.com/adfinis/ansible-collection-proxmox_upgrade) - An ansible collection for automated proxmox cluster upgrades (1 week ago)
+- [projectpotos/ansible-role-potos_firstboot](https://github.com/projectpotos/ansible-role-potos_firstboot) - Role to run handle firstboot questions in Potos Linux Clients. (1 week ago)
 
 #### 🌱 My latest projects
 
