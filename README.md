@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 days ago)
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) - A collection of reusable workflows for the bareos repositories. (3 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (1 week ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 week ago)
-- [projectpotos/ansible-role-potos_firstboot](https://github.com/projectpotos/ansible-role-potos_firstboot) - Role to run handle firstboot questions in Potos Linux Clients. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support signed ssh certificates from openbao](https://github.com/adfinis/bssh/pull/17) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
+- [feat: add auth functions for signed certificates](https://github.com/adfinis/bastion-go/pull/21) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (today)
 - [ci: fix galaxy upload job maybe this time](https://github.com/adfinis/ansible-role-the_bastion/pull/36) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (3 days ago)
 - [ci: fix galaxy upload job](https://github.com/adfinis/ansible-role-the_bastion/pull/35) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (3 days ago)
 - [feat: support different upgrade modes and custom files](https://github.com/adfinis/ansible-role-the_bastion/pull/34) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (5 days ago)
-- [ci: one publish pipeline only without PAT](https://github.com/adfinis/ansible-role-the_bastion/pull/33) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (5 days ago)
-- [feat: pin images in COPY instructions](https://github.com/azu/dockerfile-pin/pull/47) on [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) (1 week ago)
 
 #### ⭐ Recent Stars
 
