@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: support more auth combination and align naming](https://github.com/adfinis/bastion-go/pull/22) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (today)
 - [feat: support signed ssh certificates from openbao](https://github.com/adfinis/bssh/pull/17) on [adfinis/bssh](https://github.com/adfinis/bssh) (1 day ago)
 - [feat: add auth functions for signed certificates](https://github.com/adfinis/bastion-go/pull/21) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 day ago)
 - [ci: fix galaxy upload job maybe this time](https://github.com/adfinis/ansible-role-the_bastion/pull/36) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (4 days ago)
 - [ci: fix galaxy upload job](https://github.com/adfinis/ansible-role-the_bastion/pull/35) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (4 days ago)
-- [feat: support different upgrade modes and custom files](https://github.com/adfinis/ansible-role-the_bastion/pull/34) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (6 days ago)
 
 #### ⭐ Recent Stars
 
