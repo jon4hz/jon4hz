@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/docs](https://github.com/projectpotos/docs) -  (today)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (today)
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 day ago)
 
 #### 🌱 My latest projects
 
