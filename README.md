@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: make autocompletion work with hardware backed keys](https://github.com/adfinis/bssh/pull/19) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
 - [chore: remove test for removed config option](https://github.com/adfinis/ansible-role-the_bastion/pull/39) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [fix: aquire lock before running ansible-inventory](https://github.com/ovh/the-bastion-ansible-wrapper/pull/32) on [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) (1 day ago)
 - [chore: fix dependencies from copywrite](https://github.com/adfinis/terraform-provider-bastion/pull/67) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 - [feat: support signed ssh certificates](https://github.com/adfinis/terraform-provider-bastion/pull/66) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
-- [feat!: support more auth combination and align naming](https://github.com/adfinis/bastion-go/pull/22) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 day ago)
 
 #### ⭐ Recent Stars
 
