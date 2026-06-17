@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 day ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (2 days ago)
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) - A collection of reusable workflows for the bareos repositories. (5 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: remove test for removed config option](https://github.com/adfinis/ansible-role-the_bastion/pull/39) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [fix: aquire lock before running ansible-inventory](https://github.com/ovh/the-bastion-ansible-wrapper/pull/32) on [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) (1 day ago)
 - [chore: fix dependencies from copywrite](https://github.com/adfinis/terraform-provider-bastion/pull/67) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 - [feat: support signed ssh certificates](https://github.com/adfinis/terraform-provider-bastion/pull/66) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 - [feat!: support more auth combination and align naming](https://github.com/adfinis/bastion-go/pull/22) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (1 day ago)
-- [feat: support signed ssh certificates from openbao](https://github.com/adfinis/bssh/pull/17) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
 
 #### ⭐ Recent Stars
 
