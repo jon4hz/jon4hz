@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), today) - SSH for The Bastion with fancy autocompletion
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.5.5](https://github.com/openbao/openbao/releases/tag/v2.5.5), 1 day ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.0), 2 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.0](https://github.com/adfinis/bastion-go/releases/tag/v0.5.0), 2 days ago) - Golang client for The Bastion
-- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.0](https://github.com/adfinis/bssh/releases/tag/v0.2.0), 3 days ago) - SSH for The Bastion with fancy autocompletion
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.15.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.15.0), 5 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
