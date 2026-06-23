@@ -10,7 +10,7 @@
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (4 days ago)
 - [projectpotos/docs](https://github.com/projectpotos/docs) -  (5 days ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (6 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (6 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (6 days ago)
 
 #### 🌱 My latest projects
 
