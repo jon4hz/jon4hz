@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (today)
-- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (3 days ago)
-- [projectpotos/docs](https://github.com/projectpotos/docs) -  (4 days ago)
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (5 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (5 days ago)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (1 day ago)
+- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (4 days ago)
+- [projectpotos/docs](https://github.com/projectpotos/docs) -  (5 days ago)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (6 days ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,23 +22,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 4 days ago) - SSH for The Bastion with fancy autocompletion
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.0), 6 days ago) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.0](https://github.com/adfinis/bastion-go/releases/tag/v0.5.0), 6 days ago) - Golang client for The Bastion
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 1 day ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 5 days ago) - SSH for The Bastion with fancy autocompletion
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.0), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.0](https://github.com/adfinis/bastion-go/releases/tag/v0.5.0), 1 week ago) - Golang client for The Bastion
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.15.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.15.0), 1 week ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 
 #### 🔨 My recent Pull Requests
 
-- [refactor: implement iso build based on fedora&#43;kickstart](https://github.com/projectpotos/potos-iso-builder/pull/59) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (5 days ago)
-- [fix: make autocompletion work with hardware backed keys](https://github.com/adfinis/bssh/pull/19) on [adfinis/bssh](https://github.com/adfinis/bssh) (5 days ago)
-- [chore: remove test for removed config option](https://github.com/adfinis/ansible-role-the_bastion/pull/39) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (5 days ago)
-- [fix: aquire lock before running ansible-inventory](https://github.com/ovh/the-bastion-ansible-wrapper/pull/32) on [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) (6 days ago)
-- [chore: fix dependencies from copywrite](https://github.com/adfinis/terraform-provider-bastion/pull/67) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (6 days ago)
+- [refactor: implement iso build based on fedora&#43;kickstart](https://github.com/projectpotos/potos-iso-builder/pull/59) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (6 days ago)
+- [fix: make autocompletion work with hardware backed keys](https://github.com/adfinis/bssh/pull/19) on [adfinis/bssh](https://github.com/adfinis/bssh) (6 days ago)
+- [chore: remove test for removed config option](https://github.com/adfinis/ansible-role-the_bastion/pull/39) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (6 days ago)
+- [fix: aquire lock before running ansible-inventory](https://github.com/ovh/the-bastion-ansible-wrapper/pull/32) on [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) (1 week ago)
+- [chore: fix dependencies from copywrite](https://github.com/adfinis/terraform-provider-bastion/pull/67) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) - Using Ansible through The Bastion (6 days ago)
+- [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) - Using Ansible through The Bastion (1 week ago)
 - [Zverik/every_door](https://github.com/Zverik/every_door) - A dedicated app for collecting thousands of POI for OpenStreetMap (1 week ago)
 - [radiorabe/klangbecken](https://github.com/radiorabe/klangbecken) - Klangbecken: The RaBe Endless Music Player (1 week ago)
 - [keylime/keylime](https://github.com/keylime/keylime) - A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT (1 week ago)
