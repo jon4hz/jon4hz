@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc1](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc1), today) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.11](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.11), 1 day ago) - Jellystat is a free and open source Statistics App for Jellyfin
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 2 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 6 days ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.0), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.0](https://github.com/adfinis/bastion-go/releases/tag/v0.5.0), 1 week ago) - Golang client for The Bastion
 
 #### 🔨 My recent Pull Requests
 
