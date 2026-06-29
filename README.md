@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (today)
 - [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (1 week ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 week ago)
 - [projectpotos/docs](https://github.com/projectpotos/docs) -  (1 week ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (1 week ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 week ago)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (1 week ago)
 
 #### 🌱 My latest projects
 
