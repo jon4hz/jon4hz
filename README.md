@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (6 days ago)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (1 week ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 week ago)
 - [projectpotos/docs](https://github.com/projectpotos/docs) -  (1 week ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (1 week ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.13](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.13), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc1](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc1), 4 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.11](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.11), 5 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.13](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.13), 4 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc1](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc1), 5 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) ([1.1.11](https://github.com/CyferShepard/Jellystat/releases/tag/1.1.11), 6 days ago) - Jellystat is a free and open source Statistics App for Jellyfin
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 1 week ago) - SSH for The Bastion with fancy autocompletion
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [keylime/rust-keylime](https://github.com/keylime/rust-keylime) - Rust implementation of the keylime agent (4 days ago)
+- [keylime/rust-keylime](https://github.com/keylime/rust-keylime) - Rust implementation of the keylime agent (5 days ago)
 - [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) - Using Ansible through The Bastion (1 week ago)
 - [Zverik/every_door](https://github.com/Zverik/every_door) - A dedicated app for collecting thousands of POI for OpenStreetMap (2 weeks ago)
 - [radiorabe/klangbecken](https://github.com/radiorabe/klangbecken) - Klangbecken: The RaBe Endless Music Player (2 weeks ago)
