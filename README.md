@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (today)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (2 days ago)
 - [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (1 week ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 week ago)
 - [projectpotos/docs](https://github.com/projectpotos/docs) -  (1 week ago)
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself!
 - [jon4hz/ansible-role-potos_template](https://github.com/jon4hz/ansible-role-potos_template) - Template repository for Potos ansible roles.
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) - 
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) - 
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
-- [jon4hz/noaiinmymetal.com](https://github.com/jon4hz/noaiinmymetal.com) - 
 
 #### 🔭 Latest releases I've contributed to
 
