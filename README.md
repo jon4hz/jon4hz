@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc2](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc2), 2 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.13](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.13), 6 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 1 week ago) - SSH for The Bastion with fancy autocompletion
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.0](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.0), 2 weeks ago) - Terraform/OpenTofu Provider for The Bastion
 
 #### 🔨 My recent Pull Requests
 
