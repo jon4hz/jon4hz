@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [benkuper/FlowtoysConnectBridge](https://github.com/benkuper/FlowtoysConnectBridge) - ESP32/nRF24 based OSC/Serial bridge to Flowtoys Connect Ecosystem (today)
 - [keylime/rust-keylime](https://github.com/keylime/rust-keylime) - Rust implementation of the keylime agent (1 week ago)
 - [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) - Using Ansible through The Bastion (2 weeks ago)
 - [Zverik/every_door](https://github.com/Zverik/every_door) - A dedicated app for collecting thousands of POI for OpenStreetMap (2 weeks ago)
 - [radiorabe/klangbecken](https://github.com/radiorabe/klangbecken) - Klangbecken: The RaBe Endless Music Player (2 weeks ago)
-- [keylime/keylime](https://github.com/keylime/keylime) - A CNCF Project to Bootstrap &amp; Maintain Trust on the Edge / Cloud and IoT (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
