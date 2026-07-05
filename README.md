@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.16](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.16), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc3](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc3), 2 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 4 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
