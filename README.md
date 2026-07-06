@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Potos Installation Boot Image (today)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (today)
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (5 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (2 weeks ago)
-- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) ([v4.0.0-rc.1](https://github.com/projectpotos/potos-iso-builder/releases/tag/v4.0.0-rc.1), today) - Potos Installation Boot Image
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.24.00](https://github.com/ovh/the-bastion/releases/tag/v3.24.00), today) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 2 weeks ago) - SSH for The Bastion with fancy autocompletion
 
 #### 🔨 My recent Pull Requests
 
