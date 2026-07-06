@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (today)
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (5 days ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
 - [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (2 weeks ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (2 weeks ago)
-- [projectpotos/docs](https://github.com/projectpotos/docs) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: rename fqcn, modules and roles](https://github.com/projectpotos/ansible-collection-potos.base/pull/12) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
+- [Firstboot steppies](https://github.com/projectpotos/ansible-collection-potos.base/pull/10) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: aquire lock before running ansible-inventory](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/1) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (3 days ago)
 - [refactor: implement iso build based on fedora&#43;kickstart](https://github.com/projectpotos/potos-iso-builder/pull/59) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (2 weeks ago)
 - [fix: make autocompletion work with hardware backed keys](https://github.com/adfinis/bssh/pull/19) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 weeks ago)
-- [chore: remove test for removed config option](https://github.com/adfinis/ansible-role-the_bastion/pull/39) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
-- [fix: aquire lock before running ansible-inventory](https://github.com/ovh/the-bastion-ansible-wrapper/pull/32) on [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
