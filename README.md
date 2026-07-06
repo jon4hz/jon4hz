@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (4 days ago)
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (6 days ago)
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (1 week ago)
+- [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (5 days ago)
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (2 weeks ago)
 - [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (2 weeks ago)
 - [projectpotos/docs](https://github.com/projectpotos/docs) -  (2 weeks ago)
 
@@ -22,15 +22,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc3](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc3), 2 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 4 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc3](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc3), 3 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 2 weeks ago) - SSH for The Bastion with fancy autocompletion
 
 #### 🔨 My recent Pull Requests
 
-- [fix: aquire lock before running ansible-inventory](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/1) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (2 days ago)
+- [fix: aquire lock before running ansible-inventory](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/1) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (3 days ago)
 - [refactor: implement iso build based on fedora&#43;kickstart](https://github.com/projectpotos/potos-iso-builder/pull/59) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (2 weeks ago)
 - [fix: make autocompletion work with hardware backed keys](https://github.com/adfinis/bssh/pull/19) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 weeks ago)
 - [chore: remove test for removed config option](https://github.com/adfinis/ansible-role-the_bastion/pull/39) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [benkuper/FlowtoysConnectBridge](https://github.com/benkuper/FlowtoysConnectBridge) - ESP32/nRF24 based OSC/Serial bridge to Flowtoys Connect Ecosystem (4 days ago)
+- [benkuper/FlowtoysConnectBridge](https://github.com/benkuper/FlowtoysConnectBridge) - ESP32/nRF24 based OSC/Serial bridge to Flowtoys Connect Ecosystem (5 days ago)
 - [keylime/rust-keylime](https://github.com/keylime/rust-keylime) - Rust implementation of the keylime agent (1 week ago)
 - [ovh/the-bastion-ansible-wrapper](https://github.com/ovh/the-bastion-ansible-wrapper) - Using Ansible through The Bastion (2 weeks ago)
 - [Zverik/every_door](https://github.com/Zverik/every_door) - A dedicated app for collecting thousands of POI for OpenStreetMap (3 weeks ago)
