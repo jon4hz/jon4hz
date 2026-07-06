@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.24.00](https://github.com/ovh/the-bastion/releases/tag/v3.24.00), today) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.23.99-rc3](https://github.com/ovh/the-bastion/releases/tag/v3.23.99-rc3), 3 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.1](https://github.com/adfinis/bssh/releases/tag/v0.2.1), 2 weeks ago) - SSH for The Bastion with fancy autocompletion
