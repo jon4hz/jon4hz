@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (today)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Potos Installation Boot Image (1 day ago)
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (1 day ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) -  (2 days ago)
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (1 week ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
