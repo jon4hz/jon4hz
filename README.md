@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Potos Installation Boot Image (today)
 - [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Potos Installation Boot Image (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (1 week ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(steps/script/run): output script stderr](https://github.com/projectpotos/ansible-collection-potos.base/pull/15) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: correctly apply short name overrides](https://github.com/projectpotos/ansible-collection-potos.base/pull/14) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: correctly apply short name overrides](https://github.com/projectpotos/potos-iso-builder/pull/76) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [fix: show error if firstboot fails](https://github.com/projectpotos/potos-iso-builder/pull/75) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [refactor: rename fqcn, modules and roles](https://github.com/projectpotos/ansible-collection-potos.base/pull/12) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
-- [Firstboot steppies](https://github.com/projectpotos/ansible-collection-potos.base/pull/10) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 
 #### ⭐ Recent Stars
 
