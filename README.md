@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 - [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (today)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (1 week ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ refactor: hardcode potos in paths, files and unit names @jon4hz](https://github.com/projectpotos/ansible-collection-potos.base/pull/16) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [feat(steps/script/run): output script stderr](https://github.com/projectpotos/ansible-collection-potos.base/pull/15) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [fix: correctly apply short name overrides](https://github.com/projectpotos/ansible-collection-potos.base/pull/14) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [fix: correctly apply short name overrides](https://github.com/projectpotos/potos-iso-builder/pull/76) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
-- [fix: show error if firstboot fails](https://github.com/projectpotos/potos-iso-builder/pull/75) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
+- [chore: bump image to 4.0.0-rc.2](https://github.com/projectpotos/potos-iso-builder-template/pull/1) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (today)
+- [refactor: hardcode potos in paths, filenames, etc](https://github.com/projectpotos/potos-iso-builder/pull/78) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
+- [fix: call yad as ansible module](https://github.com/projectpotos/potos-iso-builder/pull/77) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
+- [chore: readme and all_green check](https://github.com/projectpotos/docker-fedora44-ansible/pull/1) on [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) (today)
+- [chore: readme and all_green check](https://github.com/geerlingguy/docker-fedora43-ansible/pull/3) on [geerlingguy/docker-fedora43-ansible](https://github.com/geerlingguy/docker-fedora43-ansible) (today)
 
 #### ⭐ Recent Stars
 
