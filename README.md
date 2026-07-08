@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) -  (today)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Potos Installation Boot Image (today)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself! (1 week ago)
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses. (1 week ago)
 
@@ -23,18 +23,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.24.01](https://github.com/ovh/the-bastion/releases/tag/v3.24.01), today) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) ([v4.0.0-rc.1](https://github.com/projectpotos/potos-iso-builder/releases/tag/v4.0.0-rc.1), 2 days ago) - Potos Installation Boot Image
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) ([v4.0.0-rc.1](https://github.com/projectpotos/potos-iso-builder/releases/tag/v4.0.0-rc.1), 2 days ago) - Custom installation ISO builder for potos linux clients.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
 
+- [ refactor: hardcode potos in paths, files and unit names @jon4hz](https://github.com/projectpotos/ansible-collection-potos.base/pull/16) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat(steps/script/run): output script stderr](https://github.com/projectpotos/ansible-collection-potos.base/pull/15) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: correctly apply short name overrides](https://github.com/projectpotos/ansible-collection-potos.base/pull/14) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: correctly apply short name overrides](https://github.com/projectpotos/potos-iso-builder/pull/76) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [fix: show error if firstboot fails](https://github.com/projectpotos/potos-iso-builder/pull/75) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
-- [refactor: rename fqcn, modules and roles](https://github.com/projectpotos/ansible-collection-potos.base/pull/12) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 
 #### ⭐ Recent Stars
 
