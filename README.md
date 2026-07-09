@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.23), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) ([v4.0.0-rc.2](https://github.com/projectpotos/potos-iso-builder/releases/tag/v4.0.0-rc.2), 1 day ago) - Custom installation ISO builder for potos linux clients.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.24.01](https://github.com/ovh/the-bastion/releases/tag/v3.24.01), 1 day ago) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.20](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.20), 4 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0-beta20260622](https://github.com/openbao/openbao/releases/tag/v2.6.0-beta20260622), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
