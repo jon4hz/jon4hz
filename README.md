@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater (today)
+- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (today)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (1 day ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (1 day ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 day ago)
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -23,18 +23,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) ([v1.1.9](https://github.com/jon4hz/flowlix/releases/tag/v1.1.9), today) - Linux builds for the FlowtoysUpdater
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.23), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.25](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.25), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) ([v4.0.0-rc.2](https://github.com/projectpotos/potos-iso-builder/releases/tag/v4.0.0-rc.2), 1 day ago) - Custom installation ISO builder for potos linux clients.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.24.01](https://github.com/ovh/the-bastion/releases/tag/v3.24.01), 1 day ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
+- [feat: slop](https://github.com/adfinis/flappy-sez/pull/42) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
 - [fix(ansible-pull): dont grep for fails in log](https://github.com/projectpotos/ansible-collection-potos.base/pull/18) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [fix(steps/openbao/login): copy url works again](https://github.com/projectpotos/ansible-collection-potos.base/pull/17) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [feat: control what happens after successfull firstboot](https://github.com/projectpotos/potos-iso-builder/pull/79) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (1 day ago)
 - [chore: bump image to 4.0.0-rc.2](https://github.com/projectpotos/potos-iso-builder-template/pull/1) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (1 day ago)
-- [refactor: hardcode potos in paths, filenames, etc](https://github.com/projectpotos/potos-iso-builder/pull/78) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (1 day ago)
 
 #### ⭐ Recent Stars
 
