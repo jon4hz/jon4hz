@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
+- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (today)
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater (1 day ago)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 day ago)
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (2 days ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add docs to filter modules](https://github.com/projectpotos/ansible-collection-potos.base/pull/19) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: slop](https://github.com/adfinis/flappy-sez/pull/42) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 day ago)
 - [fix(ansible-pull): dont grep for fails in log](https://github.com/projectpotos/ansible-collection-potos.base/pull/18) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 - [fix(steps/openbao/login): copy url works again](https://github.com/projectpotos/ansible-collection-potos.base/pull/17) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 - [feat: control what happens after successfull firstboot](https://github.com/projectpotos/potos-iso-builder/pull/79) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (2 days ago)
-- [chore: bump image to 4.0.0-rc.2](https://github.com/projectpotos/potos-iso-builder-template/pull/1) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (2 days ago)
 
 #### ⭐ Recent Stars
 
