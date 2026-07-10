@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (today)
-- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 day ago)
+- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: use projectpotos/actions workflows](https://github.com/projectpotos/ansible-collection-potos.roles/pull/8) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
+- [ci: use projectpotos/actions workflows](https://github.com/projectpotos/ansible-collection-potos.base/pull/22) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
+- [ci: use projectpotos/actions workflows](https://github.com/projectpotos/docker-fedora44-ansible/pull/2) on [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) (today)
 - [ci: use projectpotos/actions workflows](https://github.com/projectpotos/potos-iso-builder/pull/85) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [fix: make sure shim doesn&#39;t overwrite our fake grub](https://github.com/projectpotos/potos-iso-builder/pull/84) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
-- [chore: release v0.2.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/21) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [fix: make sure base collection gets updated as well](https://github.com/projectpotos/ansible-collection-potos.base/pull/20) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [chore: add docs to filter modules](https://github.com/projectpotos/ansible-collection-potos.base/pull/19) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 
 #### ⭐ Recent Stars
 
