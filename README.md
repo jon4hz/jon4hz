@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (today)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 day ago)
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater (1 day ago)
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.2.0](https://github.com/projectpotos/actions/releases/tag/v0.2.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) ([v1.1.9](https://github.com/jon4hz/flowlix/releases/tag/v1.1.9), 1 day ago) - Linux builds for the FlowtoysUpdater
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.25](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.25), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) ([v4.0.0-rc.2](https://github.com/projectpotos/potos-iso-builder/releases/tag/v4.0.0-rc.2), 2 days ago) - Custom installation ISO builder for potos linux clients.
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.24.01](https://github.com/ovh/the-bastion/releases/tag/v3.24.01), 2 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-07](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-07), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release v0.2.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/21) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: make sure base collection gets updated as well](https://github.com/projectpotos/ansible-collection-potos.base/pull/20) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [chore: add docs to filter modules](https://github.com/projectpotos/ansible-collection-potos.base/pull/19) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: slop](https://github.com/adfinis/flappy-sez/pull/42) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (1 day ago)
 - [fix(ansible-pull): dont grep for fails in log](https://github.com/projectpotos/ansible-collection-potos.base/pull/18) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
-- [fix(steps/openbao/login): copy url works again](https://github.com/projectpotos/ansible-collection-potos.base/pull/17) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 
 #### ⭐ Recent Stars
 
