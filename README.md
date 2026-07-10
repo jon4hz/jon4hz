@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release v0.1.0](https://github.com/projectpotos/ansible-collection-potos.roles/pull/9) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [ci: use projectpotos/actions workflows](https://github.com/projectpotos/ansible-collection-potos.roles/pull/8) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [ci: use projectpotos/actions workflows](https://github.com/projectpotos/ansible-collection-potos.base/pull/22) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ci: use projectpotos/actions workflows](https://github.com/projectpotos/docker-fedora44-ansible/pull/2) on [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) (today)
 - [ci: use projectpotos/actions workflows](https://github.com/projectpotos/potos-iso-builder/pull/85) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
-- [fix: make sure shim doesn&#39;t overwrite our fake grub](https://github.com/projectpotos/potos-iso-builder/pull/84) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 
 #### ⭐ Recent Stars
 
