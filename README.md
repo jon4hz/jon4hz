@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (1 day ago)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
-- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (2 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
+- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (2 days ago)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
+- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
 
 #### 🌱 My latest projects
 
