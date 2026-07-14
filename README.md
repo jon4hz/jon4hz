@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
 - [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (3 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (4 days ago)
-- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (4 days ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (4 days ago)
 
 #### 🌱 My latest projects
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: document ensia section 4.1.6](https://github.com/radiorabe/actions/pull/251) on [radiorabe/actions](https://github.com/radiorabe/actions) (today)
+- [docs: remove duplicated section](https://github.com/radiorabe/actions/pull/252) on [radiorabe/actions](https://github.com/radiorabe/actions) (today)
+- [docs: document ENISA section 4.1.6](https://github.com/radiorabe/actions/pull/251) on [radiorabe/actions](https://github.com/radiorabe/actions) (today)
 - [ci: use ansible-content-actions and zizmor lint everything](https://github.com/adfinis/adfinis.facts/pull/6) on [adfinis/adfinis.facts](https://github.com/adfinis/adfinis.facts) (today)
 - [fix!: ldap cache must be user writable](https://github.com/adfinis/ansible-role-the_bastion/pull/46) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
 - [chore: release v0.1.0](https://github.com/projectpotos/ansible-collection-potos.roles/pull/9) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (4 days ago)
-- [ci: use projectpotos/actions workflows](https://github.com/projectpotos/ansible-collection-potos.roles/pull/8) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (4 days ago)
 
 #### ⭐ Recent Stars
 
