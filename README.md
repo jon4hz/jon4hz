@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 - [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (3 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (4 days ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (4 days ago)
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.3.0](https://github.com/projectpotos/actions/releases/tag/v0.3.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0](https://github.com/openbao/openbao/releases/tag/v2.6.0), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta6](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta6), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.10.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.10.0), 1 day ago) - Ansible role to install and configure The Bastion
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.2.2](https://github.com/projectpotos/actions/releases/tag/v0.2.2), 4 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) ([v1.1.9](https://github.com/jon4hz/flowlix/releases/tag/v1.1.9), 5 days ago) - Linux builds for the FlowtoysUpdater
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add smoke tests for ruff, hadolint and shellcheck](https://github.com/projectpotos/actions/pull/12) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
+- [docs: rework more docs](https://github.com/projectpotos/actions/pull/11) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
+- [ci: run zizmor smoke tests with pedantic persona](https://github.com/radiorabe/actions/pull/254) on [radiorabe/actions](https://github.com/radiorabe/actions) (today)
 - [docs: remove duplicated section](https://github.com/radiorabe/actions/pull/252) on [radiorabe/actions](https://github.com/radiorabe/actions) (today)
 - [docs: document ENISA section 4.1.6](https://github.com/radiorabe/actions/pull/251) on [radiorabe/actions](https://github.com/radiorabe/actions) (today)
-- [ci: use ansible-content-actions and zizmor lint everything](https://github.com/adfinis/adfinis.facts/pull/6) on [adfinis/adfinis.facts](https://github.com/adfinis/adfinis.facts) (today)
-- [fix!: ldap cache must be user writable](https://github.com/adfinis/ansible-role-the_bastion/pull/46) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
-- [chore: release v0.1.0](https://github.com/projectpotos/ansible-collection-potos.roles/pull/9) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (4 days ago)
 
 #### ⭐ Recent Stars
 
