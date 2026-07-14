@@ -38,7 +38,7 @@
 
 #### ⭐ Recent Stars
 
-- [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3) streams (today)
+- [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (today)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (5 days ago)
 - [Banh-Canh/songbird](https://github.com/Banh-Canh/songbird) - Evaluate network policies configuration to check for connectivity  (6 days ago)
 - [benkuper/FlowtoysConnectBridge](https://github.com/benkuper/FlowtoysConnectBridge) - ESP32/nRF24 based OSC/Serial bridge to Flowtoys Connect Ecosystem (1 week ago)
