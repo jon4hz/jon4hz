@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.27](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.27), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta6](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta6), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.10.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.10.0), 1 day ago) - Ansible role to install and configure The Bastion
 - [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.2.2](https://github.com/projectpotos/actions/releases/tag/v0.2.2), 4 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) ([v1.1.9](https://github.com/jon4hz/flowlix/releases/tag/v1.1.9), 5 days ago) - Linux builds for the FlowtoysUpdater
