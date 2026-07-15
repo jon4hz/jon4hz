@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [cpeoples/ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) - 🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000&#43; rules across 30&#43; categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed. (today)
 - [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (1 day ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (6 days ago)
 - [Banh-Canh/songbird](https://github.com/Banh-Canh/songbird) - Evaluate network policies configuration to check for connectivity  (1 week ago)
 - [benkuper/FlowtoysConnectBridge](https://github.com/benkuper/FlowtoysConnectBridge) - ESP32/nRF24 based OSC/Serial bridge to Flowtoys Connect Ecosystem (2 weeks ago)
-- [keylime/rust-keylime](https://github.com/keylime/rust-keylime) - Rust implementation of the keylime agent (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
