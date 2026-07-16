@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater (1 day ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (1 day ago)
+- [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater (1 day ago)
 - [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (1 day ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (3 days ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: use projectpotos.base.uki to create UKIs](https://github.com/projectpotos/potos-iso-builder/pull/92) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
+- [feat(roles): implement role to configure UKIs](https://github.com/projectpotos/ansible-collection-potos.base/pull/37) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ci: add smoke tests for ruff, hadolint and shellcheck](https://github.com/projectpotos/actions/pull/12) on [projectpotos/actions](https://github.com/projectpotos/actions) (2 days ago)
 - [docs: rework more docs](https://github.com/projectpotos/actions/pull/11) on [projectpotos/actions](https://github.com/projectpotos/actions) (2 days ago)
 - [ci: run zizmor smoke tests with pedantic persona](https://github.com/radiorabe/actions/pull/254) on [radiorabe/actions](https://github.com/radiorabe/actions) (2 days ago)
-- [docs: remove duplicated section](https://github.com/radiorabe/actions/pull/252) on [radiorabe/actions](https://github.com/radiorabe/actions) (2 days ago)
-- [docs: document ENISA section 4.1.6](https://github.com/radiorabe/actions/pull/251) on [radiorabe/actions](https://github.com/radiorabe/actions) (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (today)
 - [cpeoples/ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) - 🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000&#43; rules across 30&#43; categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed. (1 day ago)
 - [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (2 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [Banh-Canh/songbird](https://github.com/Banh-Canh/songbird) - Evaluate network policies configuration to check for connectivity  (1 week ago)
-- [benkuper/FlowtoysConnectBridge](https://github.com/benkuper/FlowtoysConnectBridge) - ESP32/nRF24 based OSC/Serial bridge to Flowtoys Connect Ecosystem (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
