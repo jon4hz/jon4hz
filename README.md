@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: release v0.3.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/38) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: use projectpotos.base.uki to create UKIs](https://github.com/projectpotos/potos-iso-builder/pull/92) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [feat(roles): implement role to configure UKIs](https://github.com/projectpotos/ansible-collection-potos.base/pull/37) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ci: add smoke tests for ruff, hadolint and shellcheck](https://github.com/projectpotos/actions/pull/12) on [projectpotos/actions](https://github.com/projectpotos/actions) (2 days ago)
 - [docs: rework more docs](https://github.com/projectpotos/actions/pull/11) on [projectpotos/actions](https://github.com/projectpotos/actions) (2 days ago)
-- [ci: run zizmor smoke tests with pedantic persona](https://github.com/radiorabe/actions/pull/254) on [radiorabe/actions](https://github.com/radiorabe/actions) (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (today)
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (today)
 - [cpeoples/ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) - 🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000&#43; rules across 30&#43; categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed. (1 day ago)
 - [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (2 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
-- [Banh-Canh/songbird](https://github.com/Banh-Canh/songbird) - Evaluate network policies configuration to check for connectivity  (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
