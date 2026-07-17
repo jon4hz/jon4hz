@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.base/pull/39) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: add shellcheck-jinja action](https://github.com/projectpotos/actions/pull/15) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [chore: release v0.3.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/38) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [feat: use projectpotos.base.uki to create UKIs](https://github.com/projectpotos/potos-iso-builder/pull/92) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (1 day ago)
 - [feat(roles): implement role to configure UKIs](https://github.com/projectpotos/ansible-collection-potos.base/pull/37) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
-- [ci: add smoke tests for ruff, hadolint and shellcheck](https://github.com/projectpotos/actions/pull/12) on [projectpotos/actions](https://github.com/projectpotos/actions) (3 days ago)
 
 #### ⭐ Recent Stars
 
