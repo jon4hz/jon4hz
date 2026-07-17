@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate presets for all potos repositories. (today)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (today)
+- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate presets for all potos repositories. (today)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (today)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ docs: update docs with renovate](https://github.com/projectpotos/actions/pull/20) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/potos-iso-builder/pull/98) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.roles/pull/13) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.base/pull/39) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: add shellcheck-jinja action](https://github.com/projectpotos/actions/pull/15) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
-- [chore: release v0.3.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/38) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 
 #### ⭐ Recent Stars
 
