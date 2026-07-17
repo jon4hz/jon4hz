@@ -7,9 +7,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 day ago)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (2 days ago)
 - [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (2 days ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.4.0](https://github.com/projectpotos/actions/releases/tag/v0.4.0), 3 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.5.0](https://github.com/projectpotos/actions/releases/tag/v0.5.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0](https://github.com/openbao/openbao/releases/tag/v2.6.0), 3 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta6](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta6), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.10.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.10.0), 4 days ago) - Ansible role to install and configure The Bastion
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add shellcheck-jinja action](https://github.com/projectpotos/actions/pull/15) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [chore: release v0.3.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/38) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [feat: use projectpotos.base.uki to create UKIs](https://github.com/projectpotos/potos-iso-builder/pull/92) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (1 day ago)
 - [feat(roles): implement role to configure UKIs](https://github.com/projectpotos/ansible-collection-potos.base/pull/37) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [ci: add smoke tests for ruff, hadolint and shellcheck](https://github.com/projectpotos/actions/pull/12) on [projectpotos/actions](https://github.com/projectpotos/actions) (3 days ago)
-- [docs: rework more docs](https://github.com/projectpotos/actions/pull/11) on [projectpotos/actions](https://github.com/projectpotos/actions) (3 days ago)
 
 #### ⭐ Recent Stars
 
