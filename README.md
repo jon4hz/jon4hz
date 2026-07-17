@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(steps/openbao/login): make repo sslcacert optional](https://github.com/projectpotos/ansible-collection-potos.base/pull/55) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ docs: update docs with renovate](https://github.com/projectpotos/actions/pull/20) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/potos-iso-builder/pull/98) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.roles/pull/13) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.base/pull/39) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [feat: add shellcheck-jinja action](https://github.com/projectpotos/actions/pull/15) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 
 #### ⭐ Recent Stars
 
