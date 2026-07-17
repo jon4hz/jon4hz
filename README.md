@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing. (today)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
-- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (today)
-- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate presets for all potos repositories. (today)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (today)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(yad): escape pango markup in error messages](https://github.com/projectpotos/ansible-collection-potos.base/pull/56) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix(steps/openbao/login): make repo sslcacert optional](https://github.com/projectpotos/ansible-collection-potos.base/pull/55) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ docs: update docs with renovate](https://github.com/projectpotos/actions/pull/20) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/potos-iso-builder/pull/98) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.roles/pull/13) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
-- [chore: implement shellcheck-jinja linting](https://github.com/projectpotos/ansible-collection-potos.base/pull/39) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 
 #### ⭐ Recent Stars
 
