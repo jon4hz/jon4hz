@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta7](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta7), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.1](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.1), 1 day ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.5.0](https://github.com/projectpotos/actions/releases/tag/v0.5.0), 1 day ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.0](https://github.com/openbao/openbao/releases/tag/v2.6.0), 4 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta6](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta6), 4 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.10.0](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.10.0), 5 days ago) - Ansible role to install and configure The Bastion
 
 #### 🔨 My recent Pull Requests
