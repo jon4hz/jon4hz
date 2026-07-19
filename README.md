@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta8), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.5-beta11](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.5-beta11), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.5.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.5.0.0), today) - A Jellyfin plugin to inject Javascript
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.1](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.1), 2 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.5.0](https://github.com/projectpotos/actions/releases/tag/v0.5.0), 2 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
