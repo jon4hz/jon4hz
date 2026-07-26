@@ -9,8 +9,8 @@
 - [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (6 days ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (6 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (6 days ago)
-- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (1 week ago)
 - [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing. (1 week ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 week ago)
 
 #### 🌱 My latest projects
 
