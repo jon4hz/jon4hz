@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.28](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.28), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.28](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.28), 6 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.44.3](https://github.com/radiorabe/actions/releases/tag/v0.44.3), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.5.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.5.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.1](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.1), 1 week ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
@@ -41,7 +41,7 @@
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 week ago)
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (1 week ago)
 - [cpeoples/ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) - 🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000&#43; rules across 30&#43; categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed. (1 week ago)
-- [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (1 week ago)
+- [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (2 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
 
 #### 📫 How to reach me
