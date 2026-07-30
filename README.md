@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: group updates by manager and weekly updates only](https://github.com/projectpotos/renovate-config/pull/2) on [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) (today)
 - [chore: implement molecule tests](https://github.com/adfinis/ansible-collection-icinga2/pull/1) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [feat: support CSR auto-signing](https://github.com/adfinis/ansible-role-icinga2_client/pull/34) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: fix typo](https://github.com/adfinis/ansible-role-icinga2_client/pull/33) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: fix lint errors](https://github.com/adfinis/ansible-role-icinga2_client/pull/32) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
-- [fix: add tag to signing task](https://github.com/adfinis/ansible-role-icinga2_client/pull/31) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 
 #### ⭐ Recent Stars
 
