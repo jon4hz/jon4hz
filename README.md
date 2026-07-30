@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 1 day ago) - A collection of reusable workflows for the bareos repositories.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.29](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.29), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 2 days ago) - A collection of reusable workflows for the bareos repositories.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.29](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.29), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.44.3](https://github.com/radiorabe/actions/releases/tag/v0.44.3), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.5.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.5.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
-- [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 week ago)
-- [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (1 week ago)
+- [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (2 weeks ago)
+- [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (2 weeks ago)
 - [cpeoples/ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) - 🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000&#43; rules across 30&#43; categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed. (2 weeks ago)
 - [samuelb/whirr](https://github.com/samuelb/whirr) - A tiny system-tray player for internet radio (MP3/AAC) streams (2 weeks ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
