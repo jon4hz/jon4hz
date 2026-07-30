@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (today)
+- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (today)
+- [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (1 week ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 week ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 week ago)
-- [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (1 week ago)
-- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate configs for all potos repositories. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: implement molecule tests](https://github.com/adfinis/ansible-collection-icinga2/pull/1) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [feat: support CSR auto-signing](https://github.com/adfinis/ansible-role-icinga2_client/pull/34) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: fix typo](https://github.com/adfinis/ansible-role-icinga2_client/pull/33) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: fix lint errors](https://github.com/adfinis/ansible-role-icinga2_client/pull/32) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [fix: add tag to signing task](https://github.com/adfinis/ansible-role-icinga2_client/pull/31) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
-- [chore: release v0.3.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/61) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 week ago)
 
 #### ⭐ Recent Stars
 
