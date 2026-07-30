@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support CSR auto-signing](https://github.com/adfinis/ansible-role-icinga2_client/pull/34) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: fix typo](https://github.com/adfinis/ansible-role-icinga2_client/pull/33) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: fix lint errors](https://github.com/adfinis/ansible-role-icinga2_client/pull/32) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [fix: add tag to signing task](https://github.com/adfinis/ansible-role-icinga2_client/pull/31) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: release v0.3.0](https://github.com/projectpotos/ansible-collection-potos.base/pull/61) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 week ago)
-- [fix(uki): mutiple pcr signature keys and better key handling](https://github.com/projectpotos/ansible-collection-potos.base/pull/60) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 week ago)
 
 #### ⭐ Recent Stars
 
