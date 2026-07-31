@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate configs for all potos repositories. (today)
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (1 day ago)
+- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (today)
 - [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (1 day ago)
-- [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (1 week ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 week ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 week ago)
 
 #### 🌱 My latest projects
 
