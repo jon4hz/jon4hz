@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix!: remove support for EL 6 and 7](https://github.com/adfinis/ansible-collection-icinga2/pull/5) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
+- [fix!: remove deprecated apt_repository tasks](https://github.com/adfinis/ansible-collection-icinga2/pull/4) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [chore: add CODEOWNERS](https://github.com/adfinis/ansible-collection-icinga2/pull/3) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [fix: dont use facts injected vars](https://github.com/adfinis/ansible-collection-icinga2/pull/2) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [fix: group updates by manager and weekly updates only](https://github.com/projectpotos/renovate-config/pull/2) on [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) (1 day ago)
-- [chore: implement molecule tests](https://github.com/adfinis/ansible-collection-icinga2/pull/1) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (1 day ago)
-- [feat: support CSR auto-signing](https://github.com/adfinis/ansible-role-icinga2_client/pull/34) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (1 day ago)
 
 #### ⭐ Recent Stars
 
