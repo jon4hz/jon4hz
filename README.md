@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (today)
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (today)
+- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate configs for all potos repositories. (today)
+- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (1 day ago)
+- [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (1 day ago)
 - [radiorabe/actions](https://github.com/radiorabe/actions) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤) (1 week ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 week ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 2 days ago) - A collection of reusable workflows for the bareos repositories.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.29](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.29), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 3 days ago) - A collection of reusable workflows for the bareos repositories.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.29](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.29), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.44.3](https://github.com/radiorabe/actions/releases/tag/v0.44.3), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.5.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.5.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 
 #### 🔨 My recent Pull Requests
 
-- [fix: group updates by manager and weekly updates only](https://github.com/projectpotos/renovate-config/pull/2) on [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) (today)
-- [chore: implement molecule tests](https://github.com/adfinis/ansible-collection-icinga2/pull/1) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
-- [feat: support CSR auto-signing](https://github.com/adfinis/ansible-role-icinga2_client/pull/34) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
-- [chore: fix typo](https://github.com/adfinis/ansible-role-icinga2_client/pull/33) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
-- [chore: fix lint errors](https://github.com/adfinis/ansible-role-icinga2_client/pull/32) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
+- [fix: group updates by manager and weekly updates only](https://github.com/projectpotos/renovate-config/pull/2) on [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) (1 day ago)
+- [chore: implement molecule tests](https://github.com/adfinis/ansible-collection-icinga2/pull/1) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (1 day ago)
+- [feat: support CSR auto-signing](https://github.com/adfinis/ansible-role-icinga2_client/pull/34) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (1 day ago)
+- [chore: fix typo](https://github.com/adfinis/ansible-role-icinga2_client/pull/33) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (1 day ago)
+- [chore: fix lint errors](https://github.com/adfinis/ansible-role-icinga2_client/pull/32) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (1 day ago)
 
 #### ⭐ Recent Stars
 
