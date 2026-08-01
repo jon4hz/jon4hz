@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-08](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-08), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.6-rc1](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.6-rc1), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 4 days ago) - A collection of reusable workflows for the bareos repositories.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.44.3](https://github.com/radiorabe/actions/releases/tag/v0.44.3), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([3.5.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/3.5.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 
 #### 🔨 My recent Pull Requests
 
