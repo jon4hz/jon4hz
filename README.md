@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (today)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
+- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (today)
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (today)
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (today)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (today)
-- [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (today)
-- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ chore: improve testing situation](https://github.com/jon4hz/jellysweep/pull/394) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: fix flaky test](https://github.com/adfinis/ansible-collection-icinga2/pull/13) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [chore: add deprecation warning](https://github.com/adfinis/ansible-role-icinga2_agent/pull/41) on [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) (today)
 - [chore: add deprecation warning](https://github.com/adfinis/ansible-role-icinga2_client/pull/35) on [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) (today)
 - [chore: add deprecation warning](https://github.com/adfinis/ansible-role-icinga2_master/pull/141) on [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) (today)
-- [chore: add deprecation warning](https://github.com/adfinis/ansible-role-icinga2_web/pull/47) on [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) (today)
 
 #### ⭐ Recent Stars
 
