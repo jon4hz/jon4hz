@@ -23,10 +23,10 @@
 #### 🔭 Latest releases I've contributed to
 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.7](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.7), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.1](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.1), 3 days ago) - Ansible collection to manage icinga2
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-08](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-08), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 1 week ago) - A collection of reusable workflows for the bareos repositories.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.44.3](https://github.com/radiorabe/actions/releases/tag/v0.44.3), 2 weeks ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 
 #### 🔨 My recent Pull Requests
 
