@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (3 days ago)
-- [adfinis/ansible-role-icinga2_client](https://github.com/adfinis/ansible-role-icinga2_client) - This role is used to configure an icinga2 client (6 days ago)
+- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (6 days ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (6 days ago)
-- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (6 days ago)
 - [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (6 days ago)
+- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (6 days ago)
 
 #### 🌱 My latest projects
 
