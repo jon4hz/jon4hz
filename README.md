@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(operator): support configmap per renovate job](https://github.com/mogenius/renovate-operator/pull/588) on [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) (today)
 - [docs: update contribution guide](https://github.com/adfinis/ansible-collection-icinga2/pull/18) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (4 days ago)
 - [ci: dont run label workflow when closing PR](https://github.com/adfinis/ansible-collection-icinga2/pull/17) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (4 days ago)
 - [ chore: improve testing situation](https://github.com/jon4hz/jellysweep/pull/394) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
 - [chore: fix flaky test](https://github.com/adfinis/ansible-collection-icinga2/pull/13) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (1 week ago)
-- [chore: add deprecation warning](https://github.com/adfinis/ansible-role-icinga2_agent/pull/41) on [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
