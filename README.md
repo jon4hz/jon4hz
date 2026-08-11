@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: we dont need unit test right now](https://github.com/adfinis/ansible-collection-icinga2/pull/37) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: add renovate config](https://github.com/adfinis/adfinis-rclone-mgr/pull/162) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [ci: add renovate config](https://github.com/adfinis/bastion-go/pull/29) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (today)
 - [ci: add renovate config](https://github.com/adfinis/ansible-role-the_bastion/pull/56) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [ci: add renovate config](https://github.com/adfinis/terraform-provider-bastion/pull/75) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
-- [ci: add renovate config](https://github.com/adfinis/ansible-collection-icinga2/pull/19) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 
 #### ⭐ Recent Stars
 
