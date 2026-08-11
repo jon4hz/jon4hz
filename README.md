@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.1), today) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.4](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.4), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.2](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.2), 5 days ago) - Ansible collection to manage icinga2
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.7](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.7), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-08](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-08), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 2 weeks ago) - A collection of reusable workflows for the bareos repositories.
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: rename to adfssh](https://github.com/adfinis/bssh/pull/28) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
+- [ci: add renovate config](https://github.com/adfinis/bssh/pull/27) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
 - [ci: we dont need unit test right now](https://github.com/adfinis/ansible-collection-icinga2/pull/37) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: add renovate config](https://github.com/adfinis/adfinis-rclone-mgr/pull/162) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [ci: add renovate config](https://github.com/adfinis/bastion-go/pull/29) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (today)
-- [ci: add renovate config](https://github.com/adfinis/ansible-role-the_bastion/pull/56) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
-- [ci: add renovate config](https://github.com/adfinis/terraform-provider-bastion/pull/75) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 
 #### ⭐ Recent Stars
 
