@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (5 days ago)
-- [adfinis/ansible-role-icinga2_master](https://github.com/adfinis/ansible-role-icinga2_master) - This role is used to configure an icinga2 master (1 week ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
-- [adfinis/ansible-role-icinga2_web](https://github.com/adfinis/ansible-role-icinga2_web) - This role is used to configure icingaweb2 (1 week ago)
-- [adfinis/ansible-role-icinga2_agent](https://github.com/adfinis/ansible-role-icinga2_agent) -  This role is used to install the icinga2 agent (1 week ago)
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
+- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) -  (today)
+- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (today)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(operator): support configmap per renovate job](https://github.com/mogenius/renovate-operator/pull/588) on [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) (1 day ago)
-- [docs: update contribution guide](https://github.com/adfinis/ansible-collection-icinga2/pull/18) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (5 days ago)
-- [ci: dont run label workflow when closing PR](https://github.com/adfinis/ansible-collection-icinga2/pull/17) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (5 days ago)
-- [ chore: improve testing situation](https://github.com/jon4hz/jellysweep/pull/394) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 week ago)
-- [chore: fix flaky test](https://github.com/adfinis/ansible-collection-icinga2/pull/13) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (1 week ago)
+- [ci: add renovate config](https://github.com/adfinis/adfinis-rclone-mgr/pull/162) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
+- [ci: add renovate config](https://github.com/adfinis/bastion-go/pull/29) on [adfinis/bastion-go](https://github.com/adfinis/bastion-go) (today)
+- [ci: add renovate config](https://github.com/adfinis/ansible-role-the_bastion/pull/56) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
+- [ci: add renovate config](https://github.com/adfinis/terraform-provider-bastion/pull/75) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [ci: add renovate config](https://github.com/adfinis/ansible-collection-icinga2/pull/19) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 
 #### ⭐ Recent Stars
 
