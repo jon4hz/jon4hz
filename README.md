@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
-- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) -  (today)
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (today)
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.4](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.4), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.2](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.2), 5 days ago) - Ansible collection to manage icinga2
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.7](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.7), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-08](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-08), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.0), 2 weeks ago) - A collection of reusable workflows for the bareos repositories.
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.1](https://github.com/openbao/openbao/releases/tag/v2.6.1), 2 weeks ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
 
