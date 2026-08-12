@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
 - [adfinis/renovate-config](https://github.com/adfinis/renovate-config) -  (1 day ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 day ago)
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (1 day ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 
 #### 🌱 My latest projects
 
