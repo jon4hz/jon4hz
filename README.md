@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: disable mok enrollment timeout by default](https://github.com/projectpotos/potos-iso-builder/pull/119) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
+- [feat: configurable mok enrollment timeout](https://github.com/projectpotos/ansible-collection-potos.base/pull/77) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: add netinst iso and make it the default](https://github.com/projectpotos/potos-iso-builder/pull/118) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [refactor: rename to adfssh](https://github.com/adfinis/bssh/pull/28) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
 - [ci: add renovate config](https://github.com/adfinis/bssh/pull/27) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
-- [ci: we dont need unit test right now](https://github.com/adfinis/ansible-collection-icinga2/pull/37) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (2 days ago)
-- [ci: add renovate config](https://github.com/adfinis/adfinis-rclone-mgr/pull/162) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 
 #### ⭐ Recent Stars
 
