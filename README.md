@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.0](https://github.com/mogenius/renovate-operator/releases/tag/6.0.0), today) - Operator to streamline renovate executions in Kubernetes
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.0.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.0.0.0), 2 days ago) - A Jellyfin plugin to inject Javascript
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.1), 3 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.4](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.4), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.2](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.2), 1 week ago) - Ansible collection to manage icinga2
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.7](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.7), 1 week ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 #### 🔨 My recent Pull Requests
 
