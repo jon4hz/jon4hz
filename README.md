@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (3 days ago)
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: show custom metadata in listing](https://github.com/jon4hz/awoolt/pull/49) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
+- [feat: guided put form](https://github.com/jon4hz/awoolt/pull/48) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
 - [feat: switch from huh to bubble list](https://github.com/jon4hz/awoolt/pull/43) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
 - [feat: disable mok enrollment timeout by default](https://github.com/projectpotos/potos-iso-builder/pull/119) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (4 days ago)
 - [feat: configurable mok enrollment timeout](https://github.com/projectpotos/ansible-collection-potos.base/pull/77) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (4 days ago)
-- [feat: add netinst iso and make it the default](https://github.com/projectpotos/potos-iso-builder/pull/118) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (4 days ago)
-- [refactor: rename to adfssh](https://github.com/adfinis/bssh/pull/28) on [adfinis/bssh](https://github.com/adfinis/bssh) (6 days ago)
 
 #### ⭐ Recent Stars
 
