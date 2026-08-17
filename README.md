@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 day ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (3 days ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (5 days ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (6 days ago)
 
 #### 🌱 My latest projects
 
