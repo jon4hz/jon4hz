@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (today)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (3 days ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 day ago)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 day ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,23 +22,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), today) - 🐺 Interactively browse vault/openbao in the terminal.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.8), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.0](https://github.com/mogenius/renovate-operator/releases/tag/6.0.0), 3 days ago) - Operator to streamline renovate executions in Kubernetes
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.0.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.0.0.0), 5 days ago) - A Jellyfin plugin to inject Javascript
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.1), 6 days ago) - Terraform/OpenTofu Provider for The Bastion
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 1 day ago) - 🐺 Interactively browse vault/openbao in the terminal.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.8), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.0](https://github.com/mogenius/renovate-operator/releases/tag/6.0.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
+- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.0.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.0.0.0), 6 days ago) - A Jellyfin plugin to inject Javascript
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.1), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
 
 #### 🔨 My recent Pull Requests
 
-- [fix: bring the old coloring back](https://github.com/jon4hz/awoolt/pull/50) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
-- [feat: show custom metadata in listing](https://github.com/jon4hz/awoolt/pull/49) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
-- [feat: guided put form](https://github.com/jon4hz/awoolt/pull/48) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
-- [feat: switch from huh to bubble list](https://github.com/jon4hz/awoolt/pull/43) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (today)
-- [feat: disable mok enrollment timeout by default](https://github.com/projectpotos/potos-iso-builder/pull/119) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (4 days ago)
+- [fix: bring the old coloring back](https://github.com/jon4hz/awoolt/pull/50) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
+- [feat: show custom metadata in listing](https://github.com/jon4hz/awoolt/pull/49) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
+- [feat: guided put form](https://github.com/jon4hz/awoolt/pull/48) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
+- [feat: switch from huh to bubble list](https://github.com/jon4hz/awoolt/pull/43) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
+- [feat: disable mok enrollment timeout by default](https://github.com/projectpotos/potos-iso-builder/pull/119) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (3 days ago)
+- [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (4 days ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 week ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 month ago)
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (1 month ago)
