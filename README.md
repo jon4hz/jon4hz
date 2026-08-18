@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add missing env tag for SEMAPHORE_RUNNER_EXECUTOR](https://github.com/semaphoreui/semaphore/pull/4154) on [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) (today)
 - [feat: add support for metrics and jwt vars](https://github.com/adfinis/ansible-collection-semaphoreui/pull/25) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [ci: switch from dependabot to renovate](https://github.com/adfinis/ansible-collection-semaphoreui/pull/24) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [fix!: pin v2.19.8 as default and remove runner key](https://github.com/adfinis/ansible-collection-semaphoreui/pull/23) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [feat: ExCIST](https://github.com/adfinis/flappy-sez/pull/43) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
-- [fix: bring the old coloring back](https://github.com/jon4hz/awoolt/pull/50) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
 
 #### ⭐ Recent Stars
 
