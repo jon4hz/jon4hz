@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: ExCIST](https://github.com/adfinis/flappy-sez/pull/43) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
 - [fix: bring the old coloring back](https://github.com/jon4hz/awoolt/pull/50) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
 - [feat: show custom metadata in listing](https://github.com/jon4hz/awoolt/pull/49) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
 - [feat: guided put form](https://github.com/jon4hz/awoolt/pull/48) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
 - [feat: switch from huh to bubble list](https://github.com/jon4hz/awoolt/pull/43) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 day ago)
-- [feat: disable mok enrollment timeout by default](https://github.com/projectpotos/potos-iso-builder/pull/119) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (5 days ago)
 
 #### ⭐ Recent Stars
 
