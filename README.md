@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 day ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 day ago)
+- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (today)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (1 day ago)
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (1 day ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 1 day ago) - 🐺 Interactively browse vault/openbao in the terminal.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.8), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.0](https://github.com/mogenius/renovate-operator/releases/tag/6.0.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.0.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.0.0.0), 6 days ago) - A Jellyfin plugin to inject Javascript
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.1](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.1), 1 week ago) - Terraform/OpenTofu Provider for The Bastion
 
 #### 🔨 My recent Pull Requests
 
