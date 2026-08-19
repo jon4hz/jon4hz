@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) -  (today)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (1 day ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (1 day ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 days ago)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (2 days ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
 
 #### 🌱 My latest projects
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.6.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.6.0), today) - 
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 1 day ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 2 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.8), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.0](https://github.com/mogenius/renovate-operator/releases/tag/6.0.0), 5 days ago) - Operator to streamline renovate executions in Kubernetes
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.0.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.0.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 
 #### 🔨 My recent Pull Requests
 
