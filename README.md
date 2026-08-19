@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (today)
 - [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (5 days ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 week ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 month ago)
 - [kpfleming/jinjanator](https://github.com/kpfleming/jinjanator) - Jinja2 Command-Line Tool, reworked, again (1 month ago)
-- [cpeoples/ansible-security-scanner](https://github.com/cpeoples/ansible-security-scanner) - 🛡️ Static security scanner (SAST) for Ansible playbooks, roles, and collections. 1,000&#43; rules across 30&#43; categories detecting malicious code, RCE, hardcoded credentials, and supply-chain risk. Outputs SARIF, CycloneDX SBOM, and GitLab SAST. SLSA Build Level 3, Sigstore-signed. (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
