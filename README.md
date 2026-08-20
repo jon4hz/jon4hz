@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), today) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.7.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.7.0), today) - 
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 2 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 3 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.8), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.0](https://github.com/mogenius/renovate-operator/releases/tag/6.0.0), 6 days ago) - Operator to streamline renovate executions in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
