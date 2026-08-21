@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 day ago)
-- [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (3 days ago)
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (3 days ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (4 days ago)
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 Interactively browse vault/openbao in the terminal. (4 days ago)
+- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate configs for all potos repositories. (today)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (today)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support new key model](https://github.com/adfinis/ansible-collection-semaphoreui/pull/35) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
-- [fix!: get rid of inventory assumptions](https://github.com/adfinis/ansible-collection-semaphoreui/pull/34) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
-- [fix: add missing env tag for SEMAPHORE_RUNNER_EXECUTOR](https://github.com/semaphoreui/semaphore/pull/4154) on [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) (3 days ago)
-- [feat: add support for metrics and jwt vars](https://github.com/adfinis/ansible-collection-semaphoreui/pull/25) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
-- [ci: switch from dependabot to renovate](https://github.com/adfinis/ansible-collection-semaphoreui/pull/24) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
+- [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder-template/pull/7) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (today)
+- [ci: improved renovate config](https://github.com/projectpotos/shellcheck-jinja/pull/25) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (today)
+- [ci: improved renovate config](https://github.com/projectpotos/actions/pull/34) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
+- [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder/pull/122) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
+- [ci: improved renovate config](https://github.com/projectpotos/ansible-collection-potos.base/pull/80) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 
 #### ⭐ Recent Stars
 
