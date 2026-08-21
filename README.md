@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/renovate-config](https://github.com/projectpotos/renovate-config) - Shared Renovate configs for all potos repositories. (today)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
 - [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (today)
+- [projectpotos/ansible-specs-fedora-test](https://github.com/projectpotos/ansible-specs-fedora-test) -  (today)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(caddy): support dns challenge](https://github.com/adfinis/ansible-collection-semaphoreui/pull/36) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder-template/pull/7) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (today)
 - [ci: improved renovate config](https://github.com/projectpotos/shellcheck-jinja/pull/25) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (today)
 - [ci: improved renovate config](https://github.com/projectpotos/actions/pull/34) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder/pull/122) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
-- [ci: improved renovate config](https://github.com/projectpotos/ansible-collection-potos.base/pull/80) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 
 #### ⭐ Recent Stars
 
