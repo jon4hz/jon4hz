@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: harden exclude-tag dequeue and tag cache handling (follow-up to …](https://github.com/jon4hz/jellysweep/pull/402) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat(caddy): support dns challenge](https://github.com/adfinis/ansible-collection-semaphoreui/pull/36) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
 - [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder-template/pull/7) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (1 day ago)
 - [ci: improved renovate config](https://github.com/projectpotos/shellcheck-jinja/pull/25) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (1 day ago)
 - [ci: improved renovate config](https://github.com/projectpotos/actions/pull/34) on [projectpotos/actions](https://github.com/projectpotos/actions) (1 day ago)
-- [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder/pull/122) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (1 day ago)
 
 #### ⭐ Recent Stars
 
