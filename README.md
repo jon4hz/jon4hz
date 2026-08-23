@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 3 days ago) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.7.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.7.0), 3 days ago) - Ansible Collection to install and configure SemaphoreUI
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 6 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.8](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.8), 6 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 #### 🔨 My recent Pull Requests
 
+- [feat: fetch disk usage from sonarr and radarr](https://github.com/jon4hz/jellysweep/pull/419) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/405) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: return error if jellyfin request fails](https://github.com/jon4hz/jellysweep/pull/404) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [fix: properly html escape all data fields](https://github.com/jon4hz/jellysweep/pull/403) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [fix: harden exclude-tag dequeue and tag cache handling (follow-up to …](https://github.com/jon4hz/jellysweep/pull/402) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [feat(caddy): support dns challenge](https://github.com/adfinis/ansible-collection-semaphoreui/pull/36) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
-- [ci: improved renovate config](https://github.com/projectpotos/potos-iso-builder-template/pull/7) on [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) (2 days ago)
 
 #### ⭐ Recent Stars
 
