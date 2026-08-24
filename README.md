@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.9.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.9.0), today) - Ansible Collection to install and configure SemaphoreUI
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.9.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.9.1), today) - Ansible Collection to install and configure SemaphoreUI
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), today) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 1 day ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 4 days ago) - Operator to streamline renovate executions in Kubernetes
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (today)
 - [ci: switch from dependabot to renovate](https://github.com/adfinis/baoctx/pull/10) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (today)
 - [chore: release 0.3.1](https://github.com/projectpotos/shellcheck-jinja/pull/29) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (today)
 - [feat: fetch disk usage from sonarr and radarr](https://github.com/jon4hz/jellysweep/pull/419) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/405) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 
 #### ⭐ Recent Stars
 
