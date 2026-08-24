@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (2 days ago)
-- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (2 days ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (3 days ago)
+- [projectpotos/potos-iso-builder-template](https://github.com/projectpotos/potos-iso-builder-template) - Template to create your own potos based ISO  (3 days ago)
+- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (3 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,26 +22,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), today) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 3 days ago) - Operator to streamline renovate executions in Kubernetes
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.7.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.7.0), 3 days ago) - Ansible Collection to install and configure SemaphoreUI
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 6 days ago) - 🐺 Interactively browse vault/openbao in the terminal.
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 1 day ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 4 days ago) - Operator to streamline renovate executions in Kubernetes
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.7.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.7.0), 4 days ago) - Ansible Collection to install and configure SemaphoreUI
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.3.0](https://github.com/jon4hz/awoolt/releases/tag/v0.3.0), 1 week ago) - 🐺 Interactively browse vault/openbao in the terminal.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: fetch disk usage from sonarr and radarr](https://github.com/jon4hz/jellysweep/pull/419) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/405) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
-- [fix: return error if jellyfin request fails](https://github.com/jon4hz/jellysweep/pull/404) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [fix: properly html escape all data fields](https://github.com/jon4hz/jellysweep/pull/403) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [fix: harden exclude-tag dequeue and tag cache handling (follow-up to …](https://github.com/jon4hz/jellysweep/pull/402) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [feat: fetch disk usage from sonarr and radarr](https://github.com/jon4hz/jellysweep/pull/419) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/405) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
+- [fix: return error if jellyfin request fails](https://github.com/jon4hz/jellysweep/pull/404) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
+- [fix: properly html escape all data fields](https://github.com/jon4hz/jellysweep/pull/403) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
+- [fix: harden exclude-tag dequeue and tag cache handling (follow-up to …](https://github.com/jon4hz/jellysweep/pull/402) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (4 days ago)
-- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (4 days ago)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (5 days ago)
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (5 days ago)
 - [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (1 week ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (1 week ago)
+- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 weeks ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 month ago)
 
 #### 📫 How to reach me
