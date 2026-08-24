@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: switch from dependabot to renovate](https://github.com/adfinis/baoctx/pull/10) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (today)
 - [chore: release 0.3.1](https://github.com/projectpotos/shellcheck-jinja/pull/29) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (today)
 - [feat: fetch disk usage from sonarr and radarr](https://github.com/jon4hz/jellysweep/pull/419) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [feat: update UI to show estimated deletion date instead of default](https://github.com/jon4hz/jellysweep/pull/405) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [fix: return error if jellyfin request fails](https://github.com/jon4hz/jellysweep/pull/404) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
-- [fix: properly html escape all data fields](https://github.com/jon4hz/jellysweep/pull/403) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (2 days ago)
 
 #### ⭐ Recent Stars
 
