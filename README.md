@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (today)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (3 days ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (3 days ago)
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 day ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 days ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,24 +22,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.10.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.10.0), today) - Ansible Collection to install and configure SemaphoreUI
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), today) - Render jinja2 templates with fixture data and lint them with shellcheck.
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 1 day ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 4 days ago) - Operator to streamline renovate executions in Kubernetes
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.10.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.10.0), 1 day ago) - Ansible Collection to install and configure SemaphoreUI
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), 1 day ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 5 days ago) - Operator to streamline renovate executions in Kubernetes
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
-- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
-- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
-- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (today)
-- [ci: switch from dependabot to renovate](https://github.com/adfinis/baoctx/pull/10) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (today)
+- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
+- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
+- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
+- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (1 day ago)
+- [ci: switch from dependabot to renovate](https://github.com/adfinis/baoctx/pull/10) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (5 days ago)
-- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (5 days ago)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (6 days ago)
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (6 days ago)
 - [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (1 week ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (2 weeks ago)
 - [shellcheck-py/shellcheck-py](https://github.com/shellcheck-py/shellcheck-py) - python3/pip3 wrapper for installing shellcheck (1 month ago)
