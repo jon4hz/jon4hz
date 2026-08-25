@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today)
 - [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
 - [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
 - [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 day ago)
 - [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (1 day ago)
-- [ci: switch from dependabot to renovate](https://github.com/adfinis/baoctx/pull/10) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (1 day ago)
 
 #### ⭐ Recent Stars
 
