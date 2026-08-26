@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.0), today) - Install OpenBao on your system.
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.10.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.10.0), 2 days ago) - Ansible Collection to install and configure SemaphoreUI
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), 2 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 6 days ago) - Operator to streamline renovate executions in Kubernetes
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.2](https://github.com/openbao/openbao/releases/tag/v2.6.2), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
 
