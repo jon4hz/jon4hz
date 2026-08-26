@@ -9,7 +9,7 @@
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (2 days ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 days ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (5 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (5 days ago)
 
 #### 🌱 My latest projects
