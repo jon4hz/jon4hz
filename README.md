@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (2 days ago)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 days ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (3 days ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (5 days ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (5 days ago)
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (3 days ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (3 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (4 days ago)
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (6 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.0), today) - Install OpenBao on your system.
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.10.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.10.0), 2 days ago) - Ansible Collection to install and configure SemaphoreUI
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), 2 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 6 days ago) - Operator to streamline renovate executions in Kubernetes
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.0), 1 day ago) - Install OpenBao on your system.
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.10.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.10.0), 3 days ago) - Ansible Collection to install and configure SemaphoreUI
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), 3 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.0](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.0), 4 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.0.1](https://github.com/mogenius/renovate-operator/releases/tag/6.0.1), 1 week ago) - Operator to streamline renovate executions in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago)
-- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
-- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
-- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
-- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (2 days ago)
+- [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
+- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
+- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
+- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (3 days ago)
+- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (3 days ago)
 
 #### ⭐ Recent Stars
 
