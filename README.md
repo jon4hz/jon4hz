@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 day ago)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (4 days ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (5 days ago)
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (2 days ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (5 days ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (6 days ago)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 week ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 week ago)
 
@@ -22,23 +22,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), today) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.11.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.11.1), 1 day ago) - Ansible Collection to install and configure SemaphoreUI
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.11](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.11), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.0), 2 days ago) - Install OpenBao on your system.
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), 4 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
+- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 1 day ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
+- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.11.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.11.1), 2 days ago) - Ansible Collection to install and configure SemaphoreUI
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.11](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.11), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.0), 3 days ago) - Install OpenBao on your system.
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.2.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.2.2), 5 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 
 #### 🔨 My recent Pull Requests
 
-- [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (3 days ago)
-- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (4 days ago)
-- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (4 days ago)
-- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (4 days ago)
-- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (4 days ago)
+- [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (4 days ago)
+- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (5 days ago)
+- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (5 days ago)
+- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (5 days ago)
+- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 days ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (1 week ago)
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (1 week ago)
 - [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (2 weeks ago)
