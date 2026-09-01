@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.1.0](https://github.com/mogenius/renovate-operator/releases/tag/6.1.0), today) - Operator to streamline renovate executions in Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 4 days ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.11.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.11.1), 5 days ago) - Ansible Collection to install and configure SemaphoreUI
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.0), 6 days ago) - Install OpenBao on your system.
 
 #### 🔨 My recent Pull Requests
 
