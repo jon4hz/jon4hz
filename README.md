@@ -9,8 +9,8 @@
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 week ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 week ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
-- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (1 week ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 week ago)
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (2 weeks ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.2.0](https://github.com/mogenius/renovate-operator/releases/tag/6.2.0), 1 day ago) - Operator to streamline renovate executions in Kubernetes
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 2 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 4 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 6 days ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.2.0](https://github.com/mogenius/renovate-operator/releases/tag/6.2.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 3 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.11.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.11.1), 1 week ago) - Ansible Collection to install and configure SemaphoreUI
 
 #### 🔨 My recent Pull Requests
@@ -41,7 +41,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (2 weeks ago)
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (2 weeks ago)
-- [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (2 weeks ago)
+- [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (3 weeks ago)
 - [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (3 weeks ago)
 
 #### 📫 How to reach me
