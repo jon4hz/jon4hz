@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.2.0](https://github.com/mogenius/renovate-operator/releases/tag/6.2.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), today) - Operator to streamline renovate executions in Kubernetes
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 3 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
