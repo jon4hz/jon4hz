@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney) - Content Journey - Package Tool (today)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (2 weeks ago)
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (2 weeks ago)
 - [scottbez1/FaderBuddy](https://github.com/scottbez1/FaderBuddy) - Plug-and-play motorized faders for ESPHome and more (3 weeks ago)
-- [aymanbagabas/drift](https://github.com/aymanbagabas/drift) - 👾 A git diff pager that actually wants to be looked at (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
