@@ -10,7 +10,7 @@
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 week ago)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 weeks ago)
+- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (2 weeks ago)
 
 #### 🌱 My latest projects
 
