@@ -8,7 +8,7 @@
 
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 week ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 week ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) - Golang client for The Bastion (2 weeks ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 weeks ago)
 
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), 1 day ago) - Operator to streamline renovate executions in Kubernetes
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 4 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 6 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 1 week ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.11.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.11.1), 1 week ago) - Ansible Collection to install and configure SemaphoreUI
 
