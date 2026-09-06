@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 week ago)
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (2 weeks ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
+- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add filter for favorites](https://github.com/jon4hz/jellysweep/pull/427) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
 - [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
 - [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
 - [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
-- [chore: update fang to v2](https://github.com/adfinis/baoctx/pull/15) on [adfinis/baoctx](https://github.com/adfinis/baoctx) (1 week ago)
 
 #### ⭐ Recent Stars
 
