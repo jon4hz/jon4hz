@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 week ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 weeks ago)
 - [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,23 +22,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), 3 days ago) - Operator to streamline renovate executions in Kubernetes
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 1 week ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.11.1](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.11.1), 1 week ago) - Ansible Collection to install and configure SemaphoreUI
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add filter for favorites](https://github.com/jon4hz/jellysweep/pull/427) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [feat: add filter for favorites](https://github.com/jon4hz/jellysweep/pull/427) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [fix(renderer): don&#39;t clamp cursor row in relative cursor mode](https://github.com/charmbracelet/ultraviolet/pull/162) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 week ago)
-- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
-- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
-- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
+- [feat: support sha pinning for all images](https://github.com/adfinis/ansible-collection-semaphoreui/pull/40) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 weeks ago)
+- [feat: add healthchecks to containers](https://github.com/adfinis/ansible-collection-semaphoreui/pull/39) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 weeks ago)
+- [fix: add missing no_log options](https://github.com/adfinis/ansible-collection-semaphoreui/pull/38) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney) - Content Journey - Package Tool (today)
+- [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney) - Content Journey - Package Tool (1 day ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (2 weeks ago)
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content (2 weeks ago)
