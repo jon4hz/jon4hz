@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (today)
 - [uklooney/AuroraDrop](https://github.com/uklooney/AuroraDrop) -  RGB Matrix Audio Visualiser for ESP32 (1 day ago)
 - [donnersm/FFT_ESP32_Analyzer](https://github.com/donnersm/FFT_ESP32_Analyzer) - Spectrum analyzer 8-64channels FFT (1 day ago)
 - [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney) - Content Journey - Package Tool (2 days ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
