@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.0-beta20260909](https://github.com/openbao/openbao/releases/tag/v2.7.0-beta20260909), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.4.0](https://github.com/jon4hz/awoolt/releases/tag/v0.4.0), 2 days ago) - 🐺 A simple TUI for your openbao KV engines.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), 5 days ago) - Operator to streamline renovate executions in Kubernetes
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.30](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.30), 1 week ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.0](https://github.com/radiorabe/actions/releases/tag/v0.45.0), 1 week ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support docker runner executors](https://github.com/adfinis/ansible-collection-semaphoreui/pull/47) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
 - [refactor: fang provides man command](https://github.com/jon4hz/awoolt/pull/56) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 days ago)
 - [chore: update descriptions and docs](https://github.com/jon4hz/awoolt/pull/55) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 days ago)
 - [ci: add test workflow](https://github.com/jon4hz/awoolt/pull/54) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 days ago)
 - [feat: add secrets view with edit mode](https://github.com/jon4hz/awoolt/pull/52) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (2 days ago)
-- [feat: add filter for favorites](https://github.com/jon4hz/jellysweep/pull/427) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (3 days ago)
 
 #### ⭐ Recent Stars
 
