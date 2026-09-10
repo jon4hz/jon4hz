@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (today)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (today)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 A simple TUI for your openbao KV engines. (3 days ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (4 days ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself!
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) - 
 - [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) - 
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 
 #### 🔭 Latest releases I've contributed to
 
