@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations &amp; Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free &amp; open-source. (today)
 - [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (3 days ago)
 - [uklooney/AuroraDrop](https://github.com/uklooney/AuroraDrop) -  RGB Matrix Audio Visualiser for ESP32 (4 days ago)
 - [donnersm/FFT_ESP32_Analyzer](https://github.com/donnersm/FFT_ESP32_Analyzer) - Spectrum analyzer 8-64channels FFT (4 days ago)
 - [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney) - Content Journey - Package Tool (5 days ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
