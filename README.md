@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.1](https://github.com/radiorabe/actions/releases/tag/v0.45.1), today) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) ([v0.12.0](https://github.com/adfinis/ansible-collection-semaphoreui/releases/tag/v0.12.0), 4 days ago) - Ansible Collection to install and configure SemaphoreUI
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.0-beta20260909](https://github.com/openbao/openbao/releases/tag/v2.7.0-beta20260909), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.4.0](https://github.com/jon4hz/awoolt/releases/tag/v0.4.0), 1 week ago) - 🐺 A simple TUI for your openbao KV engines.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.3.0](https://github.com/mogenius/renovate-operator/releases/tag/6.3.0), 1 week ago) - Operator to streamline renovate executions in Kubernetes
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-09](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-09), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
