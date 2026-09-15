@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
 - [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (5 days ago)
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (5 days ago)
 - [jon4hz/awoolt](https://github.com/jon4hz/awoolt) - 🐺 A simple TUI for your openbao KV engines. (1 week ago)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 week ago)
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: go mod tidy](https://github.com/adfinis/terraform-provider-bastion/pull/89) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [feat: support docker runner executors](https://github.com/adfinis/ansible-collection-semaphoreui/pull/47) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (6 days ago)
 - [refactor: fang provides man command](https://github.com/jon4hz/awoolt/pull/56) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 week ago)
 - [chore: update descriptions and docs](https://github.com/jon4hz/awoolt/pull/55) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 week ago)
 - [ci: add test workflow](https://github.com/jon4hz/awoolt/pull/54) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 week ago)
-- [feat: add secrets view with edit mode](https://github.com/jon4hz/awoolt/pull/52) on [jon4hz/awoolt](https://github.com/jon4hz/awoolt) (1 week ago)
 
 #### ⭐ Recent Stars
 
