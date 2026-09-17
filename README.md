@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(hostgroups): rename download_file role to download_files](https://github.com/radiorabe/ansible-collection-rabe_foreman/pull/348) on [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) (today)
+- [refactor!: rename download_file role to download_files](https://github.com/radiorabe/ansible-collection-common/pull/117) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
+- [refactor(roles): dont ignore getent errors](https://github.com/radiorabe/ansible-collection-common/pull/116) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
+- [feat(alma9): activate epel by default and install some base packages](https://github.com/radiorabe/ansible-collection-rabe_foreman/pull/347) on [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) (today)
 - [feat: add an option to uninstall packages](https://github.com/radiorabe/ansible-collection-common/pull/115) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
-- [ci: inherit custom renovate configs](https://github.com/adfinis/bbook/pull/33) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 day ago)
-- [chore(deps): upgrade charm deps to v2](https://github.com/adfinis/bssh/pull/41) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
-- [chore: go mod tidy once more](https://github.com/adfinis/terraform-provider-bastion/pull/90) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
-- [chore: go mod tidy](https://github.com/adfinis/terraform-provider-bastion/pull/89) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) - GitOps our Foreman (today)
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations &amp; Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free &amp; open-source. (6 days ago)
 - [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (1 week ago)
 - [uklooney/AuroraDrop](https://github.com/uklooney/AuroraDrop) -  RGB Matrix Audio Visualiser for ESP32 (1 week ago)
 - [donnersm/FFT_ESP32_Analyzer](https://github.com/donnersm/FFT_ESP32_Analyzer) - Spectrum analyzer 8-64channels FFT (1 week ago)
-- [TravellingEngineer/barney](https://github.com/TravellingEngineer/barney) - Content Journey - Package Tool (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
