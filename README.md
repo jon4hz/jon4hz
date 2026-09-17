@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add role to manage partition tables](https://github.com/theforeman/foreman-ansible-modules/pull/2001) on [theforeman/foreman-ansible-modules](https://github.com/theforeman/foreman-ansible-modules) (today)
+- [feat(roles): manage partition tables](https://github.com/radiorabe/ansible-collection-rabe_foreman/pull/349) on [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) (today)
+- [feat: add role to manage partition tables](https://github.com/radiorabe/ansible-collection-foreman/pull/97) on [radiorabe/ansible-collection-foreman](https://github.com/radiorabe/ansible-collection-foreman) (today)
 - [refactor(hostgroups): rename download_file role to download_files](https://github.com/radiorabe/ansible-collection-rabe_foreman/pull/348) on [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) (today)
 - [refactor!: rename download_file role to download_files](https://github.com/radiorabe/ansible-collection-common/pull/117) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
-- [refactor(roles): dont ignore getent errors](https://github.com/radiorabe/ansible-collection-common/pull/116) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
-- [feat(alma9): activate epel by default and install some base packages](https://github.com/radiorabe/ansible-collection-rabe_foreman/pull/347) on [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) (today)
-- [feat: add an option to uninstall packages](https://github.com/radiorabe/ansible-collection-common/pull/115) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
 
 #### ⭐ Recent Stars
 
