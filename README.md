@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add an option to uninstall packages](https://github.com/radiorabe/ansible-collection-common/pull/115) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
 - [ci: inherit custom renovate configs](https://github.com/adfinis/bbook/pull/33) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 day ago)
 - [chore(deps): upgrade charm deps to v2](https://github.com/adfinis/bssh/pull/41) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
 - [chore: go mod tidy once more](https://github.com/adfinis/terraform-provider-bastion/pull/90) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [chore: go mod tidy](https://github.com/adfinis/terraform-provider-bastion/pull/89) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
-- [feat: support docker runner executors](https://github.com/adfinis/ansible-collection-semaphoreui/pull/47) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (1 week ago)
 
 #### ⭐ Recent Stars
 
