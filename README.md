@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.2.0](https://github.com/adfinis/bbook/releases/tag/v0.2.0), 2 days ago) - Browse Zoho customer contacts and sync them to your mail client
+- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.3.1](https://github.com/adfinis/bbook/releases/tag/v0.3.1), today) - Browse Zoho customer contacts and sync them to your mail client
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.2](https://github.com/adfinis/bssh/releases/tag/v0.2.2), 3 days ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.1](https://github.com/adfinis/bastion-go/releases/tag/v0.5.1), 3 days ago) - Golang client for The Bastion
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.1](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.1), 3 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
