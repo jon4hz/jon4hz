@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.4.0](https://github.com/adfinis/bbook/releases/tag/v0.4.0), today) - Browse Zoho customer contacts and sync them to your mail client
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.10.1](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.10.1), today) - A collection of reusable workflows for the bareos repositories.
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.13.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.13.0), 1 day ago) - 
-- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.3.1](https://github.com/adfinis/bbook/releases/tag/v0.3.1), 3 days ago) - Browse Zoho customer contacts and sync them to your mail client
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.2](https://github.com/adfinis/bssh/releases/tag/v0.2.2), 6 days ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.1](https://github.com/adfinis/bastion-go/releases/tag/v0.5.1), 6 days ago) - Golang client for The Bastion
 
