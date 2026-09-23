@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) - A collection of reusable workflows for the bareos repositories. (today)
 - [radiorabe/ansible-collection-foreman](https://github.com/radiorabe/ansible-collection-foreman) - Foreman roles and playbooks (1 day ago)
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (2 days ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (3 days ago)
-- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: use github app to create releases instead of PAT](https://github.com/adfinis/github-workflows-bareos/pull/26) on [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) (today)
-- [feat: visualizer](https://github.com/jon4hz/loudest-office/pull/9) on [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) (today)
-- [feat: add role to manage partition tables](https://github.com/theforeman/foreman-ansible-modules/pull/2001) on [theforeman/foreman-ansible-modules](https://github.com/theforeman/foreman-ansible-modules) (6 days ago)
-- [feat(roles): manage partition tables](https://github.com/radiorabe/ansible-collection-rabe_foreman/pull/349) on [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) (6 days ago)
-- [feat: add role to manage partition tables](https://github.com/radiorabe/ansible-collection-foreman/pull/97) on [radiorabe/ansible-collection-foreman](https://github.com/radiorabe/ansible-collection-foreman) (6 days ago)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-the_bastion/pull/70) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-bareos/pull/135) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (today)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-semaphoreui/pull/53) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (today)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-bareos_repository/pull/37) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (today)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-bareos_console/pull/20) on [adfinis/ansible-role-bareos_console](https://github.com/adfinis/ansible-role-bareos_console) (today)
 
 #### ⭐ Recent Stars
 
