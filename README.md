@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.3](https://github.com/openbao/openbao/releases/tag/v2.6.3), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.0](https://github.com/openbao/openbao/releases/tag/v2.7.0), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.0), today) - A collection of reusable workflows for the bareos repositories.
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.1](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.1), today) - Install OpenBao on your system.
 - [radiorabe/ansible-collection-foreman](https://github.com/radiorabe/ansible-collection-foreman) ([v0.11.0](https://github.com/radiorabe/ansible-collection-foreman/releases/tag/v0.11.0), 1 day ago) - Foreman roles and playbooks
