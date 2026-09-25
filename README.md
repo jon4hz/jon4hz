@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) -  (1 day ago)
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
+- [adfinis/ansible-role-bareos_sd](https://github.com/adfinis/ansible-role-bareos_sd) -  (1 day ago)
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 day ago)
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 day ago)
-- [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) - Ansible Collection to install and configure SemaphoreUI (1 day ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 day ago)
+- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.5](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.5), today) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.0), 1 day ago) - 
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.0), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.0](https://github.com/openbao/openbao/releases/tag/v2.7.0), 2 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.0](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.0), 2 days ago) - A collection of reusable workflows for the bareos repositories.
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.1.1](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.1.1), 2 days ago) - Install OpenBao on your system.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: go mod tidy](https://github.com/adfinis/adfinis-rclone-mgr/pull/189) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
+- [ci: correct secret path](https://github.com/adfinis/adfinis-rclone-mgr/pull/188) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
+- [ci: fetch secret from openbao](https://github.com/adfinis/adfinis-rclone-mgr/pull/187) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-the_bastion/pull/70) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
 - [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-bareos/pull/135) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (2 days ago)
-- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-semaphoreui/pull/53) on [adfinis/ansible-collection-semaphoreui](https://github.com/adfinis/ansible-collection-semaphoreui) (2 days ago)
-- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-bareos_repository/pull/37) on [adfinis/ansible-role-bareos_repository](https://github.com/adfinis/ansible-role-bareos_repository) (2 days ago)
-- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-bareos_console/pull/20) on [adfinis/ansible-role-bareos_console](https://github.com/adfinis/ansible-role-bareos_console) (2 days ago)
 
 #### ⭐ Recent Stars
 
