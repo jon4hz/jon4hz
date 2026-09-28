@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (today)
 - [gen2brain/webp](https://github.com/gen2brain/webp) - WebP image encoder/decoder (1 week ago)
 - [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) - GitOps our Foreman (1 week ago)
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations &amp; Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free &amp; open-source. (2 weeks ago)
 - [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (2 weeks ago)
-- [uklooney/AuroraDrop](https://github.com/uklooney/AuroraDrop) -  RGB Matrix Audio Visualiser for ESP32 (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
