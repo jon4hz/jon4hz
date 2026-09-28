@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [debops/debops](https://github.com/debops/debops) ([v3.3.2](https://github.com/debops/debops/releases/tag/v3.3.2), today) - DebOps - Your Debian-based data center in a box
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.4.0](https://github.com/mogenius/renovate-operator/releases/tag/6.4.0), today) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.5](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.5), 3 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.0), 4 days ago) - 
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.0](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.0), 4 days ago) - A collection of Ansible roles to manage Bareos installations.
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.0](https://github.com/openbao/openbao/releases/tag/v2.7.0), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
 
