@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 1 day ago) - 
 - [debops/debops](https://github.com/debops/debops) ([v3.3.2](https://github.com/debops/debops/releases/tag/v3.3.2), 3 days ago) - DebOps - Your Debian-based data center in a box
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.4.0](https://github.com/mogenius/renovate-operator/releases/tag/6.4.0), 3 days ago) - Operator to streamline renovate executions in Kubernetes
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.5](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.5), 6 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
 
 #### 🔨 My recent Pull Requests
 
