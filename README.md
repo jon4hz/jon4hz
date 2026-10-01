@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 1 day ago) - 
 - [debops/debops](https://github.com/debops/debops) ([v3.3.2](https://github.com/debops/debops/releases/tag/v3.3.2), 3 days ago) - DebOps - Your Debian-based data center in a box
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.4.0](https://github.com/mogenius/renovate-operator/releases/tag/6.4.0), 3 days ago) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.5](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.5), 6 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.0](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
