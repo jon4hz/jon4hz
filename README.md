@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), today) - A modern Jellyfin client built with Expo
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 3 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 3 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 4 days ago) - 
 - [debops/debops](https://github.com/debops/debops) ([v3.3.2](https://github.com/debops/debops/releases/tag/v3.3.2), 6 days ago) - DebOps - Your Debian-based data center in a box
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.4.0](https://github.com/mogenius/renovate-operator/releases/tag/6.4.0), 6 days ago) - Operator to streamline renovate executions in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
