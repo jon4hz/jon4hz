@@ -9,8 +9,8 @@
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (1 week ago)
 - [adfinis/ansible-collection-openbao](https://github.com/adfinis/ansible-collection-openbao) - reserved for future use, talk to CN before comitting to this repo (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) - A collection of Ansible roles to manage Bareos installations. (1 week ago)
-- [adfinis/ansible-role-bareos_webui](https://github.com/adfinis/ansible-role-bareos_webui) -  (1 week ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 week ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 week ago)
 
 #### 🌱 My latest projects
 
