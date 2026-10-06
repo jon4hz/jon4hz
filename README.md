@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), today) - 
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 2 days ago) - A modern Jellyfin client built with Expo
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 6 days ago) - 
-- [debops/debops](https://github.com/debops/debops) ([v3.3.2](https://github.com/debops/debops/releases/tag/v3.3.2), 1 week ago) - DebOps - Your Debian-based data center in a box
 
 #### 🔨 My recent Pull Requests
 
