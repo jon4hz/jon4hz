@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.16](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.16), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 1 day ago) - 
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 3 days ago) - A modern Jellyfin client built with Expo
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
