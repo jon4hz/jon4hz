@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), today) - 
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 2 days ago) - A modern Jellyfin client built with Expo
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 5 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 5 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 6 days ago) - 
+- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 1 day ago) - 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 3 days ago) - A modern Jellyfin client built with Expo
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) ([v2.6.0](https://github.com/adfinis/ansible-role-bareos_dir/releases/tag/v2.6.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
 - [chore: go mod tidy](https://github.com/adfinis/adfinis-rclone-mgr/pull/189) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [ci: correct secret path](https://github.com/adfinis/adfinis-rclone-mgr/pull/188) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
 - [ci: fetch secret from openbao](https://github.com/adfinis/adfinis-rclone-mgr/pull/187) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 week ago)
-- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-the_bastion/pull/70) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 week ago)
-- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-bareos/pull/135) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (1 week ago)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-the_bastion/pull/70) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 weeks ago)
+- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-bareos/pull/135) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
