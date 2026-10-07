@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.16](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.16), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.31](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.31), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 1 day ago) - 
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 3 days ago) - A modern Jellyfin client built with Expo
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
