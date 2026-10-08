@@ -9,8 +9,8 @@
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (1 week ago)
 - [adfinis/ansible-collection-openbao](https://github.com/adfinis/ansible-collection-openbao) - reserved for future use, talk to CN before comitting to this repo (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (1 week ago)
-- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (1 week ago)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (2 weeks ago)
+- [adfinis/ansible-role-bareos_dir](https://github.com/adfinis/ansible-role-bareos_dir) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.31](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.31), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 1 day ago) - 
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 3 days ago) - A modern Jellyfin client built with Expo
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 6 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 6 days ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.31](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.31), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 2 days ago) - 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.0](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.0), 4 days ago) - A modern Jellyfin client built with Expo
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-10](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-10), 1 week ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 
 #### 🔨 My recent Pull Requests
 
@@ -40,9 +40,9 @@
 
 - [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (1 week ago)
 - [gen2brain/webp](https://github.com/gen2brain/webp) - WebP image encoder/decoder (2 weeks ago)
-- [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) - GitOps our Foreman (2 weeks ago)
+- [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) - GitOps our Foreman (3 weeks ago)
 - [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations &amp; Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free &amp; open-source. (3 weeks ago)
-- [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (4 weeks ago)
+- [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (1 month ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
