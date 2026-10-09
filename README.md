@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
-- [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress) - Home Assistant ingress feature, add additional ingress panels to your Home Assistant frontend. (1 week ago)
-- [gen2brain/webp](https://github.com/gen2brain/webp) - WebP image encoder/decoder (2 weeks ago)
-- [radiorabe/ansible-collection-rabe_foreman](https://github.com/radiorabe/ansible-collection-rabe_foreman) - GitOps our Foreman (3 weeks ago)
-- [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge) - Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Home Assistant AI automations &amp; Sendspin protocol. Docker, HA addon, Raspberry Pi, Proxmox LXC. Free &amp; open-source. (4 weeks ago)
-- [GioF71/squeezelite-docker](https://github.com/GioF71/squeezelite-docker) - Easily run SqueezeLite with Alsa or PulseAudio output with Docker. Bluetooth support. Upsampling 2x 4x 8x with settings by Archimago (1 month ago)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. (today)
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust (today)
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. (today)
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (today)
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust (today)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
