@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (today)
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 day ago)
+- [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (1 day ago)
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (2 days ago)
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (1 week ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 weeks ago)
 - [adfinis/ansible-collection-openbao](https://github.com/adfinis/ansible-collection-openbao) - reserved for future use, talk to CN before comitting to this repo (2 weeks ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.1), today) - A modern Jellyfin client built with Expo
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.2](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.2), today) - Aare.guru ir gnome shell
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.31](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.31), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 3 days ago) - 
+- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.1), 1 day ago) - A modern Jellyfin client built with Expo
+- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.2](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.2), 1 day ago) - Aare.guru ir gnome shell
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.18.31](https://github.com/semaphoreui/semaphore/releases/tag/v2.18.31), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 4 days ago) - 
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.1](https://github.com/openbao/openbao/releases/tag/v2.7.1), 1 week ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
 #### 🔨 My recent Pull Requests
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. (today)
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust (today)
-- [storytold/lightcraft](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. (today)
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (today)
-- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust (today)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. (1 day ago)
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust (1 day ago)
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) - An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. (1 day ago)
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (1 day ago)
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust (1 day ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
