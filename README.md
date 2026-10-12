@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.5.1](https://github.com/mogenius/renovate-operator/releases/tag/6.5.1), today) - Operator to streamline renovate executions in Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.0-alpha4](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.0-alpha4), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.5.0](https://github.com/mogenius/renovate-operator/releases/tag/6.5.0), today) - Operator to streamline renovate executions in Kubernetes
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.1](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.1), 3 days ago) - A modern Jellyfin client built with Expo
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.2](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.2), 3 days ago) - Aare.guru ir gnome shell
 - [semaphoreui/terraform-provider-semaphore](https://github.com/semaphoreui/terraform-provider-semaphore) ([v0.3.10](https://github.com/semaphoreui/terraform-provider-semaphore/releases/tag/v0.3.10), 6 days ago) - 
