@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: keep menu cursor bar visible when the viewport moves](https://github.com/ansible/ansible-navigator/pull/2181) on [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) (today)
 - [chore: go mod tidy](https://github.com/adfinis/adfinis-rclone-mgr/pull/189) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (3 weeks ago)
 - [ci: correct secret path](https://github.com/adfinis/adfinis-rclone-mgr/pull/188) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (3 weeks ago)
 - [ci: fetch secret from openbao](https://github.com/adfinis/adfinis-rclone-mgr/pull/187) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (3 weeks ago)
 - [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-role-the_bastion/pull/70) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (3 weeks ago)
-- [ci: use github app instead of PAT for releases](https://github.com/adfinis/ansible-collection-bareos/pull/135) on [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
