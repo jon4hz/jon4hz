@@ -9,8 +9,8 @@
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (1 week ago)
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (1 week ago)
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (2 weeks ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 weeks ago)
 - [adfinis/ansible-collection-openbao](https://github.com/adfinis/ansible-collection-openbao) - reserved for future use, talk to CN before comitting to this repo (3 weeks ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 weeks ago)
 
 #### 🌱 My latest projects
 
