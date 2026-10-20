@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta1), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.14.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.14.0), 1 day ago) - 
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.2](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.2), 4 days ago) - A modern Jellyfin client built with Expo
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.5.1](https://github.com/mogenius/renovate-operator/releases/tag/6.5.1), 1 week ago) - Operator to streamline renovate executions in Kubernetes
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.0-alpha4](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.0-alpha4), 1 week ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) ([v1.3.2](https://github.com/jon4hz/gnome-shell-extension-aareguru/releases/tag/v1.3.2), 1 week ago) - Aare.guru ir gnome shell
 
 #### 🔨 My recent Pull Requests
