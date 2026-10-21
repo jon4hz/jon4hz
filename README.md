@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (today)
 - [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (5 days ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (1 week ago)
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust (1 week ago)
 - [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust (1 week ago)
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust (1 week ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
