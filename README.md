@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta2](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta2), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.6.0](https://github.com/mogenius/renovate-operator/releases/tag/6.6.0), today) - Operator to streamline renovate executions in Kubernetes
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.1.0.0), 2 days ago) - A Jellyfin plugin to inject Javascript
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta1), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.14.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.14.0), 3 days ago) - 
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.2](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.2), 6 days ago) - A modern Jellyfin client built with Expo
 
