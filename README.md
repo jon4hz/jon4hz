@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (today)
 - [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (today)
 - [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (4 days ago)
 - [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (1 week ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust (2 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
