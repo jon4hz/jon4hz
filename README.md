@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.2](https://github.com/openbao/openbao/releases/tag/v2.7.2), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta4](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta4), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.6.0](https://github.com/mogenius/renovate-operator/releases/tag/6.6.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
 - [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.1.0.0), 6 days ago) - A Jellyfin plugin to inject Javascript
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.14.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.14.0), 1 week ago) - 
-- [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) ([v0.55.2](https://github.com/streamyfin/streamyfin/releases/tag/v0.55.2), 1 week ago) - A modern Jellyfin client built with Expo
 
 #### 🔨 My recent Pull Requests
 
