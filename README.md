@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.2](https://github.com/openbao/openbao/releases/tag/v2.7.2), today) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta4](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta4), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.6.0](https://github.com/mogenius/renovate-operator/releases/tag/6.6.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.1.0.0), 6 days ago) - A Jellyfin plugin to inject Javascript
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.2](https://github.com/openbao/openbao/releases/tag/v2.7.2), 1 day ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta4](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta4), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.6.0](https://github.com/mogenius/renovate-operator/releases/tag/6.6.0), 5 days ago) - Operator to streamline renovate executions in Kubernetes
+- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.1.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.14.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.14.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -38,9 +38,9 @@
 
 #### ⭐ Recent Stars
 
-- [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (1 day ago)
-- [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (1 day ago)
-- [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (5 days ago)
+- [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (2 days ago)
+- [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (2 days ago)
+- [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (6 days ago)
 - [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (1 week ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
 
