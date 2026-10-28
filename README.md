@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
+- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (today)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 week ago)
-- [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) -  (2 weeks ago)
-- [jon4hz/gnome-shell-extension-aareguru](https://github.com/jon4hz/gnome-shell-extension-aareguru) - Aare.guru ir gnome shell (2 weeks ago)
-- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (1 month ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.7.0](https://github.com/mogenius/renovate-operator/releases/tag/6.7.0), today) - Operator to streamline renovate executions in Kubernetes
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta8](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta8), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.7.2](https://github.com/openbao/openbao/releases/tag/v2.7.2), 2 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [n00bcodr/Jellyfin-JavaScript-Injector](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector) ([4.1.0.0](https://github.com/n00bcodr/Jellyfin-JavaScript-Injector/releases/tag/4.1.0.0), 1 week ago) - A Jellyfin plugin to inject Javascript
-- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.14.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.14.0), 1 week ago) - 
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.2), today) - Terraform/OpenTofu Provider for The Bastion
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.3](https://github.com/adfinis/bssh/releases/tag/v0.2.3), today) - SSH for The Bastion with fancy autocompletion
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.6](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.6), today) - Mounting Google Drive - The Adfinis way 🧙✨
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.4.1](https://github.com/jon4hz/awoolt/releases/tag/v0.4.1), today) - 🐺 A simple TUI for your openbao KV engines.
+- [adfinis/bastion-go](https://github.com/adfinis/bastion-go) ([v0.5.2](https://github.com/adfinis/bastion-go/releases/tag/v0.5.2), today) - Golang client for The Bastion
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/bssh/pull/52) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
+- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/terraform-provider-bastion/pull/98) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
 - [feat: support openbao ssh engine](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/2) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (1 week ago)
 - [fix: keep menu cursor bar visible when the viewport moves](https://github.com/ansible/ansible-navigator/pull/2181) on [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) (1 week ago)
 - [chore: go mod tidy](https://github.com/adfinis/adfinis-rclone-mgr/pull/189) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 month ago)
-- [ci: correct secret path](https://github.com/adfinis/adfinis-rclone-mgr/pull/188) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 month ago)
-- [ci: fetch secret from openbao](https://github.com/adfinis/adfinis-rclone-mgr/pull/187) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 month ago)
 
 #### ⭐ Recent Stars
 
