@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (today)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (today)
-- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (today)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (1 day ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (1 day ago)
+- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (1 day ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 day ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,24 +22,24 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta9](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta9), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.2), today) - Terraform/OpenTofu Provider for The Bastion
-- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.3](https://github.com/adfinis/bssh/releases/tag/v0.2.3), today) - SSH for The Bastion with fancy autocompletion
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.6](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.6), today) - Mounting Google Drive - The Adfinis way 🧙✨
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.4.1](https://github.com/jon4hz/awoolt/releases/tag/v0.4.1), today) - 🐺 A simple TUI for your openbao KV engines.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta9](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta9), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.2), 1 day ago) - Terraform/OpenTofu Provider for The Bastion
+- [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.3](https://github.com/adfinis/bssh/releases/tag/v0.2.3), 1 day ago) - SSH for The Bastion with fancy autocompletion
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.6](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.6), 1 day ago) - Mounting Google Drive - The Adfinis way 🧙✨
+- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.4.1](https://github.com/jon4hz/awoolt/releases/tag/v0.4.1), 1 day ago) - 🐺 A simple TUI for your openbao KV engines.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/bssh/pull/52) on [adfinis/bssh](https://github.com/adfinis/bssh) (today)
-- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/terraform-provider-bastion/pull/98) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (today)
+- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/bssh/pull/52) on [adfinis/bssh](https://github.com/adfinis/bssh) (1 day ago)
+- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/terraform-provider-bastion/pull/98) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (1 day ago)
 - [feat: support openbao ssh engine](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/2) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (1 week ago)
 - [fix: keep menu cursor bar visible when the viewport moves](https://github.com/ansible/ansible-navigator/pull/2181) on [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) (1 week ago)
 - [chore: go mod tidy](https://github.com/adfinis/adfinis-rclone-mgr/pull/189) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (3 days ago)
-- [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (3 days ago)
+- [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (4 days ago)
+- [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (4 days ago)
 - [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (1 week ago)
 - [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (1 week ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
