@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (2 days ago)
+- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (today)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (2 days ago)
-- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (2 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 days ago)
-- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 week ago)
+- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (2 days ago)
+- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix pipeline after breaking changes](https://github.com/projectpotos/ansible-collection-potos.roles/pull/50) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [chore: update bastion-go to v0.5.2](https://github.com/adfinis/bssh/pull/52) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
 - [chore: update bastion-go to v0.5.2](https://github.com/adfinis/terraform-provider-bastion/pull/98) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [feat: support openbao ssh engine](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/2) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (1 week ago)
 - [fix: keep menu cursor bar visible when the viewport moves](https://github.com/ansible/ansible-navigator/pull/2181) on [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) (2 weeks ago)
-- [chore: go mod tidy](https://github.com/adfinis/adfinis-rclone-mgr/pull/189) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (1 month ago)
 
 #### ⭐ Recent Stars
 
