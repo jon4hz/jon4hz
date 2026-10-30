@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(roles): role to manage netbird agents](https://github.com/projectpotos/ansible-collection-potos.roles/pull/51) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [chore: fix pipeline after breaking changes](https://github.com/projectpotos/ansible-collection-potos.roles/pull/50) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [chore: update bastion-go to v0.5.2](https://github.com/adfinis/bssh/pull/52) on [adfinis/bssh](https://github.com/adfinis/bssh) (2 days ago)
 - [chore: update bastion-go to v0.5.2](https://github.com/adfinis/terraform-provider-bastion/pull/98) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (2 days ago)
 - [feat: support openbao ssh engine](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/2) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (1 week ago)
-- [fix: keep menu cursor bar visible when the viewport moves](https://github.com/ansible/ansible-navigator/pull/2181) on [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
