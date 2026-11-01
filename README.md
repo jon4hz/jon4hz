@@ -8,17 +8,17 @@
 
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (4 days ago)
 - [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (4 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (4 days ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (4 days ago)
 
 #### 🌱 My latest projects
 
+- [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) - 
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office
 - [jon4hz/flowlix](https://github.com/jon4hz/flowlix) - Linux builds for the FlowtoysUpdater
 - [jon4hz/gocloudyourself](https://github.com/jon4hz/gocloudyourself) - Go Cloud Yourself!
 - [jon4hz/gnome-shell-extension-trains](https://github.com/jon4hz/gnome-shell-extension-trains) - 
-- [jon4hz/fuckoff.garden](https://github.com/jon4hz/fuckoff.garden) - 
 
 #### 🔭 Latest releases I've contributed to
 
