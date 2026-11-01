@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) -  (today)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 days ago)
 - [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (4 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (4 days ago)
 - [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (4 days ago)
 
 #### 🌱 My latest projects
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/35) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (today)
+- [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/53) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (today)
+- [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/35) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (today)
 - [feat(roles): role to manage netbird agents](https://github.com/projectpotos/ansible-collection-potos.roles/pull/51) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
 - [chore: fix pipeline after breaking changes](https://github.com/projectpotos/ansible-collection-potos.roles/pull/50) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
-- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/bssh/pull/52) on [adfinis/bssh](https://github.com/adfinis/bssh) (4 days ago)
-- [chore: update bastion-go to v0.5.2](https://github.com/adfinis/terraform-provider-bastion/pull/98) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
-- [feat: support openbao ssh engine](https://github.com/adfinis-forks/the-bastion-ansible-wrapper/pull/2) on [adfinis-forks/the-bastion-ansible-wrapper](https://github.com/adfinis-forks/the-bastion-ansible-wrapper) (1 week ago)
 
 #### ⭐ Recent Stars
 
