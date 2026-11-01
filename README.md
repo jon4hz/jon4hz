@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (today)
 - [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) -  (today)
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (today)
+- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (today)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 days ago)
-- [adfinis/renovate-config](https://github.com/adfinis/renovate-config) - renovate config presets (4 days ago)
-- [adfinis/bssh](https://github.com/adfinis/bssh) - SSH for The Bastion with fancy autocompletion (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/36) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (today)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/35) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (today)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/53) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (today)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/35) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (today)
 - [feat(roles): role to manage netbird agents](https://github.com/projectpotos/ansible-collection-potos.roles/pull/51) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
-- [chore: fix pipeline after breaking changes](https://github.com/projectpotos/ansible-collection-potos.roles/pull/50) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
 
 #### ⭐ Recent Stars
 
