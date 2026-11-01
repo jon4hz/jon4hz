@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-11](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-11), today) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta9](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta9), 4 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) ([v0.5.2](https://github.com/adfinis/terraform-provider-bastion/releases/tag/v0.5.2), 4 days ago) - Terraform/OpenTofu Provider for The Bastion
 - [adfinis/bssh](https://github.com/adfinis/bssh) ([v0.2.3](https://github.com/adfinis/bssh/releases/tag/v0.2.3), 4 days ago) - SSH for The Bastion with fancy autocompletion
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) ([v2.4.6](https://github.com/adfinis/adfinis-rclone-mgr/releases/tag/v2.4.6), 4 days ago) - Mounting Google Drive - The Adfinis way 🧙✨
-- [jon4hz/awoolt](https://github.com/jon4hz/awoolt) ([v0.4.1](https://github.com/jon4hz/awoolt/releases/tag/v0.4.1), 4 days ago) - 🐺 A simple TUI for your openbao KV engines.
 
 #### 🔨 My recent Pull Requests
 
