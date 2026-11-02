@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.1](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.1), today) - A collection of Ansible roles to manage Bareos installations.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.17-rc1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.17-rc1), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.9.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.9.0), 1 day ago) - 🌙 A sleep timer plugin for Jellyfin.
 - [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) ([v0.6.0](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/releases/tag/v0.6.0), 1 day ago) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) ([v0.3.0](https://github.com/jon4hz/jellyfin-plugin-jellysweep/releases/tag/v0.3.0), 1 day ago) - Companion for https://github.com/jon4hz/jellysweep
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) ([monthly/2026-11](https://github.com/awesome-jellyfin/awesome-jellyfin/releases/tag/monthly/2026-11), 1 day ago) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.16-beta9](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.16-beta9), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 #### 🔨 My recent Pull Requests
 
