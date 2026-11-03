@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: new release workflow](https://github.com/projectpotos/actions/pull/38) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/36) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (2 days ago)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/35) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (2 days ago)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/53) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (2 days ago)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/35) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (2 days ago)
-- [feat(roles): role to manage netbird agents](https://github.com/projectpotos/ansible-collection-potos.roles/pull/51) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (4 days ago)
 
 #### ⭐ Recent Stars
 
