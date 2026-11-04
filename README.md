@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.1](https://github.com/projectpotos/actions/releases/tag/v0.6.1), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), today) - Render jinja2 templates with fixture data and lint them with shellcheck.
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.0](https://github.com/projectpotos/actions/releases/tag/v0.6.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), today) - Operator to streamline renovate executions in Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.18](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.1](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.1), 2 days ago) - A collection of reusable workflows for the bareos repositories.
