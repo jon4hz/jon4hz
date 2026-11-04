@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.2](https://github.com/projectpotos/actions/releases/tag/v0.6.2), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.0), today) - 
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.1](https://github.com/projectpotos/actions/releases/tag/v0.6.1), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), today) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), today) - Operator to streamline renovate executions in Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.18](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix pull request labeling](https://github.com/projectpotos/ansible-collection-potos.base/pull/93) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [chore: rm future import](https://github.com/projectpotos/ansible-collection-potos.base/pull/92) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ci: fix molecule config syntax](https://github.com/projectpotos/ansible-collection-potos.base/pull/91) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [ci: new commit based release workflow](https://github.com/projectpotos/ansible-collection-potos.base/pull/89) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [fix: dont break dependencies that easily](https://github.com/projectpotos/shellcheck-jinja/pull/39) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (today)
-- [feat: new release workflow](https://github.com/projectpotos/actions/pull/38) on [projectpotos/actions](https://github.com/projectpotos/actions) (1 day ago)
 
 #### ⭐ Recent Stars
 
