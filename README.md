@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
-- [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) -  (3 days ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (today)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
 - [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (3 days ago)
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 days ago)
+- [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), today) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.0](https://github.com/projectpotos/actions/releases/tag/v0.6.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), today) - Operator to streamline renovate executions in Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.18](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.1](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.1), 2 days ago) - A collection of reusable workflows for the bareos repositories.
-- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.1](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.1), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: new commit based release workflow](https://github.com/projectpotos/ansible-collection-potos.base/pull/89) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
+- [fix: dont break dependencies that easily](https://github.com/projectpotos/shellcheck-jinja/pull/39) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (today)
 - [feat: new release workflow](https://github.com/projectpotos/actions/pull/38) on [projectpotos/actions](https://github.com/projectpotos/actions) (1 day ago)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/36) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (3 days ago)
 - [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching/pull/35) on [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) (3 days ago)
-- [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysleep/pull/53) on [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) (3 days ago)
-- [chore: update for jellyfin 12](https://github.com/jon4hz/jellyfin-plugin-jellysweep/pull/35) on [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) (3 days ago)
 
 #### ⭐ Recent Stars
 
