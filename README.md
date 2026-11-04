@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 days ago)
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (3 days ago)
-- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 - [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) -  (3 days ago)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (5 days ago)
+- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (3 days ago)
+- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) - 🌙 A sleep timer plugin for Jellyfin. (3 days ago)
+- [jon4hz/jellyfin-plugin-discontinue-watching](https://github.com/jon4hz/jellyfin-plugin-discontinue-watching) - Remove items from &#34;Continue Watching&#34; without loosing their watch progress (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.0](https://github.com/projectpotos/actions/releases/tag/v0.6.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), today) - Operator to streamline renovate executions in Kubernetes
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.18](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.18), 2 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.1](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.1), 2 days ago) - A collection of reusable workflows for the bareos repositories.
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.1](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.1), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
-- [jon4hz/jellyfin-plugin-jellysleep](https://github.com/jon4hz/jellyfin-plugin-jellysleep) ([v0.9.0](https://github.com/jon4hz/jellyfin-plugin-jellysleep/releases/tag/v0.9.0), 3 days ago) - 🌙 A sleep timer plugin for Jellyfin.
 
 #### 🔨 My recent Pull Requests
 
