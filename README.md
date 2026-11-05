@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: improve bootchain stability](https://github.com/projectpotos/ansible-collection-potos.base/pull/97) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [chore: use modern syntax to ref workflows](https://github.com/projectpotos/actions/pull/39) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [ci: fix pull request labeling](https://github.com/projectpotos/ansible-collection-potos.base/pull/93) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [chore: rm future import](https://github.com/projectpotos/ansible-collection-potos.base/pull/92) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [ci: fix molecule config syntax](https://github.com/projectpotos/ansible-collection-potos.base/pull/91) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
-- [ci: new commit based release workflow](https://github.com/projectpotos/ansible-collection-potos.base/pull/89) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 
 #### ⭐ Recent Stars
 
