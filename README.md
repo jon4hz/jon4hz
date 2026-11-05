@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (1 day ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 day ago)
-- [jon4hz/jellyfin-plugin-ci](https://github.com/jon4hz/jellyfin-plugin-ci) -  (4 days ago)
+- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.6.2](https://github.com/projectpotos/actions/releases/tag/v0.6.2), 1 day ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.7.0](https://github.com/projectpotos/actions/releases/tag/v0.7.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.0), 1 day ago) - 
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), 1 day ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), 1 day ago) - Operator to streamline renovate executions in Kubernetes
