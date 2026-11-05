@@ -30,19 +30,19 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use modern syntax to ref workflows](https://github.com/projectpotos/actions/pull/39) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
 - [ci: fix pull request labeling](https://github.com/projectpotos/ansible-collection-potos.base/pull/93) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [chore: rm future import](https://github.com/projectpotos/ansible-collection-potos.base/pull/92) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [ci: fix molecule config syntax](https://github.com/projectpotos/ansible-collection-potos.base/pull/91) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [ci: new commit based release workflow](https://github.com/projectpotos/ansible-collection-potos.base/pull/89) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
-- [fix: dont break dependencies that easily](https://github.com/projectpotos/shellcheck-jinja/pull/39) on [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) (1 day ago)
 
 #### ⭐ Recent Stars
 
+- [kjanat/actionlint](https://github.com/kjanat/actionlint) - Find problems in your GitHub Actions workflows (today)
 - [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (1 week ago)
 - [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (1 week ago)
 - [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (2 weeks ago)
 - [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (2 weeks ago)
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
