@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) -  (today)
 - [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 day ago)
-- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (4 days ago)
 
 #### 🌱 My latest projects
 
