@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) -  (today)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (today)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (1 day ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (1 day ago)
-- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 day ago)
+- [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) -  (1 day ago)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (1 day ago)
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
+- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,27 +22,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.19-rc1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.19-rc1), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.7.0](https://github.com/projectpotos/actions/releases/tag/v0.7.0), today) - Reusable GitHub Actions workflows and composite actions for all potos projects.
-- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.0), 1 day ago) - 
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), 1 day ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), 1 day ago) - Operator to streamline renovate executions in Kubernetes
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.19-rc1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.19-rc1), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.7.0](https://github.com/projectpotos/actions/releases/tag/v0.7.0), 1 day ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
+- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.0), 2 days ago) - 
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), 2 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [fix: use /var/backups/postgresql as default backup path](https://github.com/adfinis/ansible-role-bareos_fd/pull/67) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (today)
-- [fix: improve bootchain stability](https://github.com/projectpotos/ansible-collection-potos.base/pull/97) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
-- [chore: use modern syntax to ref workflows](https://github.com/projectpotos/actions/pull/39) on [projectpotos/actions](https://github.com/projectpotos/actions) (today)
-- [ci: fix pull request labeling](https://github.com/projectpotos/ansible-collection-potos.base/pull/93) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
-- [chore: rm future import](https://github.com/projectpotos/ansible-collection-potos.base/pull/92) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
+- [fix: use /var/backups/postgresql as default backup path](https://github.com/adfinis/ansible-role-bareos_fd/pull/67) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (1 day ago)
+- [fix: improve bootchain stability](https://github.com/projectpotos/ansible-collection-potos.base/pull/97) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
+- [chore: use modern syntax to ref workflows](https://github.com/projectpotos/actions/pull/39) on [projectpotos/actions](https://github.com/projectpotos/actions) (1 day ago)
+- [ci: fix pull request labeling](https://github.com/projectpotos/ansible-collection-potos.base/pull/93) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
+- [chore: rm future import](https://github.com/projectpotos/ansible-collection-potos.base/pull/92) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [kjanat/actionlint](https://github.com/kjanat/actionlint) - Find problems in your GitHub Actions workflows (today)
+- [kjanat/actionlint](https://github.com/kjanat/actionlint) - Find problems in your GitHub Actions workflows (1 day ago)
 - [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (1 week ago)
 - [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (1 week ago)
 - [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (2 weeks ago)
-- [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (2 weeks ago)
+- [heraclescap/wazuh-custom-dashboards](https://github.com/heraclescap/wazuh-custom-dashboards) - Custom Wazuh dashboards for alert monitoring, software hygiene and vulnerability panorama. (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
