@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) - Fedora 45 Docker container for Ansible playbook and role testing. (today)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
+- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (today)
 - [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (1 day ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (2 days ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (2 days ago)
-- [jon4hz/jellyfin-plugin-jellysweep](https://github.com/jon4hz/jellyfin-plugin-jellysweep) - Companion for https://github.com/jon4hz/jellysweep (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: build fedora 45 image](https://github.com/projectpotos/docker-fedora45-ansible/pull/1) on [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) (today)
+- [ci: new release workflow](https://github.com/projectpotos/ansible-collection-potos.roles/pull/56) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [fix: use /var/backups/postgresql as default backup path](https://github.com/adfinis/ansible-role-bareos_fd/pull/67) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (1 day ago)
 - [fix: improve bootchain stability](https://github.com/projectpotos/ansible-collection-potos.base/pull/97) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (1 day ago)
 - [chore: use modern syntax to ref workflows](https://github.com/projectpotos/actions/pull/39) on [projectpotos/actions](https://github.com/projectpotos/actions) (1 day ago)
-- [ci: fix pull request labeling](https://github.com/projectpotos/ansible-collection-potos.base/pull/93) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
-- [chore: rm future import](https://github.com/projectpotos/ansible-collection-potos.base/pull/92) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 
 #### ⭐ Recent Stars
 
