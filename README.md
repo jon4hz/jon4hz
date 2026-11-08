@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (today)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (2 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
 - [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) - Fedora 45 Docker container for Ansible playbook and role testing. (2 days ago)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (2 days ago)
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) - Render jinja2 templates with fixture data and lint them with shellcheck. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: regenerate templ](https://github.com/jon4hz/jellysweep/pull/450) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [chore: update charmbracelet major deps](https://github.com/jon4hz/jellysweep/pull/449) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
+- [fix: more jellyfin 12 api fixes](https://github.com/jon4hz/jellysweep/pull/448) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: build fedora 45 image](https://github.com/projectpotos/docker-fedora45-ansible/pull/1) on [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) (2 days ago)
 - [ci: new release workflow](https://github.com/projectpotos/ansible-collection-potos.roles/pull/56) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
-- [fix: use /var/backups/postgresql as default backup path](https://github.com/adfinis/ansible-role-bareos_fd/pull/67) on [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) (3 days ago)
-- [fix: improve bootchain stability](https://github.com/projectpotos/ansible-collection-potos.base/pull/97) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (3 days ago)
-- [chore: use modern syntax to ref workflows](https://github.com/projectpotos/actions/pull/39) on [projectpotos/actions](https://github.com/projectpotos/actions) (3 days ago)
 
 #### ⭐ Recent Stars
 
