@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.20-rc1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.20-rc1), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.8.0](https://github.com/projectpotos/actions/releases/tag/v0.8.0), 2 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.19-rc1](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.19-rc1), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.0), 4 days ago) - 
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), 4 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.8.0](https://github.com/mogenius/renovate-operator/releases/tag/6.8.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
