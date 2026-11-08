@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: regenerate templ](https://github.com/jon4hz/jellysweep/pull/453) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: regenerate templ](https://github.com/jon4hz/jellysweep/pull/450) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [chore: update charmbracelet major deps](https://github.com/jon4hz/jellysweep/pull/449) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [fix: more jellyfin 12 api fixes](https://github.com/jon4hz/jellysweep/pull/448) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (today)
 - [feat: build fedora 45 image](https://github.com/projectpotos/docker-fedora45-ansible/pull/1) on [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) (2 days ago)
-- [ci: new release workflow](https://github.com/projectpotos/ansible-collection-potos.roles/pull/56) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
 
 #### ⭐ Recent Stars
 
