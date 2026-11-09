@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: remove leftover from anaconda systemd-boot installation](https://github.com/projectpotos/ansible-collection-potos.base/pull/101) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: fedora 45 support](https://github.com/projectpotos/potos-iso-builder/pull/142) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (today)
 - [feat: fedora 45 support](https://github.com/projectpotos/ansible-collection-potos.roles/pull/59) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
 - [fix: repair venv on python version bump](https://github.com/projectpotos/ansible-collection-potos.base/pull/100) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: m in microsoft](https://github.com/adfinis/flappy-sez/pull/44) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
-- [feat: support for fedora 45](https://github.com/projectpotos/ansible-collection-potos.base/pull/99) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 
 #### ⭐ Recent Stars
 
