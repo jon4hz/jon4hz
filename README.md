@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (today)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (3 days ago)
+- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (3 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (3 days ago)
 - [projectpotos/docker-fedora45-ansible](https://github.com/projectpotos/docker-fedora45-ansible) - Fedora 45 Docker container for Ansible playbook and role testing. (3 days ago)
-- [projectpotos/actions](https://github.com/projectpotos/actions) - Reusable GitHub Actions workflows and composite actions for all potos projects. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.2](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.2), today) - A collection of reusable workflows for the bareos repositories.
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.1](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.1), today) - 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.20-rc2](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.20-rc2), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.2](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.2), 1 day ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
 - [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.8.0](https://github.com/projectpotos/actions/releases/tag/v0.8.0), 3 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
-- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.0](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.0), 5 days ago) - 
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.3.2](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.3.2), 5 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 
 #### 🔨 My recent Pull Requests
 
