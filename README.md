@@ -7,10 +7,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (today)
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (today)
+- [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing. (today)
 - [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) - Flappy Says FLAPPP (today)
+- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (today)
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server (1 day ago)
-- [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: repair venv on python version bump](https://github.com/projectpotos/ansible-collection-potos.base/pull/100) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [feat: m in microsoft](https://github.com/adfinis/flappy-sez/pull/44) on [adfinis/flappy-sez](https://github.com/adfinis/flappy-sez) (today)
 - [feat: support for fedora 45](https://github.com/projectpotos/ansible-collection-potos.base/pull/99) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (today)
 - [chore: regenerate templ](https://github.com/jon4hz/jellysweep/pull/453) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 - [chore: regenerate templ](https://github.com/jon4hz/jellysweep/pull/450) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
-- [chore: update charmbracelet major deps](https://github.com/jon4hz/jellysweep/pull/449) on [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) (1 day ago)
 
 #### ⭐ Recent Stars
 
