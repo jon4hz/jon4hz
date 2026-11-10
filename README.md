@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.22](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.22), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.25.00](https://github.com/ovh/the-bastion/releases/tag/v3.25.00), today) - Authentication, authorization, traceability and auditability for SSH accesses.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.23), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.2](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.2), 1 day ago) - A collection of reusable workflows for the bareos repositories.
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.1](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.1), 1 day ago) - 
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.2](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.2), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
-- [projectpotos/actions](https://github.com/projectpotos/actions) ([v0.8.0](https://github.com/projectpotos/actions/releases/tag/v0.8.0), 4 days ago) - Reusable GitHub Actions workflows and composite actions for all potos projects.
 
 #### 🔨 My recent Pull Requests
 
