@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.21](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.21), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.19.22](https://github.com/semaphoreui/semaphore/releases/tag/v2.19.22), today) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.2](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.2), 1 day ago) - A collection of reusable workflows for the bareos repositories.
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.1](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.1), 1 day ago) - 
 - [jon4hz/jellysweep](https://github.com/jon4hz/jellysweep) ([v0.16.2](https://github.com/jon4hz/jellysweep/releases/tag/v0.16.2), 2 days ago) - 🧹 Jellysweep is a smart cleanup tool for your Jellyfin media server
