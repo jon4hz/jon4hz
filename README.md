@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (today)
 - [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (1 day ago)
 - [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) - Ansible collection with various roles to manage a fleet of linux clients. (2 days ago)
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (2 days ago)
+- [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing. (2 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
-- [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(chart): reset pinned image tag digest](https://github.com/adfinis/bbook/pull/61) on [adfinis/bbook](https://github.com/adfinis/bbook) (today)
 - [v0.5.0](https://github.com/adfinis/bbook/pull/60) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 day ago)
 - [feat(chart): support for http redirect and traffic policies](https://github.com/adfinis/bbook/pull/59) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 day ago)
 - [fix: remove leftover from anaconda systemd-boot installation](https://github.com/projectpotos/ansible-collection-potos.base/pull/101) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
 - [feat: fedora 45 support](https://github.com/projectpotos/potos-iso-builder/pull/142) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (2 days ago)
-- [feat: fedora 45 support](https://github.com/projectpotos/ansible-collection-potos.roles/pull/59) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (2 days ago)
 
 #### ⭐ Recent Stars
 
