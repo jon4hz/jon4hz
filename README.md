@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.6.0](https://github.com/adfinis/bbook/releases/tag/v0.6.0), 1 day ago) - Browse Zoho customer contacts and sync them to your mail client
+- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.0](https://github.com/adfinis/bbook/releases/tag/v0.7.0), today) - Browse Zoho customer contacts and sync them to your mail client
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.25.00](https://github.com/ovh/the-bastion/releases/tag/v3.25.00), 1 day ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.23), 1 day ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.2](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.2), 2 days ago) - A collection of reusable workflows for the bareos repositories.
@@ -38,11 +38,11 @@
 
 #### ⭐ Recent Stars
 
+- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (today)
 - [music-assistant/local-audio-addon](https://github.com/music-assistant/local-audio-addon) - An add-on (or standalone docker container) to HAOS to enable use of local audio interfaces as sendspin devices via the sendspin-cpp-cli project (5 days ago)
 - [kjanat/actionlint](https://github.com/kjanat/actionlint) - Find problems in your GitHub Actions workflows (6 days ago)
 - [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (2 weeks ago)
 - [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (2 weeks ago)
-- [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
