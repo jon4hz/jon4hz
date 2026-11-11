@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (today)
 - [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (today)
+- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (today)
 - [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) -  (2 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
 - [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) - Custom installation ISO builder for potos linux clients. (2 days ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: new release workflow](https://github.com/adfinis/bbook/pull/62) on [adfinis/bbook](https://github.com/adfinis/bbook) (today)
 - [fix(chart): reset pinned image tag digest](https://github.com/adfinis/bbook/pull/61) on [adfinis/bbook](https://github.com/adfinis/bbook) (today)
 - [v0.5.0](https://github.com/adfinis/bbook/pull/60) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 day ago)
 - [feat(chart): support for http redirect and traffic policies](https://github.com/adfinis/bbook/pull/59) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 day ago)
 - [fix: remove leftover from anaconda systemd-boot installation](https://github.com/projectpotos/ansible-collection-potos.base/pull/101) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (2 days ago)
-- [feat: fedora 45 support](https://github.com/projectpotos/potos-iso-builder/pull/142) on [projectpotos/potos-iso-builder](https://github.com/projectpotos/potos-iso-builder) (2 days ago)
 
 #### ⭐ Recent Stars
 
