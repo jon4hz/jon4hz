@@ -41,8 +41,8 @@
 - [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (1 day ago)
 - [music-assistant/local-audio-addon](https://github.com/music-assistant/local-audio-addon) - An add-on (or standalone docker container) to HAOS to enable use of local audio interfaces as sendspin devices via the sendspin-cpp-cli project (6 days ago)
 - [kjanat/actionlint](https://github.com/kjanat/actionlint) - Find problems in your GitHub Actions workflows (1 week ago)
-- [peanutpckrupper/installation08](https://github.com/peanutpckrupper/installation08) -  (2 weeks ago)
 - [V1ck3s/octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources. (2 weeks ago)
+- [netbirdio/network-manager-vpn-plugin](https://github.com/netbirdio/network-manager-vpn-plugin) -  (3 weeks ago)
 
 #### 📫 How to reach me
 I'm sure you'll figure something out :)
