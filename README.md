@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.3](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.3), today) - Ansible collection to manage icinga2
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.9.0](https://github.com/mogenius/renovate-operator/releases/tag/6.9.0), today) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.0](https://github.com/adfinis/bbook/releases/tag/v0.7.0), 2 days ago) - Browse Zoho customer contacts and sync them to your mail client
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.25.00](https://github.com/ovh/the-bastion/releases/tag/v3.25.00), 3 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.23), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
-- [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.2](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.2), 4 days ago) - A collection of reusable workflows for the bareos repositories.
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix antsichaut on unlabled PRs](https://github.com/adfinis/ansible-collection-icinga2/pull/85) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: pin runner image to ubuntu-24.04](https://github.com/adfinis/ansible-collection-icinga2/pull/83) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: new release workflow](https://github.com/adfinis/bbook/pull/62) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
 - [fix(chart): reset pinned image tag digest](https://github.com/adfinis/bbook/pull/61) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
 - [v0.5.0](https://github.com/adfinis/bbook/pull/60) on [adfinis/bbook](https://github.com/adfinis/bbook) (3 days ago)
-- [feat(chart): support for http redirect and traffic policies](https://github.com/adfinis/bbook/pull/59) on [adfinis/bbook](https://github.com/adfinis/bbook) (3 days ago)
 
 #### ⭐ Recent Stars
 
