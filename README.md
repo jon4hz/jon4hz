@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: pin runner image to ubuntu-24.04](https://github.com/adfinis/ansible-collection-icinga2/pull/83) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: new release workflow](https://github.com/adfinis/bbook/pull/62) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
 - [fix(chart): reset pinned image tag digest](https://github.com/adfinis/bbook/pull/61) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
 - [v0.5.0](https://github.com/adfinis/bbook/pull/60) on [adfinis/bbook](https://github.com/adfinis/bbook) (3 days ago)
 - [feat(chart): support for http redirect and traffic policies](https://github.com/adfinis/bbook/pull/59) on [adfinis/bbook](https://github.com/adfinis/bbook) (3 days ago)
-- [fix: remove leftover from anaconda systemd-boot installation](https://github.com/projectpotos/ansible-collection-potos.base/pull/101) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (4 days ago)
 
 #### ⭐ Recent Stars
 
