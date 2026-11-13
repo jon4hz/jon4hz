@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(runtime): allow ansible version &lt;2.23](https://github.com/radiorabe/ansible-collection-common/pull/120) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (today)
 - [ci: fix antsichaut on unlabled PRs](https://github.com/adfinis/ansible-collection-icinga2/pull/85) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: pin runner image to ubuntu-24.04](https://github.com/adfinis/ansible-collection-icinga2/pull/83) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (today)
 - [ci: new release workflow](https://github.com/adfinis/bbook/pull/62) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
 - [fix(chart): reset pinned image tag digest](https://github.com/adfinis/bbook/pull/61) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
-- [v0.5.0](https://github.com/adfinis/bbook/pull/60) on [adfinis/bbook](https://github.com/adfinis/bbook) (3 days ago)
 
 #### ⭐ Recent Stars
 
