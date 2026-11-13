@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.9.0](https://github.com/mogenius/renovate-operator/releases/tag/6.9.0), today) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.0](https://github.com/adfinis/bbook/releases/tag/v0.7.0), 2 days ago) - Browse Zoho customer contacts and sync them to your mail client
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.25.00](https://github.com/ovh/the-bastion/releases/tag/v3.25.00), 3 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.23), 3 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [adfinis/github-workflows-bareos](https://github.com/adfinis/github-workflows-bareos) ([v0.11.2](https://github.com/adfinis/github-workflows-bareos/releases/tag/v0.11.2), 4 days ago) - A collection of reusable workflows for the bareos repositories.
-- [adfinis/ansible-role-bareos_fd](https://github.com/adfinis/ansible-role-bareos_fd) ([v1.10.1](https://github.com/adfinis/ansible-role-bareos_fd/releases/tag/v1.10.1), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
