@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (today)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (2 days ago)
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (2 days ago)
-- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (4 days ago)
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (4 days ago)
-- [projectpotos/docker-fedora44-ansible](https://github.com/projectpotos/docker-fedora44-ansible) - Fedora 44 Docker container for Ansible playbook and role testing. (6 days ago)
+- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.1](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.1), today) - 
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.3](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.3), 2 days ago) - Ansible collection to manage icinga2
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.9.0](https://github.com/mogenius/renovate-operator/releases/tag/6.9.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.0](https://github.com/adfinis/bbook/releases/tag/v0.7.0), 4 days ago) - Browse Zoho customer contacts and sync them to your mail client
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) ([v3.25.00](https://github.com/ovh/the-bastion/releases/tag/v3.25.00), 5 days ago) - Authentication, authorization, traceability and auditability for SSH accesses.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) ([v2.20.23](https://github.com/semaphoreui/semaphore/releases/tag/v2.20.23), 5 days ago) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 #### 🔨 My recent Pull Requests
 
