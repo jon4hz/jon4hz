@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: portforward improvements and testing](https://github.com/adfinis-forks/the-bastion/pull/9) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (today)
+- [chore: portforward improvements and testing](https://github.com/ovh/the-bastion/pull/712) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [chore: update and regen templ](https://github.com/adfinis/adfinis-rclone-mgr/pull/211) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [chore: dont group templ updates](https://github.com/adfinis/adfinis-rclone-mgr/pull/210) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [fix(runtime): allow ansible version &lt;2.23](https://github.com/radiorabe/ansible-collection-common/pull/120) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (3 days ago)
-- [ci: fix antsichaut on unlabled PRs](https://github.com/adfinis/ansible-collection-icinga2/pull/85) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (3 days ago)
-- [ci: pin runner image to ubuntu-24.04](https://github.com/adfinis/ansible-collection-icinga2/pull/83) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (3 days ago)
 
 #### ⭐ Recent Stars
 
