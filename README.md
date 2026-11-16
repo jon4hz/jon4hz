@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 day ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (3 days ago)
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (3 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (3 days ago)
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (5 days ago)
 - [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (5 days ago)
 
