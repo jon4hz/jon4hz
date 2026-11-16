@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (today)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (1 day ago)
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (3 days ago)
 - [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (3 days ago)
+- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (3 days ago)
 - [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (5 days ago)
-- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update and regen templ](https://github.com/adfinis/adfinis-rclone-mgr/pull/211) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
+- [chore: dont group templ updates](https://github.com/adfinis/adfinis-rclone-mgr/pull/210) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (today)
 - [fix(runtime): allow ansible version &lt;2.23](https://github.com/radiorabe/ansible-collection-common/pull/120) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (3 days ago)
 - [ci: fix antsichaut on unlabled PRs](https://github.com/adfinis/ansible-collection-icinga2/pull/85) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (3 days ago)
 - [ci: pin runner image to ubuntu-24.04](https://github.com/adfinis/ansible-collection-icinga2/pull/83) on [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) (3 days ago)
-- [ci: new release workflow](https://github.com/adfinis/bbook/pull/62) on [adfinis/bbook](https://github.com/adfinis/bbook) (5 days ago)
-- [fix(chart): reset pinned image tag digest](https://github.com/adfinis/bbook/pull/61) on [adfinis/bbook](https://github.com/adfinis/bbook) (5 days ago)
 
 #### ⭐ Recent Stars
 
