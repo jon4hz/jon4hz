@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.2), today) - A collection of Ansible roles to manage Bareos installations.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.2](https://github.com/radiorabe/actions/releases/tag/v0.45.2), 2 days ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.1](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.1), 2 days ago) - 
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.3](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.3), 4 days ago) - Ansible collection to manage icinga2
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.9.0](https://github.com/mogenius/renovate-operator/releases/tag/6.9.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
-- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.0](https://github.com/adfinis/bbook/releases/tag/v0.7.0), 6 days ago) - Browse Zoho customer contacts and sync them to your mail client
 
 #### 🔨 My recent Pull Requests
 
