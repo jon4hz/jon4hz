@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update theme for owncloud 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/1) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (today)
 - [fix: enable pkce for django backend](https://github.com/adfinis/timed/pull/1617) on [adfinis/timed](https://github.com/adfinis/timed) (today)
 - [fix: improve ldap validation](https://github.com/adfinis/ansible-role-the_bastion/pull/91) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [chore: portforward improvements and testing](https://github.com/adfinis-forks/the-bastion/pull/9) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
 - [chore: portforward improvements and testing](https://github.com/ovh/the-bastion/pull/712) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
-- [chore: update and regen templ](https://github.com/adfinis/adfinis-rclone-mgr/pull/211) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 
 #### ⭐ Recent Stars
 
