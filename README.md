@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: improve ldap validation](https://github.com/adfinis/ansible-role-the_bastion/pull/91) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [chore: portforward improvements and testing](https://github.com/adfinis-forks/the-bastion/pull/9) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
 - [chore: portforward improvements and testing](https://github.com/ovh/the-bastion/pull/712) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
 - [chore: update and regen templ](https://github.com/adfinis/adfinis-rclone-mgr/pull/211) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 - [chore: dont group templ updates](https://github.com/adfinis/adfinis-rclone-mgr/pull/210) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
-- [fix(runtime): allow ansible version &lt;2.23](https://github.com/radiorabe/ansible-collection-common/pull/120) on [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) (5 days ago)
 
 #### ⭐ Recent Stars
 
