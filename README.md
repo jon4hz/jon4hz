@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [adfinis/timed](https://github.com/adfinis/timed) - Monorepo for the Timed time-tracking application (today)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (today)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (2 days ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (3 days ago)
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (5 days ago)
 - [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) - Ansible collection to manage icinga2 (5 days ago)
-- [jon4hz/loudest-office](https://github.com/jon4hz/loudest-office) - On a quest to become the loudest office (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [adfinis/timed](https://github.com/adfinis/timed) ([v5.22.12](https://github.com/adfinis/timed/releases/tag/v5.22.12), today) - Monorepo for the Timed time-tracking application
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.10.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.10.1), today) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.2), 1 day ago) - A collection of Ansible roles to manage Bareos installations.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.2](https://github.com/radiorabe/actions/releases/tag/v0.45.2), 3 days ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.1](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.1), 3 days ago) - 
-- [adfinis/ansible-collection-icinga2](https://github.com/adfinis/ansible-collection-icinga2) ([v0.1.3](https://github.com/adfinis/ansible-collection-icinga2/releases/tag/v0.1.3), 5 days ago) - Ansible collection to manage icinga2
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.9.0](https://github.com/mogenius/renovate-operator/releases/tag/6.9.0), 5 days ago) - Operator to streamline renovate executions in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
+- [fix: enable pkce for django backend](https://github.com/adfinis/timed/pull/1617) on [adfinis/timed](https://github.com/adfinis/timed) (today)
 - [fix: improve ldap validation](https://github.com/adfinis/ansible-role-the_bastion/pull/91) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
 - [chore: portforward improvements and testing](https://github.com/adfinis-forks/the-bastion/pull/9) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (2 days ago)
 - [chore: portforward improvements and testing](https://github.com/ovh/the-bastion/pull/712) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (2 days ago)
 - [chore: update and regen templ](https://github.com/adfinis/adfinis-rclone-mgr/pull/211) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
-- [chore: dont group templ updates](https://github.com/adfinis/adfinis-rclone-mgr/pull/210) on [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) (2 days ago)
 
 #### ⭐ Recent Stars
 
