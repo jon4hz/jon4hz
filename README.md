@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) - Theme for RaBe ownCloud (today)
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (1 day ago)
-- [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) - Theme for RaBe ownCloud (1 day ago)
 - [adfinis/timed](https://github.com/adfinis/timed) - Monorepo for the Timed time-tracking application (1 day ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (3 days ago)
 - [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) -  (4 days ago)
