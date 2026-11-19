@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: pin images and update to php 8.5.13](https://github.com/shlinkio/shlink/pull/2704) on [shlinkio/shlink](https://github.com/shlinkio/shlink) (today)
 - [fix: set min version to 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/2) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (today)
 - [feat: update theme for owncloud 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/1) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (1 day ago)
 - [fix: enable pkce for django backend](https://github.com/adfinis/timed/pull/1617) on [adfinis/timed](https://github.com/adfinis/timed) (1 day ago)
 - [fix: improve ldap validation](https://github.com/adfinis/ansible-role-the_bastion/pull/91) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
-- [chore: portforward improvements and testing](https://github.com/adfinis-forks/the-bastion/pull/9) on [adfinis-forks/the-bastion](https://github.com/adfinis-forks/the-bastion) (3 days ago)
 
 #### ⭐ Recent Stars
 
