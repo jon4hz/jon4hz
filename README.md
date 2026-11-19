@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.10.0](https://github.com/mogenius/renovate-operator/releases/tag/6.10.0), today) - Operator to streamline renovate executions in Kubernetes
 - [adfinis/timed](https://github.com/adfinis/timed) ([v5.22.12](https://github.com/adfinis/timed/releases/tag/v5.22.12), 1 day ago) - Monorepo for the Timed time-tracking application
 - [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) ([v0.10.1](https://github.com/adfinis/ansible-role-the_bastion/releases/tag/v0.10.1), 1 day ago) - Ansible role to install and configure The Bastion
 - [adfinis/ansible-collection-bareos](https://github.com/adfinis/ansible-collection-bareos) ([v2.4.2](https://github.com/adfinis/ansible-collection-bareos/releases/tag/v2.4.2), 2 days ago) - A collection of Ansible roles to manage Bareos installations.
 - [radiorabe/actions](https://github.com/radiorabe/actions) ([v0.45.2](https://github.com/radiorabe/actions/releases/tag/v0.45.2), 4 days ago) - Reusable Actions, like for GitHub (thanks for reading this description, here&#39;s a birb zoo for you: 🐦🦉🦜🐤)
-- [radiorabe/ansible-collection-common](https://github.com/radiorabe/ansible-collection-common) ([v0.15.1](https://github.com/radiorabe/ansible-collection-common/releases/tag/v0.15.1), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
