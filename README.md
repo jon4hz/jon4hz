@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: make sure modal cannot be viewed twice](https://github.com/adfinis/bbook/pull/63) on [adfinis/bbook](https://github.com/adfinis/bbook) (today)
 - [fix: pin images and update to php 8.5.13](https://github.com/shlinkio/shlink/pull/2704) on [shlinkio/shlink](https://github.com/shlinkio/shlink) (1 day ago)
 - [fix: set min version to 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/2) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (1 day ago)
 - [feat: update theme for owncloud 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/1) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (2 days ago)
 - [fix: enable pkce for django backend](https://github.com/adfinis/timed/pull/1617) on [adfinis/timed](https://github.com/adfinis/timed) (2 days ago)
-- [fix: improve ldap validation](https://github.com/adfinis/ansible-role-the_bastion/pull/91) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (2 days ago)
 
 #### ⭐ Recent Stars
 
