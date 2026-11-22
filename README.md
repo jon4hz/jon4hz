@@ -8,8 +8,8 @@
 
 - [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (2 days ago)
 - [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) - Theme for RaBe ownCloud (3 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (4 days ago)
 - [adfinis/timed](https://github.com/adfinis/timed) - Monorepo for the Timed time-tracking application (4 days ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (4 days ago)
 - [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
 
 #### 🌱 My latest projects
