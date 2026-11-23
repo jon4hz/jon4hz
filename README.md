@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (2 days ago)
-- [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) - Theme for RaBe ownCloud (3 days ago)
-- [adfinis/timed](https://github.com/adfinis/timed) - Monorepo for the Timed time-tracking application (4 days ago)
-- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (4 days ago)
-- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (6 days ago)
+- [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (3 days ago)
+- [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) - Theme for RaBe ownCloud (4 days ago)
+- [adfinis/timed](https://github.com/adfinis/timed) - Monorepo for the Timed time-tracking application (5 days ago)
+- [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) - Ansible role to install and configure The Bastion (5 days ago)
+- [adfinis/adfinis-rclone-mgr](https://github.com/adfinis/adfinis-rclone-mgr) - Mounting Google Drive - The Adfinis way 🧙✨ (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.2.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.2.0), 2 days ago) - Install OpenBao on your system.
-- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.1](https://github.com/adfinis/bbook/releases/tag/v0.7.1), 2 days ago) - Browse Zoho customer contacts and sync them to your mail client
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.6](https://github.com/openbao/openbao/releases/tag/v2.6.6), 3 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.10.0](https://github.com/mogenius/renovate-operator/releases/tag/6.10.0), 3 days ago) - Operator to streamline renovate executions in Kubernetes
-- [adfinis/timed](https://github.com/adfinis/timed) ([v5.22.12](https://github.com/adfinis/timed/releases/tag/v5.22.12), 4 days ago) - Monorepo for the Timed time-tracking application
+- [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.2.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.2.0), 3 days ago) - Install OpenBao on your system.
+- [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.1](https://github.com/adfinis/bbook/releases/tag/v0.7.1), 3 days ago) - Browse Zoho customer contacts and sync them to your mail client
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.6.6](https://github.com/openbao/openbao/releases/tag/v2.6.6), 4 days ago) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([6.10.0](https://github.com/mogenius/renovate-operator/releases/tag/6.10.0), 4 days ago) - Operator to streamline renovate executions in Kubernetes
+- [adfinis/timed](https://github.com/adfinis/timed) ([v5.22.12](https://github.com/adfinis/timed/releases/tag/v5.22.12), 5 days ago) - Monorepo for the Timed time-tracking application
 
 #### 🔨 My recent Pull Requests
 
-- [fix: make sure modal cannot be viewed twice](https://github.com/adfinis/bbook/pull/63) on [adfinis/bbook](https://github.com/adfinis/bbook) (2 days ago)
-- [fix: pin images and update to php 8.5.13](https://github.com/shlinkio/shlink/pull/2704) on [shlinkio/shlink](https://github.com/shlinkio/shlink) (3 days ago)
-- [fix: set min version to 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/2) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (3 days ago)
-- [feat: update theme for owncloud 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/1) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (4 days ago)
-- [fix: enable pkce for django backend](https://github.com/adfinis/timed/pull/1617) on [adfinis/timed](https://github.com/adfinis/timed) (4 days ago)
+- [fix: make sure modal cannot be viewed twice](https://github.com/adfinis/bbook/pull/63) on [adfinis/bbook](https://github.com/adfinis/bbook) (3 days ago)
+- [fix: pin images and update to php 8.5.13](https://github.com/shlinkio/shlink/pull/2704) on [shlinkio/shlink](https://github.com/shlinkio/shlink) (4 days ago)
+- [fix: set min version to 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/2) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (4 days ago)
+- [feat: update theme for owncloud 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/1) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (5 days ago)
+- [fix: enable pkce for django backend](https://github.com/adfinis/timed/pull/1617) on [adfinis/timed](https://github.com/adfinis/timed) (5 days ago)
 
 #### ⭐ Recent Stars
 
