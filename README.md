@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/timed](https://github.com/adfinis/timed) ([v5.22.13](https://github.com/adfinis/timed/releases/tag/v5.22.13), 1 day ago) - Monorepo for the Timed time-tracking application
+- [adfinis/timed](https://github.com/adfinis/timed) ([v5.23.0](https://github.com/adfinis/timed/releases/tag/v5.23.0), today) - Monorepo for the Timed time-tracking application
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.4.0](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.4.0), 2 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.2.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.2.0), 5 days ago) - Install OpenBao on your system.
 - [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.1](https://github.com/adfinis/bbook/releases/tag/v0.7.1), 5 days ago) - Browse Zoho customer contacts and sync them to your mail client
