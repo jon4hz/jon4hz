@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/timed](https://github.com/adfinis/timed) ([v5.24.0](https://github.com/adfinis/timed/releases/tag/v5.24.0), today) - Monorepo for the Timed time-tracking application
+- [adfinis/timed](https://github.com/adfinis/timed) ([v5.25.0](https://github.com/adfinis/timed/releases/tag/v5.25.0), today) - Monorepo for the Timed time-tracking application
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([7.0.0](https://github.com/mogenius/renovate-operator/releases/tag/7.0.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
 - [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.4.0](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.4.0), 4 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.2.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.2.0), 1 week ago) - Install OpenBao on your system.
