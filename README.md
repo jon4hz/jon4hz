@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(roles): role to manage dnf and repos](https://github.com/projectpotos/ansible-collection-potos.roles/pull/72) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
+- [fix: option to upgrade tooling explicitly](https://github.com/adfinis/ansible-role-the_bastion/pull/94) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
+- [fix: setup-encryption.sh: reference the LUKS device by UUID](https://github.com/ovh/the-bastion/pull/715) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
 - [chore: ruff doesnt like nested if](https://github.com/projectpotos/ansible-collection-potos.base/pull/104) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (4 days ago)
 - [chore: enable proxyjump feature in test script](https://github.com/adfinis/terraform-provider-bastion/pull/103) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
-- [fix: make sure modal cannot be viewed twice](https://github.com/adfinis/bbook/pull/63) on [adfinis/bbook](https://github.com/adfinis/bbook) (1 week ago)
-- [fix: pin images and update to php 8.5.13](https://github.com/shlinkio/shlink/pull/2704) on [shlinkio/shlink](https://github.com/shlinkio/shlink) (1 week ago)
-- [fix: set min version to 11](https://github.com/radiorabe/owncloud-theme-rabe/pull/2) on [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) (1 week ago)
 
 #### ⭐ Recent Stars
 
