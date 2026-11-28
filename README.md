@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (4 days ago)
-- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (4 days ago)
+- [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) - Everything potos needs to manage a fleet of linux clients in an ansible collection. (5 days ago)
+- [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) - Terraform/OpenTofu Provider for The Bastion (5 days ago)
 - [adfinis/bbook](https://github.com/adfinis/bbook) - Browse Zoho customer contacts and sync them to your mail client (1 week ago)
 - [radiorabe/owncloud-theme-rabe](https://github.com/radiorabe/owncloud-theme-rabe) - Theme for RaBe ownCloud (1 week ago)
 - [adfinis/timed](https://github.com/adfinis/timed) - Monorepo for the Timed time-tracking application (1 week ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [adfinis/timed](https://github.com/adfinis/timed) ([v5.25.0](https://github.com/adfinis/timed/releases/tag/v5.25.0), today) - Monorepo for the Timed time-tracking application
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([7.0.0](https://github.com/mogenius/renovate-operator/releases/tag/7.0.0), 2 days ago) - Operator to streamline renovate executions in Kubernetes
-- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.4.0](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.4.0), 4 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
+- [adfinis/timed](https://github.com/adfinis/timed) ([v5.25.0](https://github.com/adfinis/timed/releases/tag/v5.25.0), 1 day ago) - Monorepo for the Timed time-tracking application
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) ([7.0.0](https://github.com/mogenius/renovate-operator/releases/tag/7.0.0), 3 days ago) - Operator to streamline renovate executions in Kubernetes
+- [projectpotos/shellcheck-jinja](https://github.com/projectpotos/shellcheck-jinja) ([v0.4.0](https://github.com/projectpotos/shellcheck-jinja/releases/tag/v0.4.0), 5 days ago) - Render jinja2 templates with fixture data and lint them with shellcheck.
 - [robertdebock/ansible-role-openbao](https://github.com/robertdebock/ansible-role-openbao) ([3.2.0](https://github.com/robertdebock/ansible-role-openbao/releases/tag/3.2.0), 1 week ago) - Install OpenBao on your system.
 - [adfinis/bbook](https://github.com/adfinis/bbook) ([v0.7.1](https://github.com/adfinis/bbook/releases/tag/v0.7.1), 1 week ago) - Browse Zoho customer contacts and sync them to your mail client
 
 #### 🔨 My recent Pull Requests
 
-- [feat(roles): role to manage dnf and repos](https://github.com/projectpotos/ansible-collection-potos.roles/pull/72) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (today)
-- [fix: option to upgrade tooling explicitly](https://github.com/adfinis/ansible-role-the_bastion/pull/94) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (today)
-- [fix: setup-encryption.sh: reference the LUKS device by UUID](https://github.com/ovh/the-bastion/pull/715) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (today)
-- [chore: ruff doesnt like nested if](https://github.com/projectpotos/ansible-collection-potos.base/pull/104) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (4 days ago)
-- [chore: enable proxyjump feature in test script](https://github.com/adfinis/terraform-provider-bastion/pull/103) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (4 days ago)
+- [feat(roles): role to manage dnf and repos](https://github.com/projectpotos/ansible-collection-potos.roles/pull/72) on [projectpotos/ansible-collection-potos.roles](https://github.com/projectpotos/ansible-collection-potos.roles) (1 day ago)
+- [fix: option to upgrade tooling explicitly](https://github.com/adfinis/ansible-role-the_bastion/pull/94) on [adfinis/ansible-role-the_bastion](https://github.com/adfinis/ansible-role-the_bastion) (1 day ago)
+- [fix: setup-encryption.sh: reference the LUKS device by UUID](https://github.com/ovh/the-bastion/pull/715) on [ovh/the-bastion](https://github.com/ovh/the-bastion) (1 day ago)
+- [chore: ruff doesnt like nested if](https://github.com/projectpotos/ansible-collection-potos.base/pull/104) on [projectpotos/ansible-collection-potos.base](https://github.com/projectpotos/ansible-collection-potos.base) (5 days ago)
+- [chore: enable proxyjump feature in test script](https://github.com/adfinis/terraform-provider-bastion/pull/103) on [adfinis/terraform-provider-bastion](https://github.com/adfinis/terraform-provider-bastion) (5 days ago)
 
 #### ⭐ Recent Stars
 
